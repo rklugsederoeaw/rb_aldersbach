@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rechnungsbücher Kloster Aldersbach — Latein/Deutsch</title>
+    <style>
+        :root {
+            --bg: #faf8f5;
+            --text: #2c2416;
+            --accent: #8B4513;
+            --border: #d4c5a9;
+            --header-bg: #3c2f1e;
+            --header-text: #e8dcc8;
+            --latin-bg: #fff9f0;
+            --deutsch-bg: #f0f4f8;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.8;
+            height: 100vh;
+            overflow: hidden;
+        }
+        header {
+            background: var(--header-bg);
+            color: var(--header-text);
+            padding: 2rem 1rem;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 30;
+        }
+        header h1 { font-size: 1.8rem; font-weight: 400; letter-spacing: 0.05em; }
+        header p { font-size: 0.95rem; margin-top: 0.5rem; opacity: 0.8; }
+        .controls, .info, main { max-width: 1020px; margin-left: auto; margin-right: auto; padding: 0 1rem; }
+        .controls { margin-top: 1rem; display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center; position: sticky; top: 104px; z-index: 25; background: var(--bg); padding-top: 0.75rem; padding-bottom: 0.75rem; }
+        .controls input[type="text"], .controls select {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 1.02rem;
+            background: white;
+        }
+        .controls input[type="text"] { flex: 1; min-width: 220px; }
+        .controls label { font-size: 0.85rem; color: #666; }
+        .info { margin-top: 0.5rem; font-size: 0.85rem; color: #888; position: sticky; top: 166px; z-index: 20; background: var(--bg); padding-top: 0.35rem; padding-bottom: 0.5rem; }
+        main { margin-top: 1rem; height: calc(100vh - 220px); overflow-y: auto; padding-bottom: 4rem; }
+        .page-section { margin-bottom: 2rem; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+        .page-header { background: var(--header-bg); color: var(--header-text); padding: 0.5rem 1rem; font-size: 1.02rem; font-weight: 600; position: sticky; top: 0; z-index: 10; }
+        .parallel { display: grid; grid-template-columns: 1fr 1fr; }
+        .col { padding: 0.75rem 1rem; font-size: 1.02rem; }
+        .col-latin { background: var(--latin-bg); border-right: 1px solid var(--border); }
+        .col-deutsch { background: var(--deutsch-bg); }
+        .col-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: #999; margin-bottom: 0.3rem; }
+        .line-num { color: #bbb; font-size: 0.88rem; margin-right: 0.5em; user-select: none; }
+        .line { padding: 0.2rem 0; border-bottom: 1px solid rgba(0,0,0,0.03); }
+        .line:last-child { border-bottom: none; }
+        .highlight { background: #ffeaa7; border-radius: 2px; padding: 0 2px; }
+        @media (max-width: 700px) {
+            .parallel { grid-template-columns: 1fr; }
+            .col-latin { border-right: none; border-bottom: 1px solid var(--border); }
+            header h1 { font-size: 1.3rem; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rechnungsbücher des Zisterzienserklosters Aldersbach (15./16. Jh.)</h1>
+        <p id="subtitle">Laden…</p>
+    </header>
+
+    <div class="controls">
+        <label for="docSelect">Rechnungsbuch</label>
+        <select id="docSelect"></select>
+        <label for="scopeSelect">Suche</label>
+        <select id="scopeSelect">
+            <option value="current">im aktuellen Rechnungsbuch</option>
+            <option value="all">in allen Rechnungsbüchern</option>
+        </select>
+        <input type="text" id="search" placeholder="Volltextsuche (Latein + Deutsch)…">
+        <button id="clearSearch" type="button">Clear Search</button>
+    </div>
+
+    <div class="info" id="info">Laden…</div>
+    <main id="content"></main>
+
+    <script>
+    let MANIFEST = [];
+    let CACHE = new Map();
+    let CURRENT_DOC = '';
+    let SEARCH_TERM = '';
+    let SEARCH_SCOPE = 'current';
+
+    async function fetchJson(path) {
+        const sep = path.includes('?') ? '&' : '?';
+        const resp = await fetch(`${path}${sep}v=20260408c`);
+        if (!resp.ok) throw new Error(`Fetch failed: ${path}`);
+        return await resp.json();
+    }
+
+    async function loadDocument(docName) {
+        if (CACHE.has(docName)) return CACHE.get(docName);
+        const data = await fetchJson(`data/${docName}.json`);
+        CACHE.set(docName, data);
+        return data;
+    }
+
+    async function loadAllSelectedDocs() {
+        if (SEARCH_SCOPE === 'current') {
+            return await loadDocument(CURRENT_DOC);
+        }
+        const chunks = await Promise.all(MANIFEST.map(doc => loadDocument(doc).catch(() => [])));
+        return chunks.flat();
+    }
+
+    function updateSubtitle() {
+        document.getElementById('subtitle').textContent = `${CURRENT_DOC} — KI-gestützte automatisierte Übersetzung Latein → Deutsch`;
+    }
+
+    function setupControls() {
+        const docSelect = document.getElementById('docSelect');
+        docSelect.innerHTML = MANIFEST.map(doc => `<option value="${escapeHtml(doc)}">${escapeHtml(doc)}</option>`).join('');
+        docSelect.value = CURRENT_DOC;
+        docSelect.addEventListener('change', async e => {
+            CURRENT_DOC = e.target.value;
+            updateSubtitle();
+            await render();
+        });
+
+        document.getElementById('scopeSelect').addEventListener('change', async e => {
+            SEARCH_SCOPE = e.target.value;
+            await render();
+        });
+
+        document.getElementById('search').addEventListener('input', async e => {
+            SEARCH_TERM = e.target.value.trim();
+            await render();
+        });
+
+        document.getElementById('clearSearch').addEventListener('click', async () => {
+            SEARCH_TERM = '';
+            SEARCH_SCOPE = 'current';
+            document.getElementById('search').value = '';
+            document.getElementById('scopeSelect').value = 'current';
+            await render();
+        });
+    }
+
+    async function render() {
+        const content = document.getElementById('content');
+        let data;
+        try {
+            data = await loadAllSelectedDocs();
+        } catch (err) {
+            document.getElementById('info').textContent = 'Rechnungsbuch steht noch nicht zur Verfügung';
+            content.innerHTML = '';
+            return;
+        }
+        const filtered = searchFilter(data);
+        const totalLines = filtered.reduce((s, p) => s + p.lines.length, 0);
+        const translated = filtered.reduce((s, p) => s + p.lines.filter(l => l.translation).length, 0);
+        const pct = totalLines > 0 ? Math.round(translated / totalLines * 100) : 0;
+        document.getElementById('info').textContent = `${filtered.length} Seiten · ${totalLines} Zeilen · ${translated} übersetzt (${pct}%)`;
+
+        if (filtered.length === 0) {
+            content.innerHTML = '<p style="text-align:center;color:#999;margin:2rem 0">Keine Ergebnisse</p>';
+            return;
+        }
+
+        content.innerHTML = filtered.map(page => {
+            const linesHtml = page.lines.map((line, i) => `<div class="line"><span class="line-num">${i + 1}</span>${highlight(escapeHtml(line.latin || ''))}</div>`).join('');
+            const transHtml = page.lines.map((line, i) => {
+                const deu = line.translation ? formatTranslation(line.translation) : '<em>nicht übersetzt</em>';
+                return `<div class="line"><span class="line-num">${i + 1}</span>${deu}</div>`;
+            }).join('');
+            return `<div class="page-section">
+                <div class="page-header">${escapeHtml(String(page.document || 'Unbekannt'))} — Seite ${escapeHtml(String(page.page_nr || page.page || ''))}</div>
+                <div class="parallel">
+                    <div class="col col-latin"><div class="col-label">Latein</div>${linesHtml}</div>
+                    <div class="col col-deutsch"><div class="col-label">Deutsch</div>${transHtml}</div>
+                </div>
+            </div>`;
+        }).join('');
+    }
+
+    function searchFilter(data) {
+        if (!SEARCH_TERM) return data;
+        const term = SEARCH_TERM.toLowerCase();
+        return data.filter(p => p.lines.some(l =>
+            (l.latin || '').toLowerCase().includes(term) ||
+            ((l.translation || '').toLowerCase().includes(term))
+        ));
+    }
+
+    function formatTranslation(text) {
+        const raw = escapeHtml(text);
+        const withHeading = raw.replace(/^\[ÜBERSCHRIFT\]\s*/i, '<strong>').replace(/\[ÜBERSCHRIFT\]\s*/gi, '');
+        return highlight(withHeading.includes('<strong>') && !withHeading.includes('</strong>') ? withHeading + '</strong>' : withHeading);
+    }
+
+    function highlight(text) {
+        if (!SEARCH_TERM) return text;
+        const regex = new RegExp(`(${SEARCH_TERM.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        return text.replace(regex, '<span class="highlight">$1</span>');
+    }
+
+    function escapeHtml(s) {
+        return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+
+    async function init() {
+        const manifest = await fetchJson('manifest.json');
+        MANIFEST = manifest.documents || [];
+        CURRENT_DOC = MANIFEST.includes('D-MBayHStA_KAAA_399_R1528-35') ? 'D-MBayHStA_KAAA_399_R1528-35' : (MANIFEST[0] || '');
+        updateSubtitle();
+        setupControls();
+        await render();
+    }
+
+    init();
+    </script>
+</body>
+</html>
