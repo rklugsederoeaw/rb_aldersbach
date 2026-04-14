@@ -14,7 +14,7 @@
       },
       {
         "latin": "praxator et pellifex dat annuatim circa festum michaelis x f. Rhen.",
-        "translation": "Praktiker und Kürschner gibt jährlich um das Fest Michaelis x f. Rhen."
+        "translation": "Händler und Kürschner gibt jährlich um das Fest Michaelis x f. Rhen."
       },
       {
         "latin": "daran get ab xx s. d. weisser munß In oblai und iii d. gruntrecht",
@@ -26,7 +26,7 @@
       },
       {
         "latin": "dedit per filium suum leonardum",
-        "translation": "dt durch seinen Sohn Leonardum"
+        "translation": "gegeben durch seinen Sohn Leonardum"
       },
       {
         "latin": "d. 2a feria post michaelis",
@@ -53,7 +53,7 @@
       },
       {
         "latin": "Item Recepimus a granatore umb drey kubel tritici iii s. xiii d.",
-        "translation": "Ebenfalls haben wir eingenommen vom Kornspeicher für drei Kübel Weizen iii s. xiii d."
+        "translation": "Ebenfalls haben wir eingenommen vom Kornmesser für drei Kübel Weizen iii s. xiii d."
       },
       {
         "latin": "Item Recepimus a pistore de Walchsing pro una scaffa tritici iii lb. xxx d.",
@@ -116,7 +116,7 @@
       },
       {
         "latin": "mer von Im Eingenomen umb ain lagel wein xv s. d.",
-        "translation": "mehr von Im Eingenommen für ein Lagel Wein xv s. d."
+        "translation": "Ebenfalls von ihm eingenommen für ein Lagel Wein xv s. d."
       },
       {
         "latin": "Item Recepimus a magistro lazaro In vino a nobis empto videlicet",
@@ -144,7 +144,7 @@
       },
       {
         "latin": "Item Recepimus a nemair de Weng pro xi emer minus i virtel oster",
-        "translation": "Ebenfalls empfangen vom Nemair von Weng für xi Emer minus i Viertel Oster-"
+        "translation": "Ebenfalls empfangen vom Nemair aus Weng für xi emer minus i Viertel Oster."
       },
       {
         "latin": "wein ad nupcias suas xiiii lb. vi s. d. xi lb. v s. d.",
@@ -156,15 +156,15 @@
       },
       {
         "latin": "Recepimus a granatore pro Sale vendito",
-        "translation": "Wir erhielten vom Getreideverwalter für verkauften Salz"
+        "translation": "Wir erhielten vom Getreideverwalter für verkauftes Salz"
       },
       {
         "latin": "Item Recepimus a granatore pro sale vendito marie magdalene vi s. xx d.",
-        "translation": "Ebenfalls wir erhielten vom Getreideverwalter für verkauften Salz am Maria Magdalena vi s. xx d."
+        "translation": "Ebenfalls erhielten wir vom Getreideverwalter für verkauftes Salz am Maria Magdalena vi s. xx d."
       },
       {
         "latin": "Item Recepimus pro sale vendito 2a feria post Invocavit xv s. d.",
-        "translation": "Ebenfalls wir erhielten für verkauften Salz am zweiten Tag nach Invocavit xv s. d."
+        "translation": "Ebenfalls erhielten wir für verkauftes Salz am zweiten Tag nach Invocavit xv s. d."
       },
       {
         "latin": "2 lb. 5 s. 20 d.",
@@ -227,7 +227,7 @@
       },
       {
         "latin": "dedit mer i p ain pelcz",
-        "translation": "dt gab er für Pelzwerk i p einen Pelz"
+        "translation": "gab er i p. einen Pelz"
       },
       {
         "latin": "für i lb. d. und viii tag",
@@ -295,7 +295,7 @@
       },
       {
         "latin": "18 lb. vii s. x d.",
-        "translation": "[Glosse:] xviii lb. vii s. x d."
+        "translation": "18 lb. vii s. x d."
       },
       {
         "latin": "Recepimus de diversis obventionibus a rusticis nostris videlicet",
@@ -333,7 +333,7 @@
     "lines": [
       {
         "latin": "Conduccio familie Anno 6to",
-        "translation": "Haushaltsführung im Jahr 6ten"
+        "translation": "Haushaltsführung der Familie im 6. Jahr"
       },
       {
         "latin": "Piscator iiii lb. d.",
@@ -361,7 +361,7 @@
       },
       {
         "latin": "Praxator iii lb. vi s. d.",
-        "translation": "Bäcker iii lb. vi s. d."
+        "translation": "Praxator iii lb. vi s. d."
       },
       {
         "latin": "Idem habet ii lb. d. ipso die sancti ypoliti",
@@ -417,7 +417,7 @@
       },
       {
         "latin": "Idem habet iiii s. in die ypoliti mer i lb. dominica oculi et sic solutus est",
-        "translation": "Derselbe hat iiii s. am Tag des Hypolitus, am Sonntag Oculi mer i lb. und so ist er ausbezahlt"
+        "translation": "Derselbe hat iiii s. am Tag des Hippolyt, auch i lb. am Sonntag Oculi, und ist damit ausbezahlt"
       },
       {
         "latin": "Idem habet ad annum futurum iii s. d.",
@@ -437,7 +437,7 @@
       },
       {
         "latin": "mer habet in die agathe per cellerarium iiii s. d.",
-        "translation": "mer hat am Tag der Agatha durch den Kellermeister iiii s. d."
+        "translation": "Ebenfalls hat er am Tag der Agatha durch den Kellermeister iiii s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -452,7 +452,7 @@
     "lines": [
       {
         "latin": "Conduccio familie Anno 6to",
-        "translation": "[ÜBERSCHRIFT] Verpflegung der Klostergemeinschaft im 6. Jahr"
+        "translation": "[ÜBERSCHRIFT] Versorgung der Familie im 6. Jahr"
       },
       {
         "latin": "Tertius colanus Wilhalm Wolfgangus iii lb. xxx iiij̸ s. d.",
@@ -571,7 +571,7 @@
     "lines": [
       {
         "latin": "Conduccio familie Anno 6to",
-        "translation": "Anwerbung der Dienerschaft im Jahr 6to"
+        "translation": "Anstellung der Dienerschaft im Jahr 6to"
       },
       {
         "latin": "Stadler wolfgannus xv s. d.",
@@ -635,15 +635,15 @@
       },
       {
         "latin": "Cocus colanorum primus xx s. d.",
-        "translation": "Der erste Koch der Kolanen xx s. d."
+        "translation": "Der erste Koch der Pächter xx s. d."
       },
       {
         "latin": "solutus est totaliter dominica Oculi",
-        "translation": "[Glosse] vollständig bezahlt am Sonntag Oculi"
+        "translation": "vollständig bezahlt am Sonntag Oculi"
       },
       {
         "latin": "Subcocus puttentrager liendel xviii s. d.",
-        "translation": "Unterkoch, Putzenträger, Leintuch xviii s. d."
+        "translation": "Unterkoch Puttengeträger Liendel xviii s. d."
       },
       {
         "latin": "Idem habet In die ascensionis iiii s. d.",
@@ -698,7 +698,7 @@
       },
       {
         "latin": "mer vi s. d. in die agathe per cellerarium",
-        "translation": "Wein vi s. d. am Tag der heiligen Agatha durch den Kellermeister"
+        "translation": "Ebenfalls vi s. d. am Tag der heiligen Agatha durch den Kellermeister"
       },
       {
         "latin": "solutus est totaliter In die agathe ut computatum est",
@@ -753,7 +753,7 @@
       },
       {
         "latin": "Swaigerin xv s. d.",
-        "translation": "Der Swaigerin xv s. d."
+        "translation": "Swaigerin xv s. d."
       },
       {
         "latin": "soluta est In vigilia annunccionis marie virginis",
@@ -777,11 +777,11 @@
       },
       {
         "latin": "die dritt diern x s. d.",
-        "translation": "am dritten Tag x s. d."
+        "translation": "der dritten Magd x s. d."
       },
       {
         "latin": "soluta est eodem die",
-        "translation": "bezahlt ist am selben Tag"
+        "translation": "ist bezahlt worden am selben Tag"
       },
       {
         "latin": "Schäffler Wellner ii f.",
@@ -871,11 +871,11 @@
       },
       {
         "latin": "labores in wacculo pastorali et infula xv f. Rhen. viiii kr.",
-        "translation": "Arbeiten am Hirtenstab und der Inful xv f. Rhen. viiii kr."
+        "translation": "Arbeiten am Hirtenstab und an der Infula xv f. Rhen. viiii kr."
       },
       {
         "latin": "Item dedimus pro uno annulo aureo iiii f. Rhen. mer vi f. Rhen.",
-        "translation": "Ebenfalls gaben wir für einen goldenen Ring iiii f. Rhen. [Glosse] mer vi f. Rhen."
+        "translation": "Ebenfalls gaben wir für einen goldenen Ring iiii f. Rhen. mer vi f. Rhen."
       },
       {
         "latin": "Schinagel pro annuolo ad nurenbergam",
@@ -903,11 +903,11 @@
       },
       {
         "latin": "Item mer dedimus ad reformandum antiqua fenestra in monasterio ii f. Rhen.",
-        "translation": "Ebenfalls gaben wir mehr zur Wiederherstellung alter Fenster im Kloster ii f. Rhen."
+        "translation": "Ebenfalls gaben wir zur Wiederherstellung alter Fenster im Kloster ii f. Rhen."
       },
       {
         "latin": "6ta feria post Elizabeth mer xxiiii d. umb scheiben",
-        "translation": "Am 6. Freitag nach Elisabeth mehr xxiiii d. für Scheiben"
+        "translation": "Am 6. Freitag nach Elisabeth ebenfalls xxiiii d. für Scheiben"
       },
       {
         "latin": "Item mer patavie pictori von ainem gatter anzestreichen geben ij̸ f.",
@@ -954,7 +954,7 @@
       },
       {
         "latin": "v d. macht i lb. v d.",
-        "translation": "v d. ergibt i lb. v d."
+        "translation": "v d. macht i lb. v d."
       },
       {
         "latin": "Item umb schuech So er auß seinem leder gemacht",
@@ -962,15 +962,15 @@
       },
       {
         "latin": "hat und umb iii fel v s. xx d.",
-        "translation": "und für iii Felle v s. xx d."
+        "translation": "und um iii Felle v s. xx d."
       },
       {
         "latin": "Item umb xv kubel zwifel xv s. d.",
-        "translation": "Ebenfalls für xv Kübel Zwiebeln xv s. d."
+        "translation": "Ebenfalls um xv Kübel Zwiebeln xv s. d."
       },
       {
         "latin": "Item umb ain kue iii f. Rhen.",
-        "translation": "Ebenfalls für eine Kuh iii f. Rhen."
+        "translation": "Ebenfalls um eine Kuh iii f. Rhen."
       },
       {
         "latin": "Summa 6 lb. 55 d.",
@@ -978,7 +978,7 @@
       },
       {
         "latin": "Daran hat er empfanngen von erst iiii f. Rhen.",
-        "translation": "Daran hat er empfangen zuerst iiii f. Rhen."
+        "translation": "Daran hat er von erst iiii f. Rhen empfangen."
       },
       {
         "latin": "Im gelihen",
@@ -990,7 +990,7 @@
       },
       {
         "latin": "vi d. und umb pier iii s. d.",
-        "translation": "vi d. und für Bier iii s. d."
+        "translation": "vi d. und um Bier iii s. d."
       },
       {
         "latin": "Item ain fueder graymat darfür vi s. d.",
@@ -998,7 +998,7 @@
       },
       {
         "latin": "Item umb x schöber hew x s. d.",
-        "translation": "Ebenfalls für x Schober Heu x s. d."
+        "translation": "Ebenfalls um x Schober Heu x s. d."
       },
       {
         "latin": "Summa 6 lb. 6 s. vi d.",
@@ -1010,11 +1010,11 @@
       },
       {
         "latin": "xxvi hewt per v s. v d. und",
-        "translation": "xxvi Häute zu v s. v d. und"
+        "translation": "xxvi Häute per v s. v d. und"
       },
       {
         "latin": "xxii kalbfell per xv d. facit xviii",
-        "translation": "xxii Kalbfelle zu xv d., ergibt xviii"
+        "translation": "xxii Kalbfelle per xv d. facit xviii"
       },
       {
         "latin": "lb. xl d.",
@@ -1022,7 +1022,7 @@
       },
       {
         "latin": "Item dedimus cerdoni de laboribus suis ii lb.",
-        "translation": "Ebenfalls gaben wir dem cerdoni für seine Arbeiten ii lb."
+        "translation": "Ebenfalls gaben wir dem Handwerker für seine Arbeiten ii lb."
       },
       {
         "latin": "xl d.",
@@ -1052,15 +1052,15 @@
       },
       {
         "latin": "Cerdoni nostro",
-        "translation": "Unserem Schuster"
+        "translation": "Unserem Handwerker"
       },
       {
         "latin": "Item dedimus cerdoni de Vilshofen pro laboribus suis ad monasterium In cuttibus",
-        "translation": "Ebenfalls gaben wir unserem Schuster von Vilshofen für seine Arbeiten am Kloster beim Gerben"
+        "translation": "Ebenfalls gaben wir dem Handwerker von Vilshofen für seine Arbeiten am Kloster beim Gerben"
       },
       {
         "latin": "animalium coriando factis ad duos annos ii lb. xl d.",
-        "translation": "der Häute von Tieren, ausgeführt über zwei Jahre ii lb. xl d."
+        "translation": "der Häute von Tieren, ausgeführt über zwei Jahre, ii lb. xl d."
       },
       {
         "latin": "Item Cerdoni de arennstorff per cellerarium de cuttibus iii s. v d.",
@@ -1072,7 +1072,7 @@
       },
       {
         "latin": "Calceatori nostro",
-        "translation": "Unserem Schuhmacher"
+        "translation": "unserem Schuster"
       },
       {
         "latin": "Item computavimus cum calceatori nostro de Weng 6ta feria post Reminiscere et",
@@ -1088,7 +1088,7 @@
       },
       {
         "latin": "Funifici nostro",
-        "translation": "Unserem Räucherer"
+        "translation": "Unserem Rauchmacher"
       },
       {
         "latin": "Item dedimus funifici nostro de eckelhaim Sabbato post leonardi per cellerarium",
@@ -1096,7 +1096,7 @@
       },
       {
         "latin": "v s. x d. Mer de canapo vii s. d. iterum duodecim dies per",
-        "translation": "v s. x d. Mer für Hanf vii s. d. wiederum zwölf Tage per"
+        "translation": "v s. x d. Ebenfalls für Hanf vii s. d. wiederum zwölf Tage per"
       },
       {
         "latin": "per xv d. facit vi s. d.",
@@ -1108,7 +1108,7 @@
       },
       {
         "latin": "Currifici nostro",
-        "translation": "Unserem Räucherer"
+        "translation": "unserem Karrenmacher"
       },
       {
         "latin": "Item dedimus matheo wagner de Carling umb zway karren Rat und ain ägkss lxv d.",
@@ -1116,7 +1116,7 @@
       },
       {
         "latin": "Item mer Currifici dominica Prima adventus pro una Rota und ain schall",
-        "translation": "Ebenfalls dem Räucherer am ersten Adventssonntag für ein Rad und eine Schale"
+        "translation": "Ebenfalls dem Karrenmacher am ersten Adventssonntag für ein Rad und eine Schale"
       },
       {
         "latin": "geben .l.",
@@ -1128,7 +1128,7 @@
       },
       {
         "latin": "mer x d. mer lv d.",
-        "translation": "mehr x d. mehr lv d."
+        "translation": "ebenfalls x d. ebenfalls lv d."
       },
       {
         "latin": "2 lb. 6 s. 10 d.",
@@ -1167,7 +1167,7 @@
       },
       {
         "latin": "una Sera xxxij̸ d.",
-        "translation": "eine Querbalken xxxij̸ d."
+        "translation": "ein Schloss xxxij̸ d."
       },
       {
         "latin": "5 lb. 85 d. i hall.",
@@ -1175,7 +1175,7 @@
       },
       {
         "latin": "Lutifigulo nostro de Höllnöd vi f. Rhen.",
-        "translation": "Unserem Leimsieder von Höllnöd vi f. Rhen."
+        "translation": "Unserem Zinngießer von Höllnöd vi f. Rhen."
       },
       {
         "latin": "Idem habet in censu suo annuali iii lb. d. et in promta pecunia iiii s. d. In",
@@ -1203,11 +1203,11 @@
       },
       {
         "latin": "Scriniatori nostro Weiss",
-        "translation": "Unserem Schreinerschreiber Weiß"
+        "translation": "Unserem Schatullierer Weiss"
       },
       {
         "latin": "Item dedimus scriniatori Weiß Sabatho ante vocem Iocunditatis xviiii tag per",
-        "translation": "Ebenfalls gaben wir dem Schreiber Weiß am Samstag vor Vocem Iocunditatis xviiii Tage zu"
+        "translation": "Ebenfalls gaben wir dem Schatullierer Weiss am Samstag vor Vocem Iocunditatis xviiii Tage."
       },
       {
         "latin": "xviii d. facit xi s. xii d. mer ii tag darnach geben xxxvi d.",
@@ -1227,7 +1227,7 @@
       },
       {
         "latin": "Item dedimus weiss scriniatori per cellerarium ii lb. iiii s. d. xviiii d.",
-        "translation": "Ebenfalls gaben wir dem weißen Schreinmacher durch den Kellermeister ii lb. iiii s. d. xviiii d."
+        "translation": "Ebenfalls gaben wir dem Schatullierer Weiß durch den Kellermeister ii lb. iiii s. d. xviiii d."
       },
       {
         "latin": "Item dedimus weiss 4ta feria ante Elizabeth iii tag per xviii d. facit",
@@ -1243,7 +1243,7 @@
       },
       {
         "latin": "Item mer Scriniatori Sabbato ante oculi et Sabbato ante letare x tag per xviii d. facit",
-        "translation": "Ebenfalls mehr dem Schreinmeister am Samstag vor Oculi und Samstag vor Lätare x Tage zu xviii d. ergibt"
+        "translation": "Ebenfalls mehr dem Schatullierer am Samstag vor Oculi und am Samstag vor Lætare x Tage zu xviii d. ergibt."
       },
       {
         "latin": "vi s. d. Mer In vigilia pasche xxvii d. mer lxxxi d. iiiij̸ tag",
@@ -1251,7 +1251,7 @@
       },
       {
         "latin": "9 lb. 4 s. 10 d.",
-        "translation": "ix lb. iv s. x d."
+        "translation": "9 lb. 4 s. 10 d."
       }
     ]
   },
@@ -1294,7 +1294,7 @@
       },
       {
         "latin": "Item mer Carpentariis viii tag per x d. facit lxxx d.",
-        "translation": "Ebenfalls Lohn den Zimmerleuten viii Tage zu x d. ergibt lxxx d."
+        "translation": "Ebenfalls den Zimmerleuten viii Tage zu x d. ergibt lxxx d."
       },
       {
         "latin": "Item Carpentariis In vigilia nuncciacionis marie xxiiii tag per xii d.",
@@ -1306,7 +1306,7 @@
       },
       {
         "latin": "Item dedimus mer Carpentariis pasche et famulis suis iiii lb. vi s. xxiiii d.",
-        "translation": "Ebenfalls gaben wir Lohn den Zimmerleuten zu Ostern und ihren Knechten iiii lb. vi s. xxiiii d."
+        "translation": "Ebenfalls gaben wir den Zimmerleuten zu Ostern und ihren Knechten iiii lb. vi s. xxiiii d."
       },
       {
         "latin": "21 lb. 4 s. 27 d.",
@@ -1330,7 +1330,7 @@
       },
       {
         "latin": "Item mer dedimus Muratoribus v lb. vii s. xvi d. pasche",
-        "translation": "Ebenfalls gaben wir ferner den Maurern v lb. vii s. xvi d. zu Ostern"
+        "translation": "Ebenfalls gaben wir den Maurern v lb. vii s. xvi d. zu Ostern"
       },
       {
         "latin": "13 lb. 6 s. 23 d.",
@@ -1353,7 +1353,7 @@
       },
       {
         "latin": "Item dedimus ad portandum lateres ad fornacem et de fornace georgii iii s. xxii d.",
-        "translation": "Ebenfalls gaben wir für das Tragen von Ziegeln zum Ofen und vom Ofen iii s. xxii d."
+        "translation": "Ebenfalls gaben wir für das Tragen von Ziegeln zum Ofen und vom Ofen Georgii iii s. xxii d."
       },
       {
         "latin": "Item dedimus magistro latrificum xii dies per xii d. una cum noctibus facit",
@@ -1369,7 +1369,7 @@
       },
       {
         "latin": "12 s. 4 d.",
-        "translation": "12 s. 4 d. [Glosse]"
+        "translation": "12 s. 4 d."
       },
       {
         "latin": "Dedimus pro calce tegulis combustis asseribus et aliis necessariis",
@@ -1389,7 +1389,7 @@
       },
       {
         "latin": "mer per priorem vii f. Rhen. mer per cellerarium vii f. Rhen.",
-        "translation": "Waren durch den Prior vii f. Rhen. Waren durch den Cellerar vii f. Rhen."
+        "translation": "Ebenfalls durch den Prior vii f. Rhen. Ebenfalls durch den Cellerar vii f. Rhen."
       },
       {
         "latin": "24 lb. 7 s. 15 d.",
@@ -1442,7 +1442,7 @@
       },
       {
         "latin": "valzac 2 f.",
-        "translation": "Fuhrlohn 2 f."
+        "translation": "valzac 2 f."
       },
       {
         "latin": "prior dedit lx f. Rhen.",
@@ -1454,7 +1454,7 @@
       },
       {
         "latin": "Item dedimus Hattenhamer Naute de xvi ternariis vini australis quos adduxit",
-        "translation": "Ebenfalls gaben wir dem Hattenhamer Nauta für xvi Fuder südländischen Weins, die er herbeiführte"
+        "translation": "Ebenfalls gaben wir dem Hattenhamer Nauta xvi ternarii südländischen Weins, die er herbeiführte."
       },
       {
         "latin": "nobis pro solario suo lxxx f. Rhen. facit lxx lb. d.",
@@ -1466,11 +1466,11 @@
       },
       {
         "latin": "Item consumpsimus nos et collector vinearum una cum famulis nostris descendendo et",
-        "translation": "Ebenfalls verbrauchten wir, ich und der Weinleser, zusammen mit unseren Knechten beim Hinab-"
+        "translation": "Ebenfalls verbrauchten wir und der Weinleser, zusammen mit unseren Knechten beim Hinab-"
       },
       {
         "latin": "ascendendo pro colleccione uvarum et singula perspiciendo et antiqua debita exolvendo",
-        "translation": "und Hinaufsteigen für die Weinlese und alles Besichtigen und alte Schulden Begleichen"
+        "translation": "und beim Aufsteigen für die Sammlung der Trauben, das Einzelne prüfend und alte Schulden begleichend"
       },
       {
         "latin": "et illustrando ut patet in computacione facta facit iC xlvi f. Rhen. vi s. vi d.",
@@ -1486,7 +1486,7 @@
       },
       {
         "latin": "Dedimus pro botis et caseis pro mutuariis ad partes austrie",
-        "translation": "Wir gaben für Stiefel und Käse für die Entleiher nach Österreich"
+        "translation": "Wir gaben für Bottiche und Käse für die Mautner nach Österreich"
       },
       {
         "latin": "Item dedimus piliatori de Vilshofen pro iiii paribus botorum vi s. d.",
@@ -1525,7 +1525,7 @@
       },
       {
         "latin": "xviiii urnas urnam per x s. d. facit xxiii lb. vi s. d. solutus est totaliter",
-        "translation": "xviiii Urnen, die Urne zu x s. d., ergibt xxiii lb. vi s. d., ist vollständig bezahlt"
+        "translation": "xviiii Urnen, je urnam per x s. d., macht xxiii lb. vi s. d., ist vollständig bezahlt"
       },
       {
         "latin": "Item Emimus ab alexio de aytnpach unum vass vini australis antiqui continens",
@@ -1569,11 +1569,11 @@
       },
       {
         "latin": "v s. d. laut ainem zetel dem alexen geben solutus est totaliter per cellerarium",
-        "translation": "v s. d. laut einem Zettel dem Alexen zu geben, ist vollständig gelöst durch den Kellermeister"
+        "translation": "v s. d. laut einem Zettel dem Alexen zu geben, ist vollständig bezahlt durch den Kellermeister"
       },
       {
         "latin": "et priorem prior dedit 35 f. Rhen. aliam Summam cellerarius",
-        "translation": "und der Prior, der Prior gab 35 f. Rhen. eine andere Summe, der Kellermeister"
+        "translation": "und der Prior gab zuvor 35 f. Rhen. eine andere Summe, der Kellermeister"
       },
       {
         "latin": "Item mer von Im kaufft zway vaß auff die äm haben bei xxii Emer",
@@ -1672,7 +1672,7 @@
       },
       {
         "latin": "centenarium pro iiii f. Rhen. facit xii f. Rhen. expediunt pater prior de peccunia domini",
-        "translation": "Hundertpfund für iiii f. Rhen. ergibt xii f. Rhen. bestreitet Vater Prior aus dem Geld des Herrn"
+        "translation": "Centenarium für iiii f. Rhen. ergibt xii f. Rhen.; der Prior verwendet das Geld des Herrn."
       },
       {
         "latin": "Item dedimus per cellerarium In absencia nostra pro piscibus et cancris",
@@ -1720,7 +1720,7 @@
       },
       {
         "latin": "Martini adveniente domino",
-        "translation": "Als der Herr Martini herannahte"
+        "translation": "Bei Ankunft des Herrn Martini."
       },
       {
         "latin": "Item piscatori de Schönerting pro piscibus vii s. x d.",
@@ -1863,7 +1863,7 @@
       },
       {
         "latin": "Dedimus pro speciebus incausti et papiro et cera",
-        "translation": "Wir gaben für Gewürze zum Enkaustikum und Papier und Wachs"
+        "translation": "Wir gaben für Malzubehör und Papier und Wachs"
       },
       {
         "latin": "Item ii libras vittriöl umb xx d. mer xxi d.",
@@ -1890,7 +1890,7 @@
       },
       {
         "latin": "Dedimus pro cultellis piretis ocularibus cingulis botis",
-        "translation": "Wir gaben für Birnbaum-Messer, Augengläser, Gürtel, Stiefel"
+        "translation": "Wir gaben für kleine Messer, Birette, Brillen, Gürtel, Stiefel"
       },
       {
         "latin": "pileis et aliis necessariis pro fratribus",
@@ -1910,7 +1910,7 @@
       },
       {
         "latin": "2 lb. 7 s. 21 d.",
-        "translation": "2 lb. 7 s. 21 d. [Glosse]"
+        "translation": "2 lb. 7 s. 21 d."
       },
       {
         "latin": "Diverse expense hoc anno facte",
@@ -1926,7 +1926,7 @@
       },
       {
         "latin": "sibi iii f. Rhen. mer i lb. d. de fecturis",
-        "translation": "ihm iii f. Rhen. mehr i lb. d. für die Fahrten"
+        "translation": "ihm iii f. Rhen. ebenfalls i lb. d. für die Fahrten"
       },
       {
         "latin": "4 lb. 5 s. vi d.",
@@ -1946,7 +1946,7 @@
       },
       {
         "latin": "et ad purgkhausen xii d.",
-        "translation": "und nach Purgkhausen xii d."
+        "translation": "und zu Purgkhausen xii d."
       },
       {
         "latin": "Solutus est totaliter 3a feria post misericordia domini videlicet viii lb. xv d.",
@@ -1974,7 +1974,7 @@
       },
       {
         "latin": "una cum litteris mer v lb. d. et xl d. portulano / officiali vii s. d.",
-        "translation": "zusammen mit Briefen mehr v lb. d. und xl d. dem Torwärter / Amtmann vii s. d."
+        "translation": "zusammen mit Briefen ebenfalls v lb. d. und xl d. dem Torwärter / Amtmann vii s. d."
       },
       {
         "latin": "pro sumptibus 5ta feria ante philippi et Jacobi anni 7mi",
@@ -2001,7 +2001,7 @@
       },
       {
         "latin": "Item dedimus umb Scharnegel ii f. Rhen.",
-        "translation": "Ebenfalls gaben wir für Scharnagel ii f. Rhen."
+        "translation": "Ebenfalls gaben wir um Scharnegel ii f. Rhen."
       },
       {
         "latin": "2 lb. 20 20 d.",
@@ -2013,7 +2013,7 @@
       },
       {
         "latin": "dedimus et concessimus Weindel schmid super ferrum viii f. Rhen. in die ascensionis",
-        "translation": "wir gaben und überließen dem Schmied Weindel für Eisen viii f. Rhen. am Tag der Himmelfahrt"
+        "translation": "Wir gaben und überließen Weindelschmid für Eisen viii f. Rhen. am Tag der Himmelfahrt"
       },
       {
         "latin": "daran geben zwo pürt eyssen zwen wagen Sun zwo werchschin und ain Trum",
@@ -2021,7 +2021,7 @@
       },
       {
         "latin": "mer ii purt eyssen viii libras Stahel xx loymisch Schin und iM",
-        "translation": "ferner ii Bürden Eisen viii libras Stahl xx loimische Schienen und iM"
+        "translation": "Mehr ii Bürden Eisen viii libras Stahl xx loymisch Schin und iM"
       },
       {
         "latin": "scharnegel",
@@ -2033,7 +2033,7 @@
       },
       {
         "latin": "et dedimus sibi pro ferro calibe et clavibus xi f. Rhen.",
-        "translation": "und gaben ihm für Eisen, Werkzeug und Schlösser xi f. Rhen."
+        "translation": "und gaben ihm für Eisen, Stahl und Schlüssel xi f. Rhen."
       },
       {
         "latin": "lxxviii d. et sic solvit debitum suum et solutus est totaliter",
@@ -2072,7 +2072,7 @@
       },
       {
         "latin": "Item dedimus umb vier pierpawmäne Scheitter zue der dherr und umb Aign stecken",
-        "translation": "Ebenfalls gaben wir für vier Birnbaum-Scheiter zur Tür und für Eichenstecken"
+        "translation": "Ebenfalls gaben wir für vier Birnbaum-Scheiter zur Tür und für Stecken aus Aign"
       },
       {
         "latin": "ii f. xxv d.",
@@ -2107,7 +2107,7 @@
       },
       {
         "latin": "mer ex parte unius littere et sumptuum iii s. xx d.",
-        "translation": "für Ware im Wert eines Briefes und Ausgaben iii s. xx d."
+        "translation": "Ebenfalls aus einem Brief und Ausgaben iii s. xx d."
       },
       {
         "latin": "Item dedimus petro fenpeckhen de pladling pro Straminibus ad tectum domus",
@@ -2154,7 +2154,7 @@
       },
       {
         "latin": "de una scaffa xxxiiii d. facit xvii s. d. x d. bibales Johannis ante latinam portam",
-        "translation": "von einem Scheffel xxxiiii d. ergibt xvii s. d. x d. Trinkgeld des Johannes vor dem lateinischen Tor"
+        "translation": "von einem Scheffel xxxiiii d. ergibt xvii s. d. x d. bibales Johannis vor dem lateinischen Tor"
       },
       {
         "latin": "Item In die Johannis Waptiste dedimus tritulatoribus stockel cum sociis",
@@ -2178,7 +2178,7 @@
       },
       {
         "latin": "Item dedimus Caspar hafer cum sociis suis de octo scaff. per xxviii d.",
-        "translation": "Ebenfalls gaben wir Caspar Hafer mit seinen Gefährten von acht Schaff xxi d."
+        "translation": "Ebenfalls gaben wir Caspar Hafer mit seinen Gefährten von acht Scheffeln zu xxviii d."
       },
       {
         "latin": "facit vii s. xiiii d.",
@@ -2202,7 +2202,7 @@
       },
       {
         "latin": "facit i lb. xii d. mer viij̸ sch. 4ta feria post palmarum geben viij̸ s. d.",
-        "translation": "ergibt i lb. xii d. für Lohn viij̸ sch. am Mittwoch nach Palmsonntag geben viij̸ s. d."
+        "translation": "ergibt i lb. xii d. ebenfalls viij̸ sch. am Mittwoch nach Palmsonntag geben viij̸ s. d."
       },
       {
         "latin": "Item trituratoribus dominica oculi xxiiij̸ sch. per xxviii d. facit",
@@ -2234,7 +2234,7 @@
       },
       {
         "latin": "mer i lb. d. per dominum Sabbato ante cecilie soluti sunt totaliter",
-        "translation": "für i lb. d. durch den Herrn am Samstag vor Cäcilia vollständig bezahlt"
+        "translation": "ebenfalls i lb. d. durch den Herrn am Samstag vor Cäcilia vollständig bezahlt"
       },
       {
         "latin": "31 lb. 2 d.",
@@ -2269,7 +2269,7 @@
       },
       {
         "latin": "Item den holczklieberen von Swanhaym und sonst lxii klaffter per x d.",
-        "translation": "Ebenfalls den Holzkleibern von Swanhaym und anderen lxii Klafter zu x d."
+        "translation": "Ebenfalls den Holzkliebern von Swanhaym und anderen lxii Klafter zu x d."
       },
       {
         "latin": "macht xx s. xx d.",
@@ -2281,7 +2281,7 @@
       },
       {
         "latin": "iii lb. vi s. d. mer v tag per v d. facit xxv d.",
-        "translation": "iii lb. vi s. d. Ware fünf Tage zu v d. ergibt xxv d."
+        "translation": "iii lb. vi s. d. ebenfalls v Tage zu v d. ergibt xxv d."
       },
       {
         "latin": "Item In die Johannis Waptiste dedimus per cellerarium dietariis",
@@ -2377,7 +2377,7 @@
       },
       {
         "latin": "Wolfgangus habet mer .l. d.",
-        "translation": "Wolfgangus erhält mer .l. d."
+        "translation": "Wolfgangus erhält mehr .l. d."
       },
       {
         "latin": "soluti sunt totaliter dominica oculi",
@@ -2393,7 +2393,7 @@
       },
       {
         "latin": "Idem habet mer lx d. solutus est totaliter",
-        "translation": "Derselbe hat mer lx d. vollständig bezahlt"
+        "translation": "Derselbe hat mehr lx d. vollständig bezahlt"
       },
       {
         "latin": "7 lb. 4 s. d.",
@@ -2444,7 +2444,7 @@
       },
       {
         "latin": "Item Recepimus a pistore de Walchsing pro una scaffa tritici iiii f. Rhen.",
-        "translation": "Ebenfalls empfangen vom Bäcker von Walchsing für eine Schaff Weizen iiii f. Rhen."
+        "translation": "Ebenfalls empfangen vom Bäcker von Walchsing für eine scaffa Weizen iiii f. Rhen."
       },
       {
         "latin": "Item Recepimus a wirttinger pro j̸ sch. avene vi s. d.",
@@ -2547,7 +2547,7 @@
       },
       {
         "latin": "Recepimus a granatore pro Sale vendito",
-        "translation": "Empfangen vom Kornmeister für verkauftem Salz"
+        "translation": "Wir empfingen vom Kornmeister für das verkaufte Salz."
       },
       {
         "latin": "Item Recepimus a granatore pro sale vendito iiii s. ii d. ante trinitatis",
@@ -2618,15 +2618,15 @@
       },
       {
         "latin": "3 lb. 6 s. 8 d.",
-        "translation": "iii lb. vi s. viii d."
+        "translation": "3 lb. 6 s. 8 d."
       },
       {
         "latin": "Recepimus pro cervisia vendita",
-        "translation": "Erhalten für verkauftes Bier"
+        "translation": "Wir haben empfangen für verkauftes Bier."
       },
       {
         "latin": "Item Recepimus a fratre udalrico cellerario hoc anno pro cervisia",
-        "translation": "Ebenfalls erhalten vom Bruder Udalricus, Cellerar, in diesem Jahr für Bier"
+        "translation": "Ebenfalls haben wir empfangen von Bruder Udalricus, Kellermeister, in diesem Jahr für Bier."
       },
       {
         "latin": "vii lb. iiii s. xiii d.",
@@ -2681,7 +2681,7 @@
       },
       {
         "latin": "Item Mer Im verkaufft iC ii libras woll umb vi f. iiii s. xi d.",
-        "translation": "Ebenfalls Meister Im verkaufte iC ii Pfund Wolle um vi f. iiii s. xi d."
+        "translation": "Ebenfalls Im verkaufte iC ii Pfund Wolle um vi f. iiii s. xi d."
       },
       {
         "latin": "37 lb. 29 d.",
@@ -2708,31 +2708,31 @@
       },
       {
         "latin": "Item a vittricis in perndorff recepimus iii s. xviii d.",
-        "translation": "Ebenfalls von der Wirtin in Perndorff empfingen wir iii s. xviii d."
+        "translation": "Ebenfalls vom Kirchpfleger in Perndorff empfingen wir iii s. xviii d."
       },
       {
         "latin": "Item a vittricis in Emmerstorf iiii s. xii d.",
-        "translation": "Ebenfalls von der Wirtin in Emmerstorf empfingen wir iiii s. xii d."
+        "translation": "Ebenfalls vom Kirchpfleger in Emmerstorf empfingen wir iiii s. xii d."
       },
       {
         "latin": "Item a vittricis in uttenkoven lxxiii d.",
-        "translation": "Ebenfalls von der Wirtin in Uttenkoven empfingen wir lxxiii d."
+        "translation": "Ebenfalls vom Kirchpfleger in Dittenkofen empfingen wir lxxiii d."
       },
       {
         "latin": "Item a vittricis in künczen xiiiij̸ d. de cetero nihil +",
-        "translation": "Ebenfalls von den Glaserinnen in Künzen xiiiij̸ d. im Übrigen nichts +"
+        "translation": "Ebenfalls vom Kirchpfleger in Künzen xiiiaj̸ d. im Übrigen nichts +"
       },
       {
         "latin": "A vittricis in gerckweiß lxxx d.",
-        "translation": "Von den Glaserinnen in Gerckweiß lxxx d."
+        "translation": "Vom Kirchpfleger in Gerckweiß lxxx d."
       },
       {
         "latin": "A vittricis in Walchsing xxxvi d.",
-        "translation": "Von den Glaserinnen in Walchsing xxxvi d."
+        "translation": "Vom Kirchpfleger in Walchsing xxxvi d."
       },
       {
         "latin": "A vittricis in awnkirchen xliiii d.",
-        "translation": "Von den Glaserinnen in Aunkirchen xliiii d."
+        "translation": "Vom Kirchpfleger in Aunkirchen xliiii d."
       },
       {
         "latin": "In die Sancti petri",
@@ -2740,15 +2740,15 @@
       },
       {
         "latin": "A vittricis in ecklhaim Recepimus v s. x d.",
-        "translation": "Von den Glaserinnen in Ecklhaim Erhalten v s. x d."
+        "translation": "Vom Kirchpfleger in Egglham empfingen wir v s. x d."
       },
       {
         "latin": "A vittricis in peittlspach iiii s. xiij̸ d.",
-        "translation": "Von den Glaserinnen in Peittlspach iiii s. xiij̸ d."
+        "translation": "Vom Kirchpfleger in Beutelsbach iiii s. xiij̸ d."
       },
       {
         "latin": "A vittricis In gravendorff vi s. viiii d.",
-        "translation": "Von den Witwen in Gravendorf vi s. viiii d."
+        "translation": "Vom Kirchpfleger in Gravendorf vi s. viiii d."
       },
       {
         "latin": "A propriis hominibus in die petri Recepimus xi s. vii d. iii d.",
@@ -2756,11 +2756,11 @@
       },
       {
         "latin": "Recepimus ex cipo Sancti leonardi 2a feria ante michaelis xi s. d.",
-        "translation": "Empfangen vom Zapfen des Heiligen Leonhard am 2. Tag vor Michaelis xi s. d."
+        "translation": "Wir empfingen aus dem Cipo des heiligen Leonhard am 2. Feria vor Michael xi s. d."
       },
       {
         "latin": "Item Recepimus a custode fratre laurencio iiii s. xi d.",
-        "translation": "Ebenfalls empfangen vom Wächter Bruder Laurentius iiii s. xi d."
+        "translation": "Ebenfalls empfangen vom Küster, Bruder Laurentius, iiii s. xi d."
       },
       {
         "latin": "7 lb. 87 d.",
@@ -2788,7 +2788,7 @@
       },
       {
         "latin": "18 lb. v s. xiij̸ d.",
-        "translation": "xviij lb. v s. xiiij̸ d."
+        "translation": "18 lb. v s. xiij̸ d."
       }
     ]
   },
@@ -2823,7 +2823,7 @@
       },
       {
         "latin": "Recepimus a vittricis ecclesie Sancti petri",
-        "translation": "Wir erhielten von der Witwe der Kirche St. Petri"
+        "translation": "Wir erhielten vom Kirchpfleger der Kirche St. Petri"
       },
       {
         "latin": "iiii lb. xxxviii d.",
@@ -2835,7 +2835,7 @@
       },
       {
         "latin": "Recepimus a vittricis beate marie virginis In Weng",
-        "translation": "Wir haben von der Wirtin der seligen Jungfrau Maria in Weng empfangen"
+        "translation": "Wir haben vom Kirchpfleger der seligen Jungfrau Maria in Weng empfangen"
       },
       {
         "latin": "x lb. iii s. x d.",
@@ -2858,7 +2858,7 @@
     "lines": [
       {
         "latin": "Item Recepimus pro ovibus venditis",
-        "translation": "Ebenfalls erhalten für verkaufte Schafe"
+        "translation": "Ebenfalls erhielten wir für verkaufte Schafe"
       },
       {
         "latin": "Item vendimus ij̸C oves Iuvenes et Senes Jorio Schinagel de Aidenbach penthecostes",
@@ -2866,7 +2866,7 @@
       },
       {
         "latin": "per lx d. facit xxxvii lb. iiii s. d. dedit xli f. Rhen. in hoc solvit",
-        "translation": "zu lx d., ergibt xxxvii lb. iiii s. d. Er gab xli f. Rhen. Davon hat er bezahlt"
+        "translation": "Durch lx d. ergibt xxxvii lb. iiii s. d.; er gab xli f. Rhen.; damit bezahlte er"
       },
       {
         "latin": "Summa per se",
@@ -2921,7 +2921,7 @@
       },
       {
         "latin": "Famulus granarii xx s. d.",
-        "translation": "Gehilfe des Kornspeichers xx s. d."
+        "translation": "Diener des Kornspeichers xx s. d."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -2933,7 +2933,7 @@
       },
       {
         "latin": "Idem habet In die ascensionis vi s. d. Idem mer lx d.",
-        "translation": "Derselbe erhält am Tag der Himmelfahrt vi s. d. Derselbe verdient lx d."
+        "translation": "Derselbe hat am Tag der Himmelfahrt vi s. d. Ebenfalls lx d."
       },
       {
         "latin": "Idem habet dominica ante michaelis i lb. d.",
@@ -2953,11 +2953,11 @@
       },
       {
         "latin": "Idem habet per cellerarium ypoliti iii s. d. mer in presencia officialis xvi kr.",
-        "translation": "Derselbe hat durch den Kellermeister des Ipolitus iii s. d. mehr in Gegenwart des Amtmanns xvi kr."
+        "translation": "Derselbe hat durch den Kellermeister Ipoliti iii s. d. ebenfalls in Gegenwart des Amtmanns xvi kr."
       },
       {
         "latin": "Idem habet mer per möringer iiii s. v iiii d.",
-        "translation": "Derselbe hat mehr durch Möringer iiii s. v iiii d."
+        "translation": "Derselbe hat ebenfalls durch Möringer iiii s. v iiii d."
       },
       {
         "latin": "Molitor iiii lb. iiii s. d.",
@@ -3024,7 +3024,7 @@
       },
       {
         "latin": "Idem habet in die ypoliti i f. Rhen.",
-        "translation": "Derselbe hat am Tag des Hypolit i f. Rhen."
+        "translation": "Derselbe hat am Tag des Hippolyt i f. Rhen."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -3032,7 +3032,7 @@
       },
       {
         "latin": "Primus colanus wolfgangus iii lb. vi s. d.",
-        "translation": "Erster Kolone Wolfgang iii lb. vi s. d."
+        "translation": "Erster Pächter Wolfgang iii lb. vi s. d."
       },
       {
         "latin": "Idem habet in die ypoliti i lb. d.",
@@ -3048,7 +3048,7 @@
       },
       {
         "latin": "Secundus colanus Hennsel iii lb. iiij̸ s. d.",
-        "translation": "Zweiter Hufner Hennsel iii lb. iiij̸ s. d."
+        "translation": "Zweiter Pächter Hennsel iii lb. iiij̸ s. d."
       },
       {
         "latin": "Nota ex parte Selle",
@@ -3060,7 +3060,7 @@
       },
       {
         "latin": "Idem habet in die ypoliti i f. Rhen.",
-        "translation": "Derselbe erhält am Tag des Hippolyt i f. Rhen."
+        "translation": "Derselbe hat am Tag des Hippolyt i f. Rhen."
       },
       {
         "latin": "Idem habet dominica ante michaelis i f. Rhen.",
@@ -3072,11 +3072,11 @@
       },
       {
         "latin": "Tertius colanus wolffel iii lb. iiij̸ s. d.",
-        "translation": "Dritter Hufner Wolffel iii lb. iiij̸ s. d."
+        "translation": "Dritter Pächter Wolffel iii lb. iiij̸ s. d."
       },
       {
         "latin": "Idem habet in die ypoliti vii s. d.",
-        "translation": "Derselbe erhält am Tag des Hippolyt vii s. d."
+        "translation": "Derselbe hat am Tag des Hippolyt vii s. d."
       },
       {
         "latin": "Idem habet dominica ante michaelis vii s. d.",
@@ -3088,7 +3088,7 @@
       },
       {
         "latin": "Quartus colanus wilhalm iii lb. xxx d.",
-        "translation": "Vierter Kolone Wilhelm iii lb. xxx d."
+        "translation": "Vierter Pächter Wilhelm iii lb. xxx d."
       },
       {
         "latin": "Idem habet in die ascensionis i f. Rhen.",
@@ -3096,7 +3096,7 @@
       },
       {
         "latin": "Idem habet in die ypoliti iiii s. d.",
-        "translation": "Derselbe erhält am Tag des Hippolyt iiii s. d."
+        "translation": "Derselbe hat am Tag des Hippolyt iiii s. d."
       },
       {
         "latin": "Idem habet dominica ante michaelis iii s. d.",
@@ -3108,7 +3108,7 @@
       },
       {
         "latin": "21 lb. 30 d.",
-        "translation": "xxi lb. xxx d. [Glosse]"
+        "translation": "21 lb. 30 d."
       }
     ]
   },
@@ -3183,7 +3183,7 @@
       },
       {
         "latin": "Quartus ennck liendel xx s. d.",
-        "translation": "Der vierte Ennck Leindl xx s. d."
+        "translation": "Vierter Knecht Liendel xx s. d."
       },
       {
         "latin": "Idem habet in die ascensionis iiii s. d.",
@@ -3231,7 +3231,7 @@
       },
       {
         "latin": "15 lb. 75 d.",
-        "translation": "xv lb. lxxv d."
+        "translation": "15 lb. 75 d."
       }
     ]
   },
@@ -3250,7 +3250,7 @@
       },
       {
         "latin": "soluta est in die dorothee per möringer",
-        "translation": "ist bezahlt worden am Tag der Dorothea durch Möringer"
+        "translation": "ist bezahlt worden am Tag der Dorothee durch Möringer"
       },
       {
         "latin": "Ancilla katherina xiii s. d.",
@@ -3258,7 +3258,7 @@
       },
       {
         "latin": "soluta est In die dorothee pro möringer",
-        "translation": "ist bezahlt worden am Tag der Dorothea für Möringer"
+        "translation": "ist bezahlt worden am Tag der Dorothee für Möringer"
       },
       {
         "latin": "Fueterer Hueber xv s. d.",
@@ -3266,7 +3266,7 @@
       },
       {
         "latin": "solutus est In die dorothee per möringer",
-        "translation": "ist bezahlt worden am Tag der Dorothea durch Möringer"
+        "translation": "ist bezahlt worden am Tag der Dorothee durch Möringer"
       },
       {
         "latin": "Summa totalis famulorum precii facit iC xlviii lb. iii s. xxv d.",
@@ -3309,11 +3309,11 @@
       },
       {
         "latin": "Panholtz Westerskircher xxx d.",
-        "translation": "Panholcz Westerskircher xxx d."
+        "translation": "Panholtz Westerskircher xxx d."
       },
       {
         "latin": "Habach päldel nihil",
-        "translation": "Habach Bäldel nichts"
+        "translation": "Habach päldel nichts"
       },
       {
         "latin": "Frennckendorff nihil",
@@ -3352,7 +3352,7 @@
       },
       {
         "latin": "Polimitario",
-        "translation": "Dem Posamentierer"
+        "translation": "dem Polimitario"
       },
       {
         "latin": "Pictori",
@@ -3391,7 +3391,7 @@
       },
       {
         "latin": "Stangnifici",
-        "translation": "Stangenschmiede"
+        "translation": "Stangenmacher"
       },
       {
         "latin": "Item dedimus magistro Conrado umb zwen Zynen Knopff ain gein",
@@ -3423,11 +3423,11 @@
       },
       {
         "latin": "Cerdoni",
-        "translation": "Dem Schuster"
+        "translation": "Dem Handwerker"
       },
       {
         "latin": "Item computavimus cum cerdone nostro et dedimus sibi proost singulis laboribus",
-        "translation": "Ebenfalls haben wir mit unserem Schuster abgerechnet und ihm für alle Arbeiten gegeben"
+        "translation": "Ebenfalls haben wir mit unserem Handwerker abgerechnet und ihm für alle Arbeiten gegeben"
       },
       {
         "latin": "i lb. d. factum 6ta feria post blasii",
@@ -3439,7 +3439,7 @@
       },
       {
         "latin": "Funifici",
-        "translation": "Dem Räucherer"
+        "translation": "Dem Rauchmacher"
       },
       {
         "latin": "Item dedit cellerarius ascensionis domini vii s. d.",
@@ -3447,15 +3447,15 @@
       },
       {
         "latin": "Item dedimus funifici nostro viiii tag per xv d. facit iiii s. xv d.",
-        "translation": "Ebenfalls gaben wir unserem Räucherer viiii Tage zu xv d. ergibt iiii s. xv d."
+        "translation": "Ebenfalls gaben wir unserem Rauchmacher viiii Tage zu xv d. ergibt iiii s. xv d."
       },
       {
         "latin": "Item uni funifici patavie per priorem nostrum dedimus xlv d.",
-        "translation": "Ebenfalls einem Räucherer in Passau durch unseren Prior gaben wir xlv d."
+        "translation": "Ebenfalls einem Rauchmacher in Passau durch unseren Prior gaben wir xlv d."
       },
       {
         "latin": "Item mer funifici per cellerarium umb putten panntter lx d.",
-        "translation": "Ebenfalls Lohn des Räucherers durch den Cellerar für Püttentücher lx d."
+        "translation": "Ebenfalls Lohn des Rauchmachers durch den Cellerar für Püttentücher lx d."
       },
       {
         "latin": "et xv funff täg per xv d. facit lxxv d.",
@@ -3471,11 +3471,11 @@
       },
       {
         "latin": "Currifici",
-        "translation": "Dem Wurstmacher"
+        "translation": "Dem Sattler"
       },
       {
         "latin": "Item dedimus currifici de ayten Carling de pro duabus rotis et aliis",
-        "translation": "Ebenfalls gaben wir dem Wurstmacher von Aiten Carling für zwei Räder und andere"
+        "translation": "Ebenfalls gaben wir dem Sattler von Aidenbach Carling für zwei Räder und andere"
       },
       {
         "latin": "laboribus dominica ante Viti iiii s. xx d.",
@@ -3483,11 +3483,11 @@
       },
       {
         "latin": "Item Sabbato ante palmarum Currifici de aliquibus laboribus .l. d.",
-        "translation": "Ebenfalls am Samstag vor Palmsonntag dem Wurstmacher für einige Arbeiten .l. d."
+        "translation": "Ebenfalls am Samstag vor Palmsonntag dem Sattler für einige Arbeiten .l. d."
       },
       {
         "latin": "Item per cellerarium dedimus currifici xxxv d. mer liii d.",
-        "translation": "Ebenfalls durch den Kellermeister gaben wir dem Küfer xxxv d. Lohn liii d."
+        "translation": "Ebenfalls durch den Kellermeister gaben wir dem Sattler xxxv d. Lohn liii d."
       },
       {
         "latin": "Item currifici dominica ante nicolai dedit cellerarius vi s. iiii d.",
@@ -3538,7 +3538,7 @@
       },
       {
         "latin": "Item dedimus pellifici magistro petro patavie pro pellicio cirothecis subtectura nova",
-        "translation": "Ebenfalls gaben wir dem Kürschnermeister Petrus von Padua für einen Pelzrock mit neuen Handschuhen als Unterfutter"
+        "translation": "Ebenfalls gaben wir dem Kürschnermeister Petrus von Passau für einen Pelzrock und neue Handschuhe als Unterfutter"
       },
       {
         "latin": "et pro aliquibus laboribus iii lb. lxxx d.",
@@ -3594,7 +3594,7 @@
       },
       {
         "latin": "Item Seratori patavie umb zway kreucz auff die Türen und umb schloß",
-        "translation": "Ebenfalls dem Schneider zu Passau für zwei Kreuze an die Türen und für ein Schloss"
+        "translation": "Ebenfalls dem Querbalkenmacher zu Passau für zwei Kreuze an die Türen und für ein Schloss"
       },
       {
         "latin": "und schüssel geben iiii f. Rhen. xii kr. mer Im geben umb etliche",
@@ -3668,11 +3668,11 @@
       },
       {
         "latin": "Item exolvit frater gregorius protunc collector uvarum in antiquis debitis aliquibus",
-        "translation": "Ebenfalls hat Bruder Gregorius, damals Einsammler der Trauben, in alten Schulden einigen"
+        "translation": "Ebenfalls zahlte Bruder Gregorius, damals Sammler der Trauben, einige alte Schulden"
       },
       {
         "latin": "debitoribus ut patet in computacione sua lxxi f. Rhen. iii s. x d.",
-        "translation": "Schuldnern beglichen, wie aus seiner Abrechnung hervorgeht lxxi f. Rhen. iii s. x d."
+        "translation": "Den Schuldnern, wie aus seiner Abrechnung ersichtlich, lxxi f. Rhen. iii s. x d."
       },
       {
         "latin": "iC lxxxxiii f. Rhen. xxx faciunt In nigra moneta 169 lb. d.",
@@ -3680,7 +3680,7 @@
       },
       {
         "latin": "Pro colleccione adduccione exaccione et sumptibus descendendo",
-        "translation": "Für Einsammlung, Herbeischaffung, Eintreibung und Aufwendungen beim Hinab-"
+        "translation": "Für Sammlung, Anschaffung, Einziehung und Ausgaben beim Abstieg"
       },
       {
         "latin": "et ascendendo tempore vindemie",
@@ -3716,11 +3716,11 @@
       },
       {
         "latin": "Dedimus pro botis et caseis pro mutuariis",
-        "translation": "Wir gaben für Fässer und Käse für die Entleiher"
+        "translation": "Wir gaben für Bottiche und Käse für die Mautner"
       },
       {
         "latin": "ad partes austrie aptis",
-        "translation": "nach den österreichischen Gebieten geeignet"
+        "translation": "für die österreichischen Gebiete geeignet"
       },
       {
         "latin": "Item dedimus pro caseis ad partes austrie videlicet xiiii kaß unum pro iii s. x d. Facit",
@@ -3732,7 +3732,7 @@
       },
       {
         "latin": "Item dedimus pro quatuor paribus botorum pro mutuariis vi s. d. bibales vii d.",
-        "translation": "Ebenfalls gaben wir für vier Paar Stiefel für die Entleiher vi s. d. trinkbar vii d."
+        "translation": "Ebenfalls gaben wir für vier Paar Bottiche für die Mautner vi s. d. Getränke vii d."
       },
       {
         "latin": "6 lb. 4 s. 17 d.",
@@ -3751,7 +3751,7 @@
       },
       {
         "latin": "Dedimus pro vino empto ad tabernam",
-        "translation": "Wir gaben für gekauften Wein für die Taverne"
+        "translation": "Wir gaben für den gekauften Wein an die Taverne."
       },
       {
         "latin": "Item kaufft von unnserem pintter xiii Emer Osterwein den Emer per",
@@ -3763,7 +3763,7 @@
       },
       {
         "latin": "alles xvi f. Rhen. facit solutus est totaliter",
-        "translation": "insgesamt xvi f. Rhen. facit solutus est totaliter"
+        "translation": "insgesamt xvi f. Rhen. ergibt, ist vollständig bezahlt"
       },
       {
         "latin": "Item mer kaufft vom Wolfgang ansiczer xiiii Emer per viiii s. d.",
@@ -3787,7 +3787,7 @@
       },
       {
         "latin": "Mer per gregorium pro vino empto in partibus austrie iiii f. Rhen. vi s. xx d.",
-        "translation": "Kauf durch Gregor für gekauften Wein in den österreichischen Gebieten iiii f. Rhen. vi s. xx d."
+        "translation": "Mehr durch Gregor für gekauften Wein in den österreichischen Gebieten iiii f. Rhen. vi s. xx d."
       },
       {
         "latin": "Item kaufft patavie viiij̸ Emer hewrigs weiß weinß de emer umb",
@@ -3823,7 +3823,7 @@
       },
       {
         "latin": "Item mit Chonncz pehaim abgerechnet und Im geben s xx f. Rhen. umb",
-        "translation": "Ebenfalls mit Chonncz Pehaim abgerechnet und ihm gegeben s xx f. Rhen. für"
+        "translation": "Ebenfalls mit Chonncz Pehaim abgerechnet und ihm gegeben s xx f. Rhen. um"
       },
       {
         "latin": "wein mer iiii f. Rhen. per officialem ist des wein gewesen iii vässel",
@@ -3835,7 +3835,7 @@
       },
       {
         "latin": "xxviii f. Rhen. xxx d. albe monete und i f. Rhen. leytkauff",
-        "translation": "xxviii f. Rhen. xxx d. alter Münze und i f. Rhen. Leikauf."
+        "translation": "xxviii f. Rhen. xxx d. alter Münze und i f. Rhen. Leitkauf"
       },
       {
         "latin": "Item vom Sibner von passaw kaufft ain lagel Raifl umb v f. Rhen.",
@@ -3898,7 +3898,7 @@
       },
       {
         "latin": "pro pullis carnibus ferinis et avibus vi lb. v s. xxvii d.",
-        "translation": "Für Hähnchenfleisch, Wildbret und Vögel vi lb. v s. xxvii d."
+        "translation": "Für Hähnchen, Wildbret und Vögel vi lb. v s. xxvii d."
       },
       {
         "latin": "Item Recepimus ab aliquibus Rusticis nostris In debitis et censu",
@@ -3906,7 +3906,7 @@
       },
       {
         "latin": "eorum annuali vaccas boves et porcos ut patet in Registro Receptorum",
-        "translation": "von ihnen Rinder, Ochsen und Schweine, wie es im Register der Einnahmen"
+        "translation": "Ihre jährlichen Kühe, Ochsen und Schweine, wie es im Register der Einnahmen erscheint."
       },
       {
         "latin": "censuum annualium facit taxa xxxiii lb. lviij̸ d.",
@@ -3914,7 +3914,7 @@
       },
       {
         "latin": "Mer pro avetis et avibus lviii d.",
-        "translation": "Mehr für Hafer und Vögel lviii d."
+        "translation": "Ebenfalls für Hafer und Vögel lviii d."
       },
       {
         "latin": "Item dedimus pro duobus bovibus uni carnifici de Passau dedimus xiii f. Rhen.",
@@ -3969,7 +3969,7 @@
       },
       {
         "latin": "Item piscatori de Schönerting pro piscibus v s. d. mer xlii d.",
-        "translation": "Ebenfalls dem Fischer von Schönerting für Fische v s. d. Miete xlii d."
+        "translation": "Ebenfalls dem Fischer von Schönerting für Fische v s. d. Ebenfalls xlii d."
       },
       {
         "latin": "Item pro cancris piscatori de g götterstorff lxxx d.",
@@ -3977,7 +3977,7 @@
       },
       {
         "latin": "Item piscatori de Pörndorf pro piscibus lxxx d. mer xl d. pro cancris",
-        "translation": "Ebenfalls dem Fischer von Pörndorf für Fische lxxx d. Miete xl d. für Krebse"
+        "translation": "Ebenfalls dem Fischer von Pörndorf für Fische lxxx d. Ebenfalls xl d. für Krebse"
       },
       {
         "latin": "pro piscibus Sebastiano patavie v s. xiiii d.",
@@ -4001,11 +4001,11 @@
       },
       {
         "latin": "Mer ii f. Rhen. patavie Sebastiano",
-        "translation": "Waare ii f. Rheinisch in Passau an Sebastian"
+        "translation": "Miete ii f. Rhen. in Patavie Sebastiano"
       },
       {
         "latin": "Item dedimus mer per cellerarium nostrum fratrem udalricum pro piscibus in",
-        "translation": "Ebenfalls gaben wir Waare durch unseren Cellerar Bruder Udalricum für Fische in"
+        "translation": "Ebenfalls gaben wir ebenfalls durch unseren Cellerar Bruder Udalricum für Fische in"
       },
       {
         "latin": "absencia nostra ut patet in sua computacione xxviiii lb. iii s. xij̸ d.",
@@ -4025,7 +4025,7 @@
       },
       {
         "latin": "crucis ii lb. iiii s. d. mer piscatori de galckweiß iiii s. xx d.",
-        "translation": "des Kreuzes ii lb. iiii s. d. mehr dem Fischer von Galckweis iiii s. xx d."
+        "translation": "des Kreuzes ii lb. iiii s. d. Ebenfalls dem Fischer von Galckweis iiii s. xx d."
       },
       {
         "latin": "Item piscatori de Pörndorf pro piscibus iiii s. xx d. 6ta feria post michaelis",
@@ -4045,7 +4045,7 @@
       },
       {
         "latin": "Item pro piscibus patavie domino cum suis assistentibus Sebastiano piscatori iii f. Rhen.",
-        "translation": "Ebenfalls für Fische in Passau dem Herrn mit seinen Begleitern dem Fischer Sebastian iii f. Rhen."
+        "translation": "Ebenfalls für Fische in Patavie dem Herrn mit seinen Begleitern Sebastiano, dem Fischer, iii f. Rhen."
       },
       {
         "latin": "iiiij̸ s. d.",
@@ -4061,7 +4061,7 @@
       },
       {
         "latin": "Item pro piscibus aliquibus piscatoribus 6ta feria post katherine iiii lb. xlviii d.",
-        "translation": "Ebenfalls für einige Fische den Fischern am Freitag nach Katharina iiii lb. xlviii d."
+        "translation": "Ebenfalls für Fische einigen Fischern am Freitag nach Katharina iiii lb. xlviii d."
       },
       {
         "latin": "Item dedimus In vigilia anndree pro piscibus xiiii s. vii d.",
@@ -4077,11 +4077,11 @@
       },
       {
         "latin": "Item 6ta feria post trium regum pro piscibus xviii s. d.",
-        "translation": "Ebenfalls am 6. Tag nach Dreikönig für Fische xviii s. d."
+        "translation": "Ebenfalls am 6. Freitag nach Dreikönig für Fische xviii s. d."
       },
       {
         "latin": "Item 6ta feria post conversionis pauli xiiii s. xiii d. mer iiii s. d.",
-        "translation": "Ebenfalls am 6. Tag nach Pauli Bekehrung xiiii s. xiii d. für Bier iiii s. d."
+        "translation": "Ebenfalls am 6. Tag nach Pauli Bekehrung xiiii s. xiii d. Ebenfalls iiii s. d."
       },
       {
         "latin": "Item pro piscibus In vigilia purificacionis ii lb. vii s. v d.",
@@ -4093,11 +4093,11 @@
       },
       {
         "latin": "Item pro piscibus dominica dorothee x s. d. mer iii s. x d.",
-        "translation": "Ebenfalls für Fische am Sonntag Dorothee x s. d. Miete iii s. x d."
+        "translation": "Ebenfalls für Fische am Sonntag Dorothee x s. d. Ebenfalls iii s. x d."
       },
       {
         "latin": "Item patavie per quatuor ebdomadas pro piscibus iiii f. Rhen. lxxvii d.",
-        "translation": "Ebenfalls in Passau über vier Wochen für Fische iiii f. Rhen. lxxvii d."
+        "translation": "Ebenfalls in Patavie über vier Wochen für Fische iiii f. Rhen. lxxvii d."
       },
       {
         "latin": "Item umb visch ausgeben 2 f. .l. d.",
@@ -4105,7 +4105,7 @@
       },
       {
         "latin": "Item 4ta feria post letare pro piscibus iii lb. xxx d. mer ii lb. xviii d.",
-        "translation": "Ebenfalls am Mittwoch nach Lätare für Fische iii lb. xxx d. Miete ii lb. xviii d."
+        "translation": "Ebenfalls am Mittwoch nach Lätare für Fische iii lb. xxx d. Ebenfalls ii lb. xviii d."
       },
       {
         "latin": "Item partel vischer de perndorff v s. d.",
@@ -4152,7 +4152,7 @@
       },
       {
         "latin": "Item dedimus pro libetis patavie xii s. xii d. circa natalis domini",
-        "translation": "Ebenfalls gaben wir für Pfund in Passau xii s. xii d. um Weihnachten herum"
+        "translation": "Ebenfalls gaben wir für Lebermus aus Padua xii s. xii d. um Weihnachten herum"
       },
       {
         "latin": "Item kaufft vom Sibner von passaw zwo Thunnen häring umb xv f.",
@@ -4180,7 +4180,7 @@
       },
       {
         "latin": "Dededimus pro papiro et speciebus incausti",
-        "translation": "Wir gaben aus für Papier und Spezereien zum Enkaustum"
+        "translation": "Wir gaben aus für Papier und Malzubehör"
       },
       {
         "latin": "Item umb iii libris vittrici iiii libris gallas und gumi geben iii s. d.",
@@ -4203,7 +4203,7 @@
       },
       {
         "latin": "Dedimus pro cultellis piretis oculariis cingulis",
-        "translation": "Wir gaben für Birnbaum-Messer, Augengläser, Gürtel"
+        "translation": "Wir gaben für kleine Messer, Biretten, Augengläser, Gürtel"
       },
       {
         "latin": "bursis pileis et aliis necessariis pro fratribus",
@@ -4239,7 +4239,7 @@
       },
       {
         "latin": "solutus est totaliter 2a feria post Iubilate",
-        "translation": "vollständig bezahlt am 2. Montag nach Jubilate"
+        "translation": "vollständig bezahlt am 2. Tag nach Jubilate"
       },
       {
         "latin": "Sumptos de desuper factos vi s. d.",
@@ -4259,7 +4259,7 @@
       },
       {
         "latin": "ad et ve pataviam et e converso ad Vilshofen pro nostra et nostris fecturis",
-        "translation": "hin und zurück nach Passau und umgekehrt nach Vilshofen für unsere und unserer Leute Geschäfte"
+        "translation": "hin und zurück nach Passau und umgekehrt nach Vilshofen für unsere und unserer Leute Verrichtungen"
       },
       {
         "latin": "et necessariis faciendis ad unum annum et domus sibi vi f. Rhen. et unum",
@@ -4271,7 +4271,7 @@
       },
       {
         "latin": "mer patavie i f. Rhen.",
-        "translation": "Maß von Passau i f. Rhen."
+        "translation": "Ebenfalls Passau i f. Rhen."
       },
       {
         "latin": "Item dedimus antiquo fuchszagel de aliquibus fecturis iii s. xv d.",
@@ -4279,7 +4279,7 @@
       },
       {
         "latin": "Item mer In die thome ii f. Rhen. recepit in allderspach",
-        "translation": "Ebenfalls Maß am Tag des Thomas ii f. Rhen. erhielt in Aldersbach"
+        "translation": "Ebenfalls am Tag des Thomas ii f. Rhen. erhielt in Aldersbach"
       },
       {
         "latin": "Idem In vigilia annuncciacionis beate marie virginis habet per möringer ii f. Rhen.",
@@ -4302,11 +4302,11 @@
       },
       {
         "latin": "Dedimus Serenissimo principi nostro adalberto ex",
-        "translation": "Gaben wir dem durchlauchtigsten Fürsten unserem Adalbertus von"
+        "translation": "Gaben wir dem durchlauchtigsten Fürsten unserem Adalberto von"
       },
       {
         "latin": "parte venatorum et aucupum xv lb. xvi d.",
-        "translation": "Seiten der Jäger und Vogelfänger xv lb. xvi d."
+        "translation": "Seite der Jäger und Vogelfänger xv lb. xvi d."
       },
       {
         "latin": "solutum est In Vilshofen reddituariis 6ta feria ante lucie",
@@ -4389,7 +4389,7 @@
       },
       {
         "latin": "Item consumpsimus patavie dum vasa ad partes austrie et alia neccessaria comisimus vii f. Rhen.",
-        "translation": "Ebenfalls verbrauchten wir in Passau, während wir Gefäße in die österreichischen Gebiete und anderes Notwendige begleiteten, vii f. Rhen."
+        "translation": "Ebenfalls verbrauchten wir in Passau, während wir Gefäße in die österreichischen Gebiete und anderes Notwendiges versandten, vii f. Rhen."
       },
       {
         "latin": "vi s. iii d. una cum nostris familiaribus et nautis",
@@ -4397,11 +4397,11 @@
       },
       {
         "latin": "Item dedimus pro lavatura smignatemate balmalibus patavie i lb. x d.",
-        "translation": "Ebenfalls gaben wir für das Waschen von Schminke und Bademänteln in Passau i lb. x d."
+        "translation": "Ebenfalls gaben wir für das Waschen von Schminkmaterial und Badetüchern in Passau i lb. x d."
       },
       {
         "latin": "Item dedimus pro patellis uno novo cantro xi s. d.",
-        "translation": "Ebenfalls gaben wir für eine neue Schüssel und einen neuen Kessel xi s. d."
+        "translation": "Ebenfalls gaben wir für Teller und ein neues Maß xi s. d."
       },
       {
         "latin": "Item In tetling vii s. x d.",
@@ -4417,7 +4417,7 @@
       },
       {
         "latin": "mer i lb. d. quem mutuo recepit a willinger",
-        "translation": "für Ware i lb. d. die er als Darlehen von Willinger erhielt"
+        "translation": "ebenfalls i lb. d., die er als Darlehen von Willinger erhielt"
       },
       {
         "latin": "Item dedimus fratri Johanni ad nupcias sororis sue filie Wasenmair i f. Rhen.",
@@ -4429,7 +4429,7 @@
       },
       {
         "latin": "Item consumpsimus patavie in adventu domini vii f. Rhen. xi kr.",
-        "translation": "Ebenfalls verbrauchten wir in Passau in der Ankunft des Herrn vii f. Rhen. xi kr."
+        "translation": "Ebenfalls verbrauchten wir in Passau zum Advent des Herrn vii f. Rhen. xi kr."
       },
       {
         "latin": "Item cursori nostro ad lanndshütam ex parte Stewre dedimus lx d.",
@@ -4457,7 +4457,7 @@
       },
       {
         "latin": "ii lb. d. mer iiii s. ad pataviam in sumptibus",
-        "translation": "ii lb. d. mehr iiii s. nach Passau für Ausgaben"
+        "translation": "ii lb. d., ebenfalls iiii s. nach Passau für Ausgaben"
       },
       {
         "latin": "Item consumpsimus patavie in infirmitate nostra viiii f. Rhen.",
@@ -4572,7 +4572,7 @@
       },
       {
         "latin": "Item Emimus ab awer de pfarrkirchen unum pannum album pro iiii f. Rhen.",
-        "translation": "Ebenfalls kauften wir von Awer von der Pfarrkirche ein weißes Tuch für iiii f. Rhen."
+        "translation": "Ebenfalls kauften wir von Awer aus Pfarrkirchen ein weißes Tuch für iiii f. Rhen."
       },
       {
         "latin": "i ortt",
@@ -4644,7 +4644,7 @@
       },
       {
         "latin": "15 lb. 8 d.",
-        "translation": "xv lb. viij d."
+        "translation": "15 lb. 8 d."
       }
     ]
   },
@@ -4714,7 +4714,7 @@
       },
       {
         "latin": "Dedimus Ad Redimendum Vexationes",
-        "translation": "Wir gaben für das Freikaufen von Belästigungen"
+        "translation": "Wir gaben zur Abwendung von Erschütterungen"
       },
       {
         "latin": "Item dedimus pro contribucionibus commissariis per priorem nostrum v f. Rhen. ii f. Rhen.",
@@ -4777,7 +4777,7 @@
       },
       {
         "latin": "et fenicultoribus In graymat per cellerarium dedimus viii lb. iii s. viii d.",
-        "translation": "und den Heumachern in Graymat durch den Kellermeister gaben wir viii lb. iii s. viii d."
+        "translation": "und den Heusammlern in Graymat durch den Keller gaben wir viii lb. iii s. viii d."
       },
       {
         "latin": "27 lb. 3 s. 18 d.",
@@ -4840,11 +4840,11 @@
       },
       {
         "latin": "una scaffa xxviii d. facit xxiii s. x d.",
-        "translation": "einem Schiff xxviii d. ergibt xxiii s. x d."
+        "translation": "einem Maß xxviii d. ergibt xxiii s. x d."
       },
       {
         "latin": "Item trituratoribus de septem scaff. tritici et Siliginis geben vii s. xiiii d.",
-        "translation": "Ebenfalls den Dreschern von sieben Schiffen Weizen und Roggen gaben vii s. xiiii d."
+        "translation": "Ebenfalls den Dreschern von sieben Maßen Weizen und Roggen gaben vii s. xiiii d."
       },
       {
         "latin": "per xxxii d. pro Semine In vigilia Bartholomei",
@@ -4864,7 +4864,7 @@
       },
       {
         "latin": "Item trituratoribus trina vice de xxviiij̸ sch. tritici et avene de scaffa",
-        "translation": "Ebenfalls den Dreschern zum dritten Mal von xxviiij̸ sch. Weizen und Hafer vom Gerüst"
+        "translation": "Ebenfalls den Dreschern zum dritten Mal von xxviiij̸ sch. Weizen und Hafer vom Maß"
       },
       {
         "latin": "xxviii d. geben facit iii lb. iii s. xxvi d.",
@@ -4872,11 +4872,11 @@
       },
       {
         "latin": "Item hofer cum sociis suis de xii scaffis per xxviii d. facit xi s. vi d.",
-        "translation": "Ebenfalls Hofer mit seinen Gefährten von xii Gerüsten zu xxviii d. ergibt xi s. vi d."
+        "translation": "Ebenfalls Hofer mit seinen Gefährten von xii Maßen zu xxviii d. ergibt xi s. vi d."
       },
       {
         "latin": "Item mer de xii scaffis per xxviii d. facit xi s. vi d. In vigilia purificacionis",
-        "translation": "Ebenfalls Mer von xii Gerüsten zu xxviii d. ergibt xi s. vi d. Am Vorabend der Reinigung [Mariä]"
+        "translation": "Ebenfalls Mer von xii Maßen zu xxviii d. ergibt xi s. vi d. Am Vorabend der Reinigung [Mariä]"
       },
       {
         "latin": "Item Steger de Weng viiiij̸ sch. per xxviii d. facit i lb. xxvi d.",
@@ -4884,7 +4884,7 @@
       },
       {
         "latin": "Item fridel xiiij̸ sch. per xxviii d. dominica oculi facit xii s. xiiii d.",
-        "translation": "Ebenfalls Frideln xiiij̸ sch. zu xxviii d. am Sonntag Oculi ergibt xii s. xiiii d."
+        "translation": "Ebenfalls Fridel xiiij̸ sch. zu xxviii d. am Sonntag Oculi ergibt xii s. xiiii d."
       },
       {
         "latin": "Item Caspar cum sociis suis viii sch. per 28 d. facit vii s. xiiii d.",
@@ -4896,15 +4896,15 @@
       },
       {
         "latin": "mer den trescheren an dem untteren Tenn geben x s. xxii d.",
-        "translation": "mehr den Dreschern auf dem unteren Tenn gegeben x s. xxii d."
+        "translation": "Mer den Dreschern am unteren Tenn gegeben x s. xxii d."
       },
       {
         "latin": "Item hingelassen den dritten Tenn hannsen und lienhardten von Carling",
-        "translation": "Ebenfalls überlassen den dritten Tenn Hannsen und Lienhardten von Carling"
+        "translation": "Ebenfalls den dritten Tenn Hannsen und Lienhardten von Carling hingelassen."
       },
       {
         "latin": "umb x f. Rhen. abzetreschen",
-        "translation": "für x f. Rhen. abzudreschen"
+        "translation": "um x f. Rhen. abzudreschen"
       },
       {
         "latin": "In hoc habent in vigilia purificacionis i lb. d.",
@@ -4920,7 +4920,7 @@
       },
       {
         "latin": "mer Sabbato ante palmarum xii s. d. a domino",
-        "translation": "Am Samstag vor Palmsonntag xii s. d. vom Herrn"
+        "translation": "Mer am Sabbat vor Palmsonntag xii s. d. vom Herrn"
       },
       {
         "latin": "soluti sunt totaliter in decem f. Rhen.",
@@ -4952,7 +4952,7 @@
       },
       {
         "latin": "3 lb. 5 s. 8 d.",
-        "translation": "3 lb. 5 s. 8 d. [Glosse]"
+        "translation": "3 lb. 5 s. 8 d."
       }
     ]
   },
@@ -4991,7 +4991,7 @@
       },
       {
         "latin": "per v d. facit iii lb. lxxx d. mer dietariis lxxiii d.",
-        "translation": "zu v d. ergibt iii lb. lxxx d. mehr den Tagelöhnern lxxiii d."
+        "translation": "Für v d. ergibt das iii lb. lxxx d.; mehr den Tagelöhnern lxxiii d."
       },
       {
         "latin": "Item mer dietariis In die ypoliti per cellerarium lxxxxvii tag per",
@@ -5007,11 +5007,11 @@
       },
       {
         "latin": "mer dem plabermel per cellerarium et uno alio dietario iii s. xiiii d.",
-        "translation": "mehr dem Blaubermel durch den Cellerar und einen anderen Diener iii s. xiiii d."
+        "translation": "mehr dem Plabermel durch den Cellerar und einen anderen Tagelöhner iii s. xiiii d."
       },
       {
         "latin": "Item dedimus dietariis dominica ante michaelis iC xxvii tag per v d. facit",
-        "translation": "Ebenfalls gaben wir den Dienern am Sonntag vor Michaelis iC xxvii Tage per v d. ergibt"
+        "translation": "Ebenfalls gaben wir den Tagelöhnern am Sonntag vor Michaelis iC xxvii Tage per v d. ergibt"
       },
       {
         "latin": "xxi s. v d. per dominum mer xv tag dem peter facit x lxxv d.",
@@ -5051,7 +5051,7 @@
       },
       {
         "latin": "zeklieben geben v s. d. mer iii s. d. von etlichen zewyn stecken auszehacken",
-        "translation": "zu spalten gegeben v s. d. mehr iii s. d. von etlichen zu zwei Stecken auszuhacken"
+        "translation": "Zu spalten geben v s. d.; mehr iii s. d. von etlichen zu zwei Stöcken auszuhacken"
       },
       {
         "latin": "Item den tagwercheren do 4ta feria pasche xxxii tag per v d. facit v s. x d.",
@@ -5079,7 +5079,7 @@
       },
       {
         "latin": "Item a festo ascensionis usque Johannis Waptiste xxxv tag per vii d.",
-        "translation": "Ebenfalls vom Fest Christi Himmelfahrt bis zu Johannis des Täufers xxxv Tage zu vii d."
+        "translation": "Ebenfalls vom Fest Christi Himmelfahrt bis Johannes dem Täufer xxxv Tage zu vii d."
       },
       {
         "latin": "facit i lb. v d.",
@@ -5123,7 +5123,7 @@
       },
       {
         "latin": "Item colman de Walchsing conductus est in newstifft pro inscissione straminum",
-        "translation": "Ebenfalls wurde Colman von Walchsing in der Neustadt für das Schneiden von Stroh gedungen"
+        "translation": "Ebenfalls wurde Colman von Walchsing in Neustift für das Schneiden von Stroh gedungen"
       },
       {
         "latin": "per iiii s. d. habet In die Steffani lx d. mer lx d. habet dominica",
@@ -5139,7 +5139,7 @@
       },
       {
         "latin": "mer 29 tag per vi d. facit v s. xxiiii d.",
-        "translation": "mehr 29 Tage zu vi d., ergibt v s. xxiiii d."
+        "translation": "Mehr 29 Tage zu vi d.; ergibt v s. xxiiii d."
       },
       {
         "latin": "9 lb. 7 s. 22 d.",
@@ -5170,7 +5170,7 @@
       },
       {
         "latin": "scaffam per xxii s. d. facit iC xxv f. Rhen. das annder nachlassen v s. d.",
-        "translation": "die Schütte zu xxii s. d., ergibt iC xxv f. Rhen. das andere nachgelassen v s. d."
+        "translation": "Scaffam per xxii s. d. ergibt iC xxv f. Rhen., das andere wird nachgelassen v s. d."
       },
       {
         "latin": "factum 4ta feria post misericordias domini tenetur aduc xlv f. Rhen. terminus ad penthecostes",
@@ -5249,7 +5249,7 @@
       },
       {
         "latin": "Item Recepimus a fratre gruenberger cellerario pro vino successive vendito xi lb.",
-        "translation": "Ebenfalls erhalten vom Bruder Grünberger, Cellerar, für nach und nach verkauftem Wein xi lb."
+        "translation": "Ebenfalls erhielten wir vom Bruder Grünberger, Kellermeister, für nach und nach verkauften Wein xi lb."
       },
       {
         "latin": "iiii s. vii d.",
@@ -5265,7 +5265,7 @@
       },
       {
         "latin": "vi s. xv d. die xv d. nachlassen. dedit daran 2a feria post palmarum v f. Rhen.",
-        "translation": "vi s. xv d. am 15. Tag nachlassen. gab dafür am Dienstag nach Palmsonntag v f. Rhen."
+        "translation": "vi s. xv d. die xv d. nachlassen. gab dafür am 2. Dienstag nach Palmsonntag v f. Rhen."
       },
       {
         "latin": "tenetur aduc viii lb. iii s. d. frist auff georgii dedit per wolfgangum nunccium nostrum vi f.",
@@ -5285,7 +5285,7 @@
       },
       {
         "latin": "Recepimus a granatore pro Sale vendito",
-        "translation": "Wir erhielten vom Salzhändler für verkauftes Salz"
+        "translation": "Wir erhielten vom Kornhändler für verkauften Salz"
       },
       {
         "latin": "Item recepimus pro sale vi s. xiii d. ipso die sancti urbani",
@@ -5329,7 +5329,7 @@
       },
       {
         "latin": "12 lb. 4 s. 14 d.",
-        "translation": "xij lb. iiij s. xiiij d. [Glosse]"
+        "translation": "12 lb. 4 s. 14 d."
       }
     ]
   },
@@ -5411,7 +5411,7 @@
       },
       {
         "latin": "Item Recepimus In cuttis Johanni Riemer Ratispone datis vii f. Rhen.",
-        "translation": "Ebenfalls empfangen in Scheinen, gegeben dem Johann Riemer in Regensburg vii f. Rhen."
+        "translation": "Ebenfalls empfangen für Häute, gegeben dem Johann Riemer in Regensburg vii f. Rhen."
       },
       {
         "latin": "7 lb. 5 s.",
@@ -5470,39 +5470,39 @@
       },
       {
         "latin": "in die Sancti petri a vittricis ecclesiarum",
-        "translation": "Am Tag des heiligen Petrus von den Kirchenpflegerinnen"
+        "translation": "am Tag des heiligen Petrus von den Kirchpflegern"
       },
       {
         "latin": "Recepimus a vittricis in pleyntting xxxiii d.",
-        "translation": "Wir erhielten von den Kirchenpflegerinnen in Pleyntting xxxiii d."
+        "translation": "Wir erhielten von den Kirchpflegern in Pleyntting xxxiii d."
       },
       {
         "latin": "Recepimus 3a feria Rogationum a vittricis In awnkirchen lxii d.",
-        "translation": "Wir erhielten am 3. Tag der Bittwoche von den Kirchenpflegerinnen in Awnkirchen lxii d."
+        "translation": "Wir erhielten am 3. Tag der Bittwoche von den Kirchpflegern in Aunkirchen lxii d."
       },
       {
         "latin": "Item a vittricis in gerckweiss lxxiiii d.",
-        "translation": "Ebenfalls von den Kirchenpflegerinnen in Gerckweiss lxxiiii d."
+        "translation": "Ebenfalls von den Kirchpflegern in Gerckweiss lxxiiii d."
       },
       {
         "latin": "A vittricis In Walchsing xlii d.",
-        "translation": "Von den Kirchenpflegerinnen in Walchsing xlii d."
+        "translation": "Von den Kirchpflegern in Walchsing xlii d."
       },
       {
         "latin": "A vittricis In perndorff iii s. i d.",
-        "translation": "Von den Kirchenpflegerinnen in Perndorff iii s. i d."
+        "translation": "Von den Kirchpflegern in Perndorff iii s. i d."
       },
       {
         "latin": "A vittricis in Emmerstorf iiii s. d. i hall.",
-        "translation": "Von den Webern in Emmerstorf iiii s. d. i hall."
+        "translation": "Von den Kirchpflegern in Emmerstorf iiii s. d. i hall."
       },
       {
         "latin": "A vittricis In uttenkoven lxxiii d.",
-        "translation": "Von den Webern in Uttenkoven lxxiii d."
+        "translation": "Von den Kirchpflegern in Dittenkofen lxxiii d."
       },
       {
         "latin": "A vittricis In Khünczen xviii d.",
-        "translation": "Von den Webern in Khünczen xviii d."
+        "translation": "Von den Kirchpflegern in Khünczen xviii d."
       },
       {
         "latin": "Aus dem stockh genumen Am Mittichen",
@@ -5514,7 +5514,7 @@
       },
       {
         "latin": "Item a vittricis In eckelhaim Recepimus In die petri et pauli iiii s.",
-        "translation": "Ebenfalls von den Webern in Eckelhaim empfangen am Tag Petri und Pauli iiii s."
+        "translation": "Ebenfalls von der Kirchenpflegerin in Eckelhaim empfangen am Tag Petri und Pauli iiii s."
       },
       {
         "latin": "xxiiii d.",
@@ -5522,7 +5522,7 @@
       },
       {
         "latin": "Item Recepimus a vittricis In peittelspach vi s. viiii d.",
-        "translation": "Ebenfalls erhalten von den Wirtinnen in Peittelspach vi s. viiii d."
+        "translation": "Ebenfalls erhalten von den Kirchenpflegerinnen in Peittelspach vi s. viiii d."
       },
       {
         "latin": "Item Recepimus a propriis hominibus In die petri xii s. xviii d.",
@@ -5530,11 +5530,11 @@
       },
       {
         "latin": "mer xxiij̸ d.",
-        "translation": "Miete xxiij̸ d."
+        "translation": "Ebenfalls xxiij̸ d."
       },
       {
         "latin": "Item Recepimus In die udalrici a vittricis In grävendorff et Roßbach In",
-        "translation": "Ebenfalls erhalten am Tag Udalrici von den Wirtinnen in Grävendorff und Roßbach am"
+        "translation": "Ebenfalls erhalten am Tag Udalrici von den Kirchpflegern in Grävendorff und Roßbach am"
       },
       {
         "latin": "die Udalrici v s. xxviij̸ d.",
@@ -5542,7 +5542,7 @@
       },
       {
         "latin": "Item Recepimus de Cipo Sancti leonardi 2a feria post Oculi viiii s. d.",
-        "translation": "Ebenfalls erhalten vom Zypern Sankt Leonhard am Dienstag nach Oculi viiii s. d."
+        "translation": "Ebenfalls erhalten vom Cippus des heiligen Leonhard am 2. Tag nach Oculi viiii s. d."
       },
       {
         "latin": "Item Recepimus a custode fratre laurencio 6ta feria ante palmarum iii s. xviiii d.",
@@ -5550,7 +5550,7 @@
       },
       {
         "latin": "8 lb. 3 s. 4 d. i hall.",
-        "translation": "viij lb. iij s. iiij d. i hall."
+        "translation": "8 lb. 3 s. 4 d. i hall."
       }
     ]
   },
@@ -5605,7 +5605,7 @@
       },
       {
         "latin": "Recepimus a vittricis ecclesie Sancti petri",
-        "translation": "Wir erhielten von der Witwe der Kirche des heiligen Petrus"
+        "translation": "Wir erhielten vom Kirchpfleger der Kirche des heiligen Petrus"
       },
       {
         "latin": "iii lb. v s. xxvii d.",
@@ -5613,7 +5613,7 @@
       },
       {
         "latin": "Recepimus a vittricis ecclesie beate virginis In Weng",
-        "translation": "Wir erhielten von der Witwe der Kirche der seligen Jungfrau in Weng"
+        "translation": "Wir erhielten vom Kirchpfleger der Kirche der seligen Jungfrau in Weng"
       },
       {
         "latin": "viiii lb. lx d.",
@@ -5644,7 +5644,7 @@
       },
       {
         "latin": "Item mer 6ta feria post Jacobi vii f. Rhen. mer 3a feria ante",
-        "translation": "Ebenfalls am 6. Freitag nach Jacobi vii f. Rhen. am 3. Dienstag vor"
+        "translation": "Ebenfalls Mer 6. Freitag nach Jacobi vii f. Rhen. Mer 3. Dienstag davor"
       },
       {
         "latin": "Steffani iiii f. Rhen. hall.",
@@ -5664,7 +5664,7 @@
       },
       {
         "latin": "mer iiii f. Rhen. in obulis Mer vii f. Rhen. mer ii f. mer iij̸ f. Rhen.",
-        "translation": "für Wein iiii f. Rhen. in kleinen Münzen Mer vii f. Rhen. für Wein ii f. für Wein iij̸ f. Rhen."
+        "translation": "mehr iiii f. Rhen. in kleinen Münzen mehr vii f. Rhen. mehr ii f. mehr iij̸ f. Rhen."
       },
       {
         "latin": "Item In profesto michaelis cellerario iiii f. Rhen.",
@@ -5672,7 +5672,7 @@
       },
       {
         "latin": "Nauta Anno 8vo",
-        "translation": "Schiffer im Jahr 8."
+        "translation": "Schiffer im achten Jahr"
       },
       {
         "latin": "Item N Hattenhamer conductus est pro nauta ad partes austrie vina",
@@ -5680,7 +5680,7 @@
       },
       {
         "latin": "adducenda pro communi solario et habet primo 5ta feria ante wartholomei",
-        "translation": "Herbeizuführen für gemeinsamen Lohn und erhält zuerst am 5. Freitag vor Bartholomäi"
+        "translation": "herbeizuführen für den gemeinsamen Lohn und er erhält zuerst am 5. Tag vor Bartholomäi"
       },
       {
         "latin": "in solario suo ii f. Rhen. iterum habet In die mathei xiii f. Rhen.",
@@ -5700,11 +5700,11 @@
       },
       {
         "latin": "circa festum andree Mer per fratrem gruenberger xii f. Rhen.",
-        "translation": "Um das Fest des Andreas mehr durch Bruder Grünberger xii f. Rhen."
+        "translation": "Um das Fest des Andreas Mer durch Bruder Grünberger xii f. Rhen."
       },
       {
         "latin": "Mer ii sch. avene et i sch. Siliginis super calcem mer v f. Rhen. a",
-        "translation": "Mehr ii sch. Hafer und i sch. Roggen für Kalk mehr v f. Rhen. von"
+        "translation": "Mer ii sch. Hafer und i sch. Roggen super calcem Mer v f. Rhen. a"
       },
       {
         "latin": "möringer qui pertinent ad fraternitatem animarum Sancti petri mer i sch. avene",
@@ -5720,7 +5720,7 @@
       },
       {
         "latin": "Item concessimus Steffano am Stain de anderen winczer super vina vi f. Rhen.",
-        "translation": "Ebenfalls haben wir Stefan am Stein von Andernwinczer über Weine vi f. Rhen. gewährt"
+        "translation": "Ebenfalls gewährten wir Steffano am Stein von anderen Winzern über Wein vi f. Rhen."
       },
       {
         "latin": "recepit filius suus georgius ibidem In die michaelis",
@@ -5728,7 +5728,7 @@
       },
       {
         "latin": "Item mer Recepit a möringer dum adducta Sunt vina iiii f. Rhen. 2a feria post Symonis et iude",
-        "translation": "Ebenfalls mehr Empfangen vom Möringer, als die Weine herangeführt wurden iiii f. Rhen. am Dienstag nach Symonis et Iudae"
+        "translation": "Ebenfalls mehr empfangen vom Möringer, als die Weine herangeführt wurden iiii f. Rhen. am Dienstag nach Symonis et Iudae"
       },
       {
         "latin": "mer xi s. d. fuerunt xxvii urne urnam per iii s. d. solutus est totaliter",
@@ -5819,7 +5819,7 @@
       },
       {
         "latin": "Idem mer i f. Rhen. per dominum",
-        "translation": "Derselbe verdient i f. Rhen. durch den Herrn"
+        "translation": "Ebenfalls i f. Rhen. durch den Herrn"
       },
       {
         "latin": "solutus est totaliter",
@@ -5827,11 +5827,11 @@
       },
       {
         "latin": "Substabularius vacat",
-        "translation": "Unterstallmeister frei"
+        "translation": "Unterstallmeister vakant"
       },
       {
         "latin": "29 lb. 7 s. d.",
-        "translation": "29 lb. 7 s. d. [Glosse]"
+        "translation": "29 lb. 7 s. d."
       }
     ]
   },
@@ -5866,7 +5866,7 @@
       },
       {
         "latin": "Praxator Hanns iii lb. vi s. d.",
-        "translation": "Der Pflüger Hanns iii lb. vi s. d."
+        "translation": "Der Praxator Hanns iii lb. vi s. d."
       },
       {
         "latin": "Idem habet in die ascensionis i f. Rhen.",
@@ -5906,7 +5906,7 @@
       },
       {
         "latin": "Mer In die ascensionis i lb. d.",
-        "translation": "Mer am Tag der Himmelfahrt i lb. d."
+        "translation": "Ebenfalls am Tag der Himmelfahrt i lb. d."
       },
       {
         "latin": "Idem habet in die ypoliti i lb. d.",
@@ -5934,7 +5934,7 @@
       },
       {
         "latin": "Idem habet mer In ascensionis iii s. d.",
-        "translation": "Derselbe hat am Fest Christi Himmelfahrt iii s. d. erhalten."
+        "translation": "Derselbe erhält ebenfalls an Himmelfahrt iii s. d."
       },
       {
         "latin": "Idem habet in die mathei iii s. d.",
@@ -5966,7 +5966,7 @@
       },
       {
         "latin": "mer per cellerarium xxx d.",
-        "translation": "ferner durch den Cellerar xxx d."
+        "translation": "ebenfalls durch den Cellerar xxx d."
       },
       {
         "latin": "solutus est totaliter",
@@ -5974,7 +5974,7 @@
       },
       {
         "latin": "18 lb. 6 s. d.",
-        "translation": "xviij lb. vj s. d. [Glosse]"
+        "translation": "18 lb. 6 s. d."
       }
     ]
   },
@@ -6049,11 +6049,11 @@
       },
       {
         "latin": "Pistor Secundus peitler xx s. d.",
-        "translation": "Bäcker Zweiter Peitler xx s. d."
+        "translation": "Zweiter Bäcker Peitler xx s. d."
       },
       {
         "latin": "Idem habet in die ascensionis iii s. d. vi s. auff das holczklieben",
-        "translation": "Derselbe hat am Tag der Himmelfahrt iii s. d. vi s. für das Holzspalten"
+        "translation": "Derselbe hat am Tag der Himmelfahrt iii s. d. vi s. für das Holzklieben"
       },
       {
         "latin": "solutus est totaliter",
@@ -6069,7 +6069,7 @@
       },
       {
         "latin": "et solutus est a servitio licentiatus",
-        "translation": "und ist aus dem Dienst entlassen worden"
+        "translation": "und ist aus dem Dienst entlassen, lizenziert"
       },
       {
         "latin": "Item gilg mülner qui post eum institutus est habet in solario suo lx d.",
@@ -6077,7 +6077,7 @@
       },
       {
         "latin": "Idem habet in die ypoliti vii s. d. mer dominica post mathei lx d.",
-        "translation": "Derselbe hat am Tag des Hippolyt vii s. d. am Sonntag nach Matthäus lx d."
+        "translation": "Derselbe hat am Tag des Hippolytus vii s. d.; mehr am Sonntag nach Matthäus lx d."
       },
       {
         "latin": "Idem habet dominica post omnium sanctorum per möringer lx d.",
@@ -6089,7 +6089,7 @@
       },
       {
         "latin": "molitor qui conductus est ad annum futurum habet in solario suo i f. Rhen. dominica letare",
-        "translation": "Der Müller, der für das kommende Jahr gedungen ist, hat in seinem Lohn i f. Rhen. am Sonntag Lätare"
+        "translation": "Der Müller, der für das kommende Jahr eingestellt wurde, hat in seinem Lohn i f. Rhen. am Sonntag Letare."
       },
       {
         "latin": "16 lb. 6 s. d.",
@@ -6112,7 +6112,7 @@
       },
       {
         "latin": "Idem habet iiii s. d. mer in die ascensionis i lb. d.",
-        "translation": "Derselbe erhält iiii s. d. Lohn am Tag der Himmelfahrt i lb. d."
+        "translation": "Derselbe erhält iiii s. d. Ebenfalls am Tag der Himmelfahrt i lb. d."
       },
       {
         "latin": "Idem habet in die famuli ypoliti i lb. d.",
@@ -6136,11 +6136,11 @@
       },
       {
         "latin": "Item lx d. in Stewra mer In die ascensionis i f. Rhen.",
-        "translation": "Ebenfalls lx d. in Stewr am Tag der Himmelfahrt i f. Rhen."
+        "translation": "Ebenfalls lx d. in Stewra ebenfalls am Tag der Himmelfahrt i f. Rhen."
       },
       {
         "latin": "Idem habet in die ypoliti i f. Rhen. Mer dominica post mathei iiii s. d.",
-        "translation": "Derselbe hat am Tag des Hippolyt i f. Rhen. Ferner am Sonntag nach Matthäus iiii s. d."
+        "translation": "Derselbe hat am Tag des Hippolyt i f. Rhen. Ebenfalls am Sonntag nach Matthäus iiii s. d."
       },
       {
         "latin": "solutus est totaliter in die agathe",
@@ -6148,7 +6148,7 @@
       },
       {
         "latin": "Primus colanus iii lb. lx d. vi s. d.",
-        "translation": "Erster Kolone iii lb. lx d. vi s. d."
+        "translation": "Erster Pächter iii lb. lx d. vi s. d."
       },
       {
         "latin": "Idem habet in die ypoliti v s. d.",
@@ -6164,7 +6164,7 @@
       },
       {
         "latin": "Secundus colanus hannsel iii lb. iiij̸ s. d.",
-        "translation": "Secundus colanus hannsel iii lb. iiij̸ s. d."
+        "translation": "Zweiter Pächter Hannsel iii lb. iiij̸ s. d."
       },
       {
         "latin": "Idem habet in die ascensionis i f. Rhen.",
@@ -6188,7 +6188,7 @@
       },
       {
         "latin": "Tertius colanus iii lb. iiij̸ s. d.",
-        "translation": "Dritter Kolone iii lb. iiij̸ s. d."
+        "translation": "Dritter Pächter iii lb. iiij̸ s. d."
       },
       {
         "latin": "Idem habet in die ascensionis i f. Rhen. hackelstorff",
@@ -6196,7 +6196,7 @@
       },
       {
         "latin": "Idem habet in die ypoliti x iiii s. d. habet mer lx d. mer iiiij̸ s. d.",
-        "translation": "Derselbe hat am Tag des Hippolyt x iiii s. d., hat außerdem lx d., außerdem iiiij̸ s. d."
+        "translation": "Derselbe hat am Tag des Hippolyt x iiii s. d., hat ebenfalls lx d., ebenfalls iiiij̸ s. d."
       },
       {
         "latin": "Idem habet dominica post mathei v s. d.",
@@ -6208,7 +6208,7 @@
       },
       {
         "latin": "Quartus colanus liendel iii lb. xxx d.",
-        "translation": "Vierter Kolone Liendel iii lb. xxx d."
+        "translation": "Vierter Pächter Liendel iii lb. xxx d."
       },
       {
         "latin": "Idem habet in die ascensionis i f. Rhen.",
@@ -6232,7 +6232,7 @@
       },
       {
         "latin": "21 lb. 30 d.",
-        "translation": "xxi lb. xxx d."
+        "translation": "21 lb. 30 d."
       }
     ]
   },
@@ -6259,15 +6259,15 @@
       },
       {
         "latin": "Idem habet xxx d. Mer In die ascensionis iiii s. d.",
-        "translation": "Derselbe erhält xxx d. Mer Am Tag der Himmelfahrt iiii s. d."
+        "translation": "Derselbe erhält xxx d. Ebenfalls Am Tag der Himmelfahrt iiii s. d."
       },
       {
         "latin": "Idem habet in die ypoliti lx d. mer xxx d. dominica post mathei",
-        "translation": "Derselbe erhält am Tag des Hippolyt lx d. Mer xxx d. am Sonntag nach Matthäus"
+        "translation": "Derselbe hat am Tag des Hippolyt lx d. Mer xxx d. am Sonntag nach Matthäus"
       },
       {
         "latin": "Idem habet per möringer dominica ante martini lx d.",
-        "translation": "Derselbe erhält durch Möringer am Sonntag vor Martini lx d."
+        "translation": "Derselbe hat durch Möringer am Sonntag vor Martini lx d."
       },
       {
         "latin": "solutus est totaliter dominica ante agathe",
@@ -6279,15 +6279,15 @@
       },
       {
         "latin": "und unum par calciamentorum mer xx d. In die ascensionis",
-        "translation": "und ein Paar Schuhe mehr xx d. Am Tag der Himmelfahrt"
+        "translation": "und ein Paar Schuhe ebenfalls xx d. Am Tag der Himmelfahrt"
       },
       {
         "latin": "mer xv d. In die ypoliti mer ain tuech zue ainer psaumund iiii d.",
-        "translation": "mehr xv d. Am Tag des Hippolyt ferner ein Tuch zu einer Psalmen-Mundbinde iiii d."
+        "translation": "ebenfalls xv d. Am Tag des Hippolyt ebenfalls ein Tuch zu einer Psalmen-Mundbinde iiii d."
       },
       {
         "latin": "Cocus colanorum thoman xx s. d.",
-        "translation": "Koch der Köche Thoman xx s. d."
+        "translation": "Koch der Pächter Thoman xx s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -6299,7 +6299,7 @@
       },
       {
         "latin": "Idem habet per cellerarium xxx d. mer In die ascensionis iiii s. d.",
-        "translation": "Derselbe hat vom Kellermeister xxx d. als Lohn am Tag der Himmelfahrt iiii s. d."
+        "translation": "Derselbe hat vom Kellermeister xxx d. ebenfalls Am Tag der Himmelfahrt iiii s. d."
       },
       {
         "latin": "Idem habet in die ypoliti iii s. d.",
@@ -6319,19 +6319,19 @@
       },
       {
         "latin": "Idem habet in Stewra iii s. d. mer i f. Rhen. 3a feria post Iubilate",
-        "translation": "Derselbe hat in Stewra iii s. d. für Ware i f. Rhen. am 3. Tag nach Jubilate"
+        "translation": "Derselbe hat in Stewra iii s. d. ebenfalls i f. Rhen. am 3. Tag nach Jubilate"
       },
       {
         "latin": "Idem habet mer i f. Rhen. in die ascensionis per officialem",
-        "translation": "Derselbe hat für Ware i f. Rhen. am Tag der Himmelfahrt durch den Amtmann"
+        "translation": "Derselbe hat ebenfalls i f. Rhen. am Tag der Himmelfahrt durch den Amtmann"
       },
       {
         "latin": "Idem habet 5ta feria post margarethe iiii s. d. mer iii s. d. per möringer",
-        "translation": "Derselbe hat am 5. Tag nach Margarethe iiii s. d. für Ware iii s. d. durch Möringer"
+        "translation": "Derselbe hat am 5. Tag nach Margarethe iiii s. d. ebenfalls iii s. d. durch Möringer"
       },
       {
         "latin": "Idem habet in die ypoliti i lb. d. mer 3a feria ante anthoni iiii s. d.",
-        "translation": "Derselbe hat am Tag des Hippolyt i lb. d. für Ware am 3. Tag vor Antoni iiii s. d."
+        "translation": "Derselbe hat am Tag des Hippolyt i lb. d. ebenfalls am 3. Tag vor Antoni iiii s. d."
       },
       {
         "latin": "Idem solutus est totaliter dominica ante agathe per cellerarium",
@@ -6382,7 +6382,7 @@
       },
       {
         "latin": "Anndre de Gumperting von purgkholcz und rennholcz",
-        "translation": "Anndre de Gumperting von Brennholz und Scheitholz"
+        "translation": "Anndre de Gumperting von Brennholz und Rennholz"
       },
       {
         "latin": "habet unum pratum et lv d. tenetur de prato i lb. v d. macht alles x s. d.",
@@ -6410,7 +6410,7 @@
       },
       {
         "latin": "Westerskircher von panholcz iiii fladen",
-        "translation": "Westerskircher für Bauholz iiii Fladen"
+        "translation": "Westerskircher von Panholz iiii Fladen"
       },
       {
         "latin": "Habach päldel ain fladen zue ostern",
@@ -6449,7 +6449,7 @@
       },
       {
         "latin": "Item dedimus magistro georgio gartner de Passau pro laboribus in stuba nostra patavie",
-        "translation": "Ebenfalls gaben wir Meister Georg Gartner von Passau für Arbeiten in unserer Stube zu Passau"
+        "translation": "Ebenfalls gaben wir dem Meister Georg Gartner aus Passau für die Arbeiten in unserer Stube in Patavie."
       },
       {
         "latin": "factis ii lb. d. et concessimus eidem iii f. Rhen.",
@@ -6481,7 +6481,7 @@
       },
       {
         "latin": "Conduximus wolgangen Jorium de lubisöd pro lutifigulo nostro a festo georgii usque ad idem festum",
-        "translation": "Wir haben den Wolgänger Jorius von Lubisöd für unseren Topfer vom Fest Georgii bis zum selben Fest"
+        "translation": "Wir haben Wolfgang Jorius von Lubisöd für unseren Töpfer vom Fest Georgii bis zum selben Fest"
       },
       {
         "latin": "georgii pro vi f. Rhen. et ii kubel waitz ut antea datum est tenetur dare omnia",
@@ -6489,7 +6489,7 @@
       },
       {
         "latin": "neccessaria pro monasterio in ollis et cingulis ad omnes coquinas ad armentariam et coco pro leccione",
-        "translation": "Notwendige für das Kloster in Töpfen und Gürteln für alle Küchen für die Rinderhaltung und den Koch für die Speise zu geben"
+        "translation": "Notwendiges für das Kloster in Töpfen und Gürteln für alle Küchen, für die Viehhaltung und den Koch für die Speise zu geben"
       },
       {
         "latin": "et omnes fornaces facere et recuperare habet pro mercipite x d.",
@@ -6540,11 +6540,11 @@
       },
       {
         "latin": "Item umb Raiff doleatori per gruenberger dedimus v s. xi d.",
-        "translation": "Ebenfalls um den Fassmacher für Grünberger gaben wir v s. xi d."
+        "translation": "Ebenfalls dem Fassmacher per Grünberger gaben wir v s. xi d."
       },
       {
         "latin": "patavie super vina sua ii f. Rhen.",
-        "translation": "in Passau auf seine Weine ii f. Rhen."
+        "translation": "in Passau über seine Weine ii f. Rhen."
       },
       {
         "latin": "Idem habet 5ta feria ante epiphanie",
@@ -6552,19 +6552,19 @@
       },
       {
         "latin": "vi f. Rhen. in vino mer iiii f. Rhen.",
-        "translation": "vi f. Rhen. für Weinhandel iiii f. Rhen."
+        "translation": "vi f. Rhen. in Wein Ebenfalls iiii f. Rhen."
       },
       {
         "latin": "de ... misericordias domini Idem mer iiii f. Rhen.",
-        "translation": "von ... Misericordias Domini Derselbe Handel iiii f. Rhen."
+        "translation": "von ... Misericordias Domini Ebenfalls iiii f. Rhen."
       },
       {
         "latin": "In die ascensionis Anno 9o",
-        "translation": "Am Tag der Himmelfahrt im Jahr 90"
+        "translation": "Am Tag der Himmelfahrt im 9. Jahr"
       },
       {
         "latin": "mer dominica ante ypoliti iii lb. d.",
-        "translation": "Handel am Sonntag vor Hippolyt iii lb. d."
+        "translation": "Ebenfalls am Sonntag vor Hippolyt iii lb. d."
       },
       {
         "latin": "solutus est totaliter solarii et vini",
@@ -6588,11 +6588,11 @@
       },
       {
         "latin": "nach lucie und Im geben für allerlay arbait iiii f. Rhen. xviiii d.",
-        "translation": "Nach Lucie und ihnen geben für allerlei Arbeit iiii f. Rhen. xviiii d."
+        "translation": "nach Lucie und ihm geben für allerlei Arbeit iiii f. Rhen. xviiii d."
       },
       {
         "latin": "mer Im geben umb zwen pelcz domino abbate et fratre gulgler umb Zwo",
-        "translation": "Mehr ihnen geben für zwei Pelze dem Herrn Abt und Bruder Gulgler für zwei"
+        "translation": "Ebenfalls ihm geben für zwei Pelze dem Herrn Abt und Bruder Gulgler für zwei"
       },
       {
         "latin": "Rauch deck und annder arbait In die parasceves xiiii f. Rhen. iiii s. d.",
@@ -6643,7 +6643,7 @@
       },
       {
         "latin": "Item Seratori czinckel pro aliquibus laboribus patavie iii s. viii d.",
-        "translation": "Ebenfalls dem Schneider Zinckel für einige Arbeiten in Passau iii s. viii d."
+        "translation": "Ebenfalls dem Schneider Zinckel für einige Arbeiten in Patavie iii s. viii d."
       },
       {
         "latin": "Item Seratori mer gelihen i f. Rhen. super labores 6ta feria post ascensionis de pfarrkirchen",
@@ -6655,7 +6655,7 @@
       },
       {
         "latin": "Scriniatori",
-        "translation": "Schreiber"
+        "translation": "Schatullierer"
       },
       {
         "latin": "Item computavimus cum Johanne weiß Scriniatore de eckelhaim iuxta Registrum",
@@ -6717,15 +6717,15 @@
     "lines": [
       {
         "latin": "Item In den auffschlach",
-        "translation": "Ebenfalls für das Aufschlagen"
+        "translation": "Ebenfalls im Aufschlag"
       },
       {
         "latin": "verzert v s. d.",
-        "translation": "verzehrt v s. d."
+        "translation": "verzert v s. d."
       },
       {
         "latin": "Item da selben zw paussaw",
-        "translation": "Ebenfalls dortselbst zu Paussau"
+        "translation": "Ebenfalls dortselbst zu Passau"
       },
       {
         "latin": "x kr.",
@@ -6741,7 +6741,7 @@
       },
       {
         "latin": "ainem roß",
-        "translation": "einem Pferd"
+        "translation": "einem Ross"
       },
       {
         "latin": "Item zw Vilshofen",
@@ -6761,7 +6761,7 @@
       },
       {
         "latin": "zw Vilshofen iii s. ii und ii roß",
-        "translation": "zu Vilshofen iii s. ii und ii Pferde"
+        "translation": "zu Vilshofen iii s. ii und ii Ross"
       },
       {
         "latin": "Item ille scheffman gein passaw lx d.",
@@ -6769,7 +6769,7 @@
       },
       {
         "latin": "Item her Wider auffgang per noctem",
-        "translation": "Ebenfalls Herr Wider bei Aufgang für die Nacht"
+        "translation": "Ebenfalls Herr Wider Aufgang für die Nacht"
       },
       {
         "latin": "zw Vilshofen lvi d.",
@@ -6831,11 +6831,11 @@
       },
       {
         "latin": "Dedimus pro vino empto ad tabernam",
-        "translation": "Wir gaben für gekauften Wein für die Taverne"
+        "translation": "Wir gaben für gekauften Wein an die Taverne"
       },
       {
         "latin": "Item vom Jorig humel wagenman xvii Emer franckenwein urnam",
-        "translation": "Ebenfalls vom Jorig, Hummel-Wagenmann, xvii Emer Frankenwein, eine"
+        "translation": "Ebenfalls von Jorig, Hummel‑Wagenmann, xvii Emer frankischer Wein, eine Urne"
       },
       {
         "latin": "magnam per xiii s. d. facit xxxi f. Rhen. iiii s. d. Acta dominica quasi modo geniti",
@@ -6851,7 +6851,7 @@
       },
       {
         "latin": "Item mer von Im kaufft iii vas haben xviii Emer grosser maß",
-        "translation": "Ebenfalls mehr von Ihm gekauft iii Fass haben xviii Eimer großer Maß"
+        "translation": "Ebenfalls mehr von Im gekauft, iii Fässer, haben xviii Eimer großer Maß"
       },
       {
         "latin": "urnam per xii s. d. facit xxx f. Rhen. vi s. d. dominica post margarethe",
@@ -6859,11 +6859,11 @@
       },
       {
         "latin": "Item mer von Im kaufft In die augustini iii vässel angenomen",
-        "translation": "Ebenfalls mehr von Ihm gekauft am Tag des Augustinus iii Fässchen angenommen"
+        "translation": "Ebenfalls mehr von Im gekauft, am Tag des Augustinus, iii Fässchen angenommen"
       },
       {
         "latin": "für xviii Emer urnam per xiij̸ s. d. facit xxxii f. Rhen. xxx d.",
-        "translation": "für xviii Eimer die Urne zu xiij̸ s. d., ergibt xxxii f. Rhen. xxx d."
+        "translation": "für xviii Emer die Urne für xiij̸ s. d., ergibt xxxii f. Rhen. xxx d."
       },
       {
         "latin": "Item A domino abbate de altach inferiori unum ternarium vini In Vilshofen percep...",
@@ -6879,7 +6879,7 @@
       },
       {
         "latin": "Item Emimus lanndshuete viij̸ Emer i viertel magne urne Ellsass urnam",
-        "translation": "Ebenfalls gekauft in Landshut viij̸ Eimer i viertel, eine große Urne Elsässer Urne"
+        "translation": "Ebenfalls gekauft in Landshut, viij̸ Emer i Viertel, große Urne, Elsässer Urne"
       },
       {
         "latin": "per xvii s. d. facit xviii f. Rhen. v s. xxii d. cum aliis expensis",
@@ -6895,7 +6895,7 @@
       },
       {
         "latin": "Item kaufft vom Choncz pehaimer de Passau xl Emer hewrigen",
-        "translation": "Ebenfalls gekauft vom Choncz Pehaimer aus Passau xl Eimer heurigen"
+        "translation": "Ebenfalls gekauft vom Choncz Pehaimer aus Passau, xl Emer heutiger Wein"
       },
       {
         "latin": "Osterwein urnam per i f. Rhen.",
@@ -6915,7 +6915,7 @@
       },
       {
         "latin": "Item kaufft von unnserem wiert Enczenloher lxxxxj̸ Emer osterwein",
-        "translation": "Ebenfalls gekauft von unserem Wirt Enczenloher lxxxxj̸ Eimer Osterwein"
+        "translation": "Ebenfalls gekauft von unserem Wirt Enczenloher, lxxxxj̸ Emer Osterwein"
       },
       {
         "latin": "urnam per v s. xx facit lxiiii lb. xv d. maut und scheffmüet und",
@@ -6923,7 +6923,7 @@
       },
       {
         "latin": "auffschlag frei zelle und gemacht daran Im noch schuldig iC f. Rhen.",
-        "translation": "Aufschlag frei, zähle und gemacht daran ist ihm noch schuldig iC f. Rhen."
+        "translation": "Aufschlag frei, Zelle und gemacht, daran ist ihm noch iC f. Rhen. schuld"
       },
       {
         "latin": "und xvij̸ Emer den gruenberger kaufft hat vom Jorgen zue kuenssndorff",
@@ -6999,15 +6999,15 @@
       },
       {
         "latin": "Dedimus pro ovis emptis",
-        "translation": "Wir gaben für gekaufte Eier"
+        "translation": "Wir gaben für gekaufte Schafe"
       },
       {
         "latin": "Item pro ovis emptis .l d. mer lx d. mer lxxii d.",
-        "translation": "Ebenfalls für gekaufte Eier .l d. mehr lx d. mehr lxxii d."
+        "translation": "Ebenfalls für gekaufte Schafe .l d. mehr lx d. mehr lxxii d."
       },
       {
         "latin": "Item dedimus pro ovis emptis per möringer In absencia nostra iii lb. ii d.",
-        "translation": "Ebenfalls gaben wir für gekaufte Eier durch Möringer in unserer Abwesenheit iii lb. ii d."
+        "translation": "Ebenfalls gaben wir für gekaufte Schafe durch Möringer in unserer Abwesenheit iii lb. ii d."
       },
       {
         "latin": "Item lii d. Item xlii d. mer viiii s. xxvi d.",
@@ -7042,7 +7042,7 @@
       },
       {
         "latin": "Dedimus pro Semellis sew albis panibus emptis",
-        "translation": "Wir gaben für Semmeln oder weiße Brote gekauft"
+        "translation": "Wir gaben für gekaufte Semmeln oder weiße Brote"
       },
       {
         "latin": "Dedimus pro Semellis per fratrem gruenberger xv s. i d.",
@@ -7058,11 +7058,11 @@
       },
       {
         "latin": "5 lb. 5 s. 11 d.",
-        "translation": "5 lb. 5 s. 11 d. [Glosse]"
+        "translation": "5 lb. 5 s. 11 d."
       },
       {
         "latin": "Dedimus pro Sagimine empto",
-        "translation": "Wir gaben für gekauftes Saginum"
+        "translation": "Wir gaben für gekauftes Schweineschmalz"
       },
       {
         "latin": "Item pro xxiiii ciffis Sagiminis per viii d. dedimus vi s. xii d. Im Zamr...ch",
@@ -7082,7 +7082,7 @@
       },
       {
         "latin": "Item Mer von der Jacobin von wiffel S kaufft Schmalcz umb v s. xxvi d.",
-        "translation": "Ebenfalls mehr von der Jacobin von Wiffel gekauft Schmalz für v s. xxvi d."
+        "translation": "Ebenfalls mehr von der Jacobin von Wiffel gekauftes Schmalz für v s. xxvi d."
       },
       {
         "latin": "12 lb. v s. d. mer 5 s. 26 d. mer i lb. d.",
@@ -7090,7 +7090,7 @@
       },
       {
         "latin": "Dedimus pro oleribus videlicet Rappis cepis cerusis pomis piris",
-        "translation": "Wir gaben für Gemüse, nämlich Rüben, Zwiebeln, Kirschen, Äpfeln, Birnen,"
+        "translation": "Wir gaben für Gemüse, nämlich Rüben, Zwiebeln, Kirschen, Äpfel, Birnen"
       },
       {
         "latin": "merusis et aliis leguminibus et seminibus emptis",
@@ -7122,7 +7122,7 @@
       },
       {
         "latin": "Im geben x s. d. per möringer das annder noch schuldig",
-        "translation": "Im Geben x s. d. per Möringer das andere noch schuldig"
+        "translation": "Ihm gegeben x s. d. per Möringer, das andere noch schuldig"
       },
       {
         "latin": "Item dedimus pro cepis et pisis per fratrem gruenberger ii lb. lxxviiii d.",
@@ -7196,11 +7196,11 @@
       },
       {
         "latin": "Item mer i libram prawnstupp umb xiii s. xxvii d.",
-        "translation": "Ebenfalls mehr i Pfund Braunstupp für xiii s. xxvii d."
+        "translation": "Ebenfalls mer i libram Braunstupp umb xiii s. xxvii d."
       },
       {
         "latin": "Item mer i vierdung Zymentroren umb lxxxiiii d.",
-        "translation": "Ebenfalls mehr i Viertel Zymentroren für lxxxiiii d."
+        "translation": "Ebenfalls mer i Viertel Zymentroren umb lxxxiiii d."
       },
       {
         "latin": "Item v libras Sayffen lxxxiiii d.",
@@ -7216,7 +7216,7 @@
       },
       {
         "latin": "mer 10 f. Rhen.",
-        "translation": "mer 10 f. Rhen."
+        "translation": "Ebenfalls 10 f. Rhen."
       },
       {
         "latin": "Dedimus pro officio custodis videlicet cera oleo hostiis et",
@@ -7228,11 +7228,11 @@
       },
       {
         "latin": "Item kaufft vom Nidermair von Gumperting lii libras unßliecht per vii d.",
-        "translation": "Ebenfalls gekauft vom Nidermair von Gumperting lii Pfund Unschlitt zu vii d."
+        "translation": "Ebenfalls gekauft vom Nidermair von Gumperting lii libras unßliecht per vii d."
       },
       {
         "latin": "facit xii s. iiii d.",
-        "translation": "ergibt xii s. iiii d."
+        "translation": "macht xii s. iiii d."
       },
       {
         "latin": "Item pro iiC olei kruegelmullner dedimus vi f. Rhen. iiii s. xx d.",
@@ -7272,15 +7272,15 @@
       },
       {
         "latin": "Item Kruegelmullner pro iC oloe olei 3a feria post palmarum dedimus xxiii s. x d.",
-        "translation": "Ebenfalls dem Kruegelmüller für iC Öllampen am Dienstag nach Palmsonntag gaben wir xxiii s. x d."
+        "translation": "Ebenfalls dem Kruegelmüller für iC Öl am Dienstag nach Palmsonntag gaben wir xxiii s. x d."
       },
       {
         "latin": "Item dem Sybner von passaw umb xj̸ libris wachs f ii f. Rhen. xxi d.",
-        "translation": "Ebenfalls dem Sybner von Passau für xj̸ lb. Wachs ii f. Rhen. xxi d."
+        "translation": "Ebenfalls dem Sybner von Passau umb xj̸ libras Wachs f ii f. Rhen. xxi d."
       },
       {
         "latin": "Item me",
-        "translation": "Ebenfalls mir"
+        "translation": "Ebenfalls"
       },
       {
         "latin": "40 lb. d.",
@@ -7299,7 +7299,7 @@
       },
       {
         "latin": "Dedimus pro cutellis piretis oculariis cingulis bursis pileis et",
-        "translation": "Wir gaben für kleine Messer, Augengläser, Gürtel, Beutel, Mützen und"
+        "translation": "Wir gaben für kleine Messer, Birette, Augengläser, Gürtel, Beutel, Mützen und"
       },
       {
         "latin": "aliis necessariis fratribus",
@@ -7323,7 +7323,7 @@
       },
       {
         "latin": "pfierselknecht xii d. ad purgkhaußen xii d.",
-        "translation": "Pfierselknecht xii d. für Purgkhaußen xii d."
+        "translation": "Pfierselknecht xii d. an Purgkhaußen xii d."
       },
       {
         "latin": "solutus est totaliter Cristoff vahenlueger",
@@ -7339,7 +7339,7 @@
       },
       {
         "latin": "ad purgkhausen xii d. pfierslknecht et lxx d. pottulan",
-        "translation": "Nach Purgkhausen xii d. dem Pferdeknecht und lxx d. dem Boten"
+        "translation": "Nach Purgkhausen xii d. Pfierselknecht und lxx d. Pottulan"
       }
     ]
   },
@@ -7398,7 +7398,7 @@
       },
       {
         "latin": "vel plaustrum feni dedimus ain fueder hew",
-        "translation": "oder einen Wagen Heu gaben wir ein Fuder Heu"
+        "translation": "Oder wir gaben einen Wagen Heu, ein Fuder Heu."
       }
     ]
   },
@@ -7449,7 +7449,7 @@
       },
       {
         "latin": "Item dedimus fratri nicolao de waldsachsen pro ceralibus xxiiii d.",
-        "translation": "Ebenfalls gaben wir Bruder Nikolaus von Waldsachsen für Getreide xxiiii d."
+        "translation": "Ebenfalls gaben wir Bruder Nikolaus von Waldsachsen für Wachskerzen xxiiii d."
       },
       {
         "latin": "Item iterum uni fratri de corana ad waldermach pro Sumptibus xxi d.",
@@ -7509,7 +7509,7 @@
       },
       {
         "latin": "Item bibales piscatori de arnnstorff qui attulit a domino Klosen pisces xxxii kr.",
-        "translation": "Ebenfalls dem Fischer von Arnstorff, der vom Herrn Klosen Fische brachte, xxxii kr."
+        "translation": "Ebenfalls Trinkgelder dem Fischer von Arnstorf, der vom Herrn Klosen Fische brachte, xxxii kr."
       },
       {
         "latin": "Item In die Cene Iuvenibus in lotione pedum dedimus per cellerarium vii s. xvii d.",
@@ -7556,7 +7556,7 @@
       },
       {
         "latin": "Item dedimus fratri Johanni hausner ad pfarrkirchen i lb. d.",
-        "translation": "Ebenfalls gaben wir Bruder Johann Hausner zur Pfarrkirche i lb. d."
+        "translation": "Ebenfalls gaben wir dem Bruder Johann Hausner nach Pfarrkirchen i lb. d."
       },
       {
         "latin": "Item patri priori ad pataviam dedimus iiij̸ s. d. Acta dominica Exaudi",
@@ -7596,15 +7596,15 @@
       },
       {
         "latin": "Item dedimus fratri Udalrico et georgio versus Costlaren pro sumptibus xii s. d.",
-        "translation": "Ebenfalls gaben wir Bruder Udalricus und Georg nach Kösslarn für Ausgaben xii s. d."
+        "translation": "Ebenfalls gaben wir Bruder Udalricus und Georg nach Costlaren für Ausgaben xii s. d."
       },
       {
         "latin": "Item dedimus fratri udalrico et georgio versus Costlaren xii s. d.",
-        "translation": "Ebenfalls gaben wir Bruder Udalricus und Georg nach Kösslarn xii s. d."
+        "translation": "Ebenfalls gaben wir Bruder Udalricus und Georg nach Costlaren xii s. d."
       },
       {
         "latin": "Item dedimus priori ad Sinodum provinciale ad lanndshuetam pro sumptibus viii f. Rhen.",
-        "translation": "Ebenfalls gaben wir dem Prior zur Provinzialsynode zur Landsteuer für Ausgaben viii f. Rhen."
+        "translation": "Ebenfalls gaben wir dem Prior zur Provinzialsynode nach Landshut für Ausgaben viii f. Rhen."
       },
       {
         "latin": "In vigilia assumpcionis / Item fratri krottentaler ad Münster sumptos xl d.",
@@ -7612,7 +7612,7 @@
       },
       {
         "latin": "Item consumpsit dominus graciosus una cum valete et honoranciis In münster de Costlaren",
-        "translation": "Ebenfalls verzehrte der gnädige Herr zusammen mit dem Diener und Ehrengeleit in Münster von Costlaren"
+        "translation": "Ebenfalls verzehrte der gnädige Herr zusammen mit dem Abschied und Ehren in Münster von Costlaren."
       },
       {
         "latin": "et etiam In Schonaw iiii f. Rhen.",
@@ -7632,7 +7632,7 @@
       },
       {
         "latin": "Item priori Sumptus ad pfarrkirchen lxxv d. mer In Vilshofen xvi d.",
-        "translation": "Ebenfalls dem Prior Ausgaben zur Pfarrkirche lxxv d. Mer in Vilshofen xvi d."
+        "translation": "Ebenfalls dem Prior Ausgaben für Pfarrkirchen lxxv d.; außerdem in Vilshofen xvi d."
       },
       {
         "latin": "Item ad winczer überzefaren cum vino empto et sumptus xxxii d.",
@@ -7648,7 +7648,7 @@
       },
       {
         "latin": "Item consumpserunt colani nostri cum fectura Sagminis ad lanndshutam viiii s. xxv d.",
-        "translation": "Ebenfalls verbrauchten unsere Kutscher mit der Anfertigung des Saumzeugs nach Landshut viiii s. xxv d."
+        "translation": "Ebenfalls verbrauchten unsere Pächter mit der Anfertigung des Saumzeugs nach Landshut viiii s. xxv d."
       },
       {
         "latin": "Item dedimus priori una cum prefecto de Vilshofen versus Strawbing pro",
@@ -7696,7 +7696,7 @@
       },
       {
         "latin": "Mer ad Scharding iiii s. d.",
-        "translation": "Mehr nach Schärding iiii s. d."
+        "translation": "Ebenfalls nach Schärding iiii s. d."
       },
       {
         "latin": "55 lb. 6 s. 21 d.",
@@ -7727,11 +7727,11 @@
       },
       {
         "latin": "Mer recepimus ab eo illo tempore pannum pro fatuo et alexandre pro vi f. Rhen. non est solutum",
-        "translation": "Wir erhielten außerdem von ihm zu jener Zeit Tuch für den Einfältigen und Alexander für vi f. Rhen., ist nicht bezahlt"
+        "translation": "Wir erhielten außerdem von ihm zu jener Zeit Tuch für den Fatuen und Alexander für vi f. Rhen., ist nicht bezahlt"
       },
       {
         "latin": "Item dedimus awer de pfarrkirchen pro uno panno iiii f. Rhen.",
-        "translation": "Ebenfalls gaben wir dem Auer von der Pfarrkirche für ein Tuch iiii f. Rhen."
+        "translation": "Ebenfalls gaben wir an den Auer von Pfarrkirchen für ein Tuch iiii f. Rhen."
       },
       {
         "latin": "Item dem Ruhler civi pataviensi umb ain ambstertam xiiii f. Rhen.",
@@ -7743,7 +7743,7 @@
       },
       {
         "latin": "sexta feria post dionisii patavie xviiii f. Rhen.",
-        "translation": "am Freitag nach Dionysii in Passau xviiii f. Rhen."
+        "translation": "am Freitag nach Dionysii in Patavie xviiii f. Rhen."
       },
       {
         "latin": "Item mer von Im genomen plabrot und gelb tuech den narren",
@@ -7783,7 +7783,7 @@
       },
       {
         "latin": "ulnam per xii d. facit x s. xii d.",
-        "translation": "die Elle zu xii d. ergibt x s. xii d."
+        "translation": "die Ulna zu xii d. ergibt x s. xii d."
       },
       {
         "latin": "Item kaufft vom schuechman xxx ellen harbens ulnam per",
@@ -7839,7 +7839,7 @@
       },
       {
         "latin": "14 lb. 4 s. 21 d.",
-        "translation": "xiiii lb. 4 s. 21 d."
+        "translation": "14 lb. 4 s. 21 d."
       }
     ]
   },
@@ -7858,7 +7858,7 @@
       },
       {
         "latin": "Item dedimus fratri gregorio patavie ad curiam Romanam xxxiii f. Rhen.",
-        "translation": "Ebenfalls gaben wir Bruder Gregorius in Passau für den römischen Hof xxxiii f. Rhen."
+        "translation": "Ebenfalls gaben wir Bruder Gregorius aus Passau für den römischen Hof xxxiii f. Rhen."
       },
       {
         "latin": "ad redimendum vexaciones ex parte parrochie nostre In geyrstall",
@@ -7866,7 +7866,7 @@
       },
       {
         "latin": "mer xiii f. Rhen. xlviii d.",
-        "translation": "nämlich xiii f. Rhen. xlviii d."
+        "translation": "Ebenfalls xiii f. Rhen. xlviii d."
       },
       {
         "latin": "Item pro bulla Salczburge ad panckam ad curiam Romanam lxxvii f. Rhen.",
@@ -7913,7 +7913,7 @@
       },
       {
         "latin": "Item maderlon auff dem haberen ausgeben v s. d.",
-        "translation": "Ebenfalls Madelohn auf dem Hafer ausgegeben v s. d."
+        "translation": "Ebenfalls Mäherlohn auf dem Hafer ausgegeben v s. d."
       },
       {
         "latin": "Item dedimus fenicultoribus in primo feno per cellerarium fratrem udalrici vi lb. v s. xi d.",
@@ -7929,7 +7929,7 @@
       },
       {
         "latin": "Item fenicultoribus In graymmat dedimus per möringer iii lb. iii s. viiii d.",
-        "translation": "Ebenfalls den Heumachern in Graymmat gaben wir durch Möringer iii lb. iii s. viiii d."
+        "translation": "Ebenfalls den Heusammlern in Graymmat gaben wir durch Möringer iii lb. iii s. viiii d."
       },
       {
         "latin": "29 lb. 6 s. 26 d.",
@@ -7949,7 +7949,7 @@
       },
       {
         "latin": "feriam ante laurencii ii lb. vi s. xxiii d. ut patet in computacione sua",
-        "translation": "Feiertag vor Laurenti ii lb. vi s. xxiii d. wie es in seiner Abrechnung ersichtlich ist"
+        "translation": "Werktag vor Laurenti ii lb. vi s. xxiii d. wie es in seiner Abrechnung ersichtlich ist"
       },
       {
         "latin": "Item per fratrem gruenberger cellerarium a festo laurencii dedimus messoribus v lb. v s. iiii d.",
@@ -7985,7 +7985,7 @@
       },
       {
         "latin": "mer iiii s. xxvi d.",
-        "translation": "Miete iiii s. xxvi d."
+        "translation": "Ebenfalls iiii s. xxvi d."
       },
       {
         "latin": "5 lb. 3 s. 28 d.",
@@ -8107,7 +8107,7 @@
       },
       {
         "latin": "vini urn vi f. Rhen. 3 s. d. tenetur aduc i f. In illo vino",
-        "translation": "Wein, Urnen vi f. Rhein. 3 s. d. schuldet noch i f. In jenem Wein"
+        "translation": "Wein, Urne vi f. Rhen., 3 s. d., ist zu zahlen i f. In jenem Wein"
       },
       {
         "latin": "Recepimus a cellerario pro vino vendito iuxta suum registrum a festo",
@@ -8166,7 +8166,7 @@
       },
       {
         "latin": "Item Recepimus pro feno ab aliquibus dietariis i lb. d. iii s. d.",
-        "translation": "Ebenfalls haben wir eingenommen für Heu von einigen Gästen i lb. d. iii s. d."
+        "translation": "Ebenfalls haben wir eingenommen für Heu von einigen Personen i lb. d. iii s. d."
       },
       {
         "latin": "Item Recepimus pro feno ab aliquibus familiaribus nostris In die agathe xviii s. d.",
@@ -8249,7 +8249,7 @@
       },
       {
         "latin": "Item Recepimus a wilhelmo de Aidenbach pro quinque palledris annales",
-        "translation": "Ebenfalls erhalten von Wilhelm von Aidenbach für fünf jährliche Pallien"
+        "translation": "Ebenfalls erhalten von Wilhelm von Aidenbach für fünf einjährige Fohlen"
       },
       {
         "latin": "xxxiii f. Rhen.",
@@ -8300,7 +8300,7 @@
       },
       {
         "latin": "Recepimus pro lana vendita vendita",
-        "translation": "Wir empfingen für verkauften verkauften Woll"
+        "translation": "Wir empfingen für verkaufte Wolle"
       },
       {
         "latin": "Item N gmayner de euchendorff iiiiC xxx libras lane Centenarium per vj̸ f. Rhen.",
@@ -8379,7 +8379,7 @@
       },
       {
         "latin": "Item Recepimus a peter Schmidt von der pfenendt Im und seiner haussr...",
-        "translation": "Ebenfalls empfingen wir von Peter Schmidt von der Pfennigmühl, ihm und seinem Haus[halt]..."
+        "translation": "Ebenfalls empfingen wir von Peter Schmidt von der pfenendt und seinem Haus..."
       },
       {
         "latin": "von uns erkaufft umb lxxiii lb.",
@@ -8387,7 +8387,7 @@
       },
       {
         "latin": "Recepimus de Cippo Sancti leonardi de offertorio custodis",
-        "translation": "Wir empfingen von der Opferstöcke-Stiftung St. Leonhard vom Opferstock des Küsters"
+        "translation": "Wir empfingen von Cippo Sancti Leonardi von der Opfergabe des Küsters"
       },
       {
         "latin": "a propriis hominibus de collecturis diebus rogacionum et",
@@ -8395,55 +8395,55 @@
       },
       {
         "latin": "in die Sancti petri a vittricis ecclesiarum",
-        "translation": "am Tag des hl. Petrus von den Kirchen-Vittrices"
+        "translation": "am Tag des hl. Petrus von den Kirchpflegern"
       },
       {
         "latin": "A Vittricis in pleyntting recepimus xxxii d.",
-        "translation": "Von der Vittrice in Pleyntting empfingen wir xxxii d."
+        "translation": "Von dem Kirchpfleger in Pleyntting empfingen wir xxxii d."
       },
       {
         "latin": "A vittricis in awnkirchen xxxvi d.",
-        "translation": "Von der Vittrice in Awnkirchen xxxvi d."
+        "translation": "Von dem Kirchpfleger in Aunkirchen xxxvi d."
       },
       {
         "latin": "A vittricis in gerckweiß lxx d.",
-        "translation": "Von der Vittrice in Gerckweiß lxx d."
+        "translation": "Von dem Kirchpfleger in Gerckweiß lxx d."
       },
       {
         "latin": "A vittricis in Walchsing lv d.",
-        "translation": "Von der Vittrice in Walchsing lv d."
+        "translation": "Von dem Kirchpfleger in Walchsing lv d."
       },
       {
         "latin": "A vittricis In perndorff iii s. x d.",
-        "translation": "Von der Glaserin in Perndorff iii s. x d."
+        "translation": "Von dem Kirchpfleger in Perndorff iii s. x d."
       },
       {
         "latin": "A vittricis in Emmerstorf iii s. xx d.",
-        "translation": "Von der Glaserin in Emmerstorf iii s. xx d."
+        "translation": "Von dem Kirchpfleger in Emmerstorf iii s. xx d."
       },
       {
         "latin": "A vittricis in uttenkoven lxiiii d.",
-        "translation": "Von der Glaserin in Uttenkoven lxiiii d."
+        "translation": "Von dem Kirchpfleger in Uttenkoven lxiiii d."
       },
       {
         "latin": "A vittricis in Khünczen xxv d.",
-        "translation": "Von der Glaserin in Khünczen xxv d."
+        "translation": "Von dem Kirchpfleger in Khünczen xxv d."
       },
       {
         "latin": "A vittricis in eckelhaim iii s. xxvii d.",
-        "translation": "Von der Glaserin in Eckelhaim iii s. xxvii d."
+        "translation": "Von dem Kirchpfleger in Eckelhaim iii s. xxvii d."
       },
       {
         "latin": "A vittricis in Beutelsbach iiii s. xvi d.",
-        "translation": "Von der Glaserin in Beutelsbach iiii s. xvi d."
+        "translation": "Von dem Kirchpfleger in Beutelsbach iiii s. xvi d."
       },
       {
         "latin": "A vittricis in gravendorff vi s. viij̸ d.",
-        "translation": "Von der Glaserin in Gravendorff vi s. viij̸ d."
+        "translation": "Von dem Kirchpfleger in Gravendorff vi s. viij̸ d."
       },
       {
         "latin": "Item Recepimus a propriis hominibus in die Sancti petri xiii s. xx d.",
-        "translation": "Ebenfalls empfangen von eigenen Leuten am Tag des Heiligen Petrus xiii s. xx d."
+        "translation": "Ebenfalls empfingen wir von den eigenen Leuten am Tag des hl. Petrus xiii s. xx d."
       },
       {
         "latin": "Item Recepimus de Cipo Sancti leonardi xvii s. d. In vigilia epiphanie",
@@ -8451,11 +8451,11 @@
       },
       {
         "latin": "Item Recepimus a custode nostro feria sexta post misericordias domini iii s. v d.",
-        "translation": "Ebenfalls empfangen von unserem Wächter am Freitag nach Misericordias Domini iii s. v d."
+        "translation": "Ebenfalls empfingen wir von unserem Wächter am Freitag nach Misericordias Domini iii s. v d."
       },
       {
         "latin": "8 lb. 27 d. i hall.",
-        "translation": "viij lb. xxvij d. i hall."
+        "translation": "8 lb. 27 d. i hall."
       }
     ]
   },
@@ -8474,11 +8474,11 @@
       },
       {
         "latin": "Item Recepimus ab prantel et gabriele Sartore in debitis remediorum anno",
-        "translation": "Ebenfalls erhielten wir von Prantel und Gabriel Sartor für Schulden der im vergangenen Jahr"
+        "translation": "Ebenfalls erhielten wir von Prantel und Gabriel, Schneidern, für Schulden der Heilmittel im Jahr"
       },
       {
         "latin": "preterito fratre gruenberger factis facit iii f. Rhen. iuxta computacionem factam",
-        "translation": "vom Bruder Grünberger gemachten Heilmittel, ergibt iii f. Rhen. gemäß der gemachten Abrechnung"
+        "translation": "Vom verstorbenen Bruder Grünberger betragen die gemachten Dinge iii f. Rhen., gemäß der erstellten Abrechnung."
       },
       {
         "latin": "Item recepimus a fratre michaele protunc plebano ad sanctum petrum feria quinta",
@@ -8518,7 +8518,7 @@
       },
       {
         "latin": "Recepimus a vittricis ecclesie Sancti petri",
-        "translation": "Wir erhielten von der Küsterin der Kirche Sankt Petri"
+        "translation": "Wir erhielten vom Kirchpfleger der Kirche Sankt Petri"
       },
       {
         "latin": "iii lb. iii s. iii d.",
@@ -8526,11 +8526,11 @@
       },
       {
         "latin": "Recepimus a vittricis ecclesie Beate virginis marie In Weng",
-        "translation": "Wir erhielten von der Küsterin der Kirche der seligen Jungfrau Maria in Weng"
+        "translation": "Wir erhielten vom Kirchpfleger der Kirche der seligen Jungfrau Maria in Weng"
       },
       {
         "latin": "v lb. iiii s. xv d. mer .l. d. ex cipo",
-        "translation": "v lb. iiii s. xv d. und l d. vom Grabmal"
+        "translation": "v lb. iiii s. xv d. mer. l. d. aus dem Cipo."
       }
     ]
   },
@@ -8565,15 +8565,15 @@
       },
       {
         "latin": "mer per gregorium xx f. Rhen. patavie mer viiii f. per",
-        "translation": "Kaufmannswaren durch Gregorius xx f. Rhen. in Passau Kaufmannswaren viiii f. durch"
+        "translation": "Ebenfalls durch Gregorius xx f. Rhen. in Padua Ebenfalls viiii f. durch"
       },
       {
         "latin": "hospitem mer ex parte Jorii In gneissendorff vi f. Rhen.",
-        "translation": "den Gastwirt Kaufmannswaren von Jorius in Gneissendorff vi f. Rhen."
+        "translation": "Gast mer ex parte Jorii in gneissendorff vi f. Rhen."
       },
       {
         "latin": "mer xvii f. Rhen. et tenemur sibi aduc omnibus computatis viii f. Rhen.",
-        "translation": "Kaufmannswaren xvii f. Rhen. und wir schulden ihm noch insgesamt alles gerechnet viii f. Rhen."
+        "translation": "Ebenfalls xvii f. Rhen. und wir schulden ihm noch insgesamt alles gerechnet viii f. Rhen."
       },
       {
         "latin": "facit In Nigra moneta lxvi lb. lx d.",
@@ -8592,7 +8592,7 @@
     "lines": [
       {
         "latin": "Sequuntur expense Anno domini etc. Nono",
-        "translation": "Folgen die Ausgaben im Jahre des Herrn usw. Neuntem"
+        "translation": "Folgen die Ausgaben im Jahre des Herrn usw. im neunten Jahr"
       },
       {
         "latin": "Conduccio familie",
@@ -8612,11 +8612,11 @@
       },
       {
         "latin": "Item post obitum moringer Vert filius eius Johannes et gener eius thumecz lämpel Computantes",
-        "translation": "Ebenfalls nach dem Tod Moringers sein Sohn Veit und sein Schwiegersohn Thumecz Lämpel abrechnend"
+        "translation": "Ebenfalls nach dem Tod des Moringer, Vert, sein Sohn Johannes und sein Schwiegersohn Thumecz Lämpel, abrechnend"
       },
       {
         "latin": "cum domino Reverendo precium moringer olim nostri Iudicis et scriptoris et soluti sunt totaliter",
-        "translation": "mit dem ehrwürdigen Herrn Preis für den einstigen unseres Richters und Schreibers Moringer und vollständig bezahlt sind"
+        "translation": "mit dem ehrwürdigen Herrn, dem Preis des einstigen Richters und Schreibers Moringer, und vollständig bezahlt sind"
       },
       {
         "latin": "omnibus previsis et computatis feria sexta post Erasmi Anno decimo in presencia senio-",
@@ -8624,7 +8624,7 @@
       },
       {
         "latin": "rum Monasterii Aldersbach",
-        "translation": "sten des Klosters Aldersbach"
+        "translation": "des Klosters Aldersbach"
       },
       {
         "latin": "Camerarius martinus xv s. d.",
@@ -8695,7 +8695,7 @@
       },
       {
         "latin": "Idem habet ypoliti viiii s. d.",
-        "translation": "Derselbe erhält zu Hippolyt ix s. d."
+        "translation": "Derselbe erhält viiii s. d. am Tag des Hippolyt"
       },
       {
         "latin": "Item idem habet a nobis ii Rhen. f. in die sancte angnetis virginis",
@@ -8830,11 +8830,11 @@
       },
       {
         "latin": "Pistor Secundus sew peitlerer liendel xx s. d.",
-        "translation": "Bäcker Zweiter, genannt Peitlerer, Leintuch xx s. d."
+        "translation": "Zweiter Bäcker, genannt Peitlerer, Liendel xx s. d."
       },
       {
         "latin": "Idem habet in die pentecostes liendl de uno quartale anni v s. d.",
-        "translation": "Derselbe erhält am Pfingsttag Leintuch von einem Vierteljahr v s. d."
+        "translation": "Derselbe erhält am Pfingsttag Liendl von einem Vierteljahr v s. d."
       },
       {
         "latin": "Idem habet In die ypoliti v s. d. hennsel",
@@ -8890,7 +8890,7 @@
       },
       {
         "latin": "Ianitor in pistrino hueber v s. d.",
-        "translation": "Pförtner in der Mühle Hueber v s. d."
+        "translation": "Türhüter in der Bäckerei Hueber v s. d."
       },
       {
         "latin": "solutus est in die agathe",
@@ -8953,7 +8953,7 @@
       },
       {
         "latin": "Primus colanus Wolfgangus iii lb. vi s. d.",
-        "translation": "Erster Kolone Wolfgang iii lb. vi s. d."
+        "translation": "Erster Pächter Wolfgangus iii lb. vi s. d."
       },
       {
         "latin": "Idem habet in die ypoliti x s. d.",
@@ -8965,7 +8965,7 @@
       },
       {
         "latin": "Secundus colanus Hennsel tandem liendel iii lb. iiij̸ s. d.",
-        "translation": "Zweiter Kolone Hennsel schließlich iii lb. iiij̸ s. d. Leintuch"
+        "translation": "Zweiter Pächter Hennsel tandem liendel iii lb. iiij̸ s. d."
       },
       {
         "latin": "Idem habet in die ypoliti i f. Rhen.",
@@ -8977,7 +8977,7 @@
       },
       {
         "latin": "Tertius colanus Hacklstorffer iii lb. iiij̸ s. d.",
-        "translation": "Dritter Kolone Hacklstorffer iii lb. iiij̸ s. d."
+        "translation": "Dritter Pächter Hacklstorffer iii lb. iiij̸ s. d."
       },
       {
         "latin": "Item idem habet in die ascensionis viiii s. d.",
@@ -8997,7 +8997,7 @@
       },
       {
         "latin": "Quartus colanus liendel iii lb. xxx d.",
-        "translation": "Vierter Kolone Liendel iii lb. xxx d."
+        "translation": "Vierter Pächter Liendel iii lb. xxx d."
       },
       {
         "latin": "Idem habet in die ascensionis i f. Rhen.",
@@ -9100,7 +9100,7 @@
       },
       {
         "latin": "Idem habet dominica Oculi lx d. mer In die ascensionis xxx d.",
-        "translation": "Derselbe hat am Sonntag Oculi lx d. Lohn am Tag der Himmelfahrt xxx d."
+        "translation": "Derselbe hat am Sonntag Oculi lx d. ebenfalls am Tag der Himmelfahrt xxx d."
       },
       {
         "latin": "Idem habet ypoliti iii s. d. / plus habet iii s. d. in die Mauricii per officialem nostrum",
@@ -9147,7 +9147,7 @@
       },
       {
         "latin": "solutus est in die urbani in computacione ut patet in suo registro",
-        "translation": "ist bezahlt worden am Tag des Urban in der Abrechnung, wie es in seinem Register ersichtlich ist"
+        "translation": "ist bezahlt worden am Urbanstag in der Abrechnung, wie es in seinem Register ersichtlich ist"
       },
       {
         "latin": "Armentaria in Strass",
@@ -9163,7 +9163,7 @@
       },
       {
         "latin": "Idem habet i lb. d. fur xxxiiii ellen rupffen tue x",
-        "translation": "Dieselbe hat i lb. d. erhalten für xxxiiii Ellen grobes Tuch"
+        "translation": "Dieselbe hat i lb. d. erhalten für xxxiiii Ellen Rupfen tue x"
       },
       {
         "latin": "soluta est totaliter",
@@ -9179,7 +9179,7 @@
       },
       {
         "latin": "Secunda ancilla petronella xiij̸ s. d.",
-        "translation": "Zweite Magd Petronella xiiij̸ s. d."
+        "translation": "Zweite Magd Petronella xiij̸ s. d."
       },
       {
         "latin": "soluta est",
@@ -9199,7 +9199,7 @@
       },
       {
         "latin": "Idem habet in die ascensionis lx d. Idem habet ypoliti v s. d.",
-        "translation": "Derselbe hat am Tag der Himmelfahrt lx d. Derselbe hat [an] Hypolit v s. d."
+        "translation": "Derselbe hat am Tag der Himmelfahrt lx d. Derselbe hat ypoliti v s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -9246,7 +9246,7 @@
       },
       {
         "latin": "eadem ancilla habet ypoliti vii s. d.",
-        "translation": "dieselbe Magd hat von Ipoliti vii s. d."
+        "translation": "dieselbe Magd hat bei Ipoliti vii s. d."
       },
       {
         "latin": "soluta est totaliter In die agathe per magistrum curie",
@@ -9266,7 +9266,7 @@
       },
       {
         "latin": "solutus est totaliter in die agathe filio suo praxatori",
-        "translation": "vollständig bezahlt am Tag der Agatha seinem Sohn, dem Brauer"
+        "translation": "wurde vollständig bezahlt am Tag der Agatha seinem Sohn, dem Brauer"
       }
     ]
   },
@@ -9340,7 +9340,7 @@
       },
       {
         "latin": "16 lb. 6 s. xxvii d.",
-        "translation": "16 lb. 6 s. xxvii d. [Glosse]"
+        "translation": "16 lb. 6 s. xxvii d."
       },
       {
         "latin": "Tittulus promotoris nostri et prolocutorum nostrorum",
@@ -9391,7 +9391,7 @@
       },
       {
         "latin": "Polimitario",
-        "translation": "Dem Bortenwirker"
+        "translation": "Dem Polimitario"
       },
       {
         "latin": "Pistr pictori",
@@ -9434,7 +9434,7 @@
       },
       {
         "latin": "Stangnificis",
-        "translation": "Stangenmachern"
+        "translation": "Stangenmacher"
       },
       {
         "latin": "Item dedimus magistro chunrado de Passau in die Bartholomei fur",
@@ -9450,7 +9450,7 @@
       },
       {
         "latin": "Calceatoris",
-        "translation": "Schustern"
+        "translation": "Schuster"
       },
       {
         "latin": "Item computavimus cum calceatore Johanne fügsel pro singulis laboribus quos",
@@ -9458,7 +9458,7 @@
       },
       {
         "latin": "fecit hoc anno et eciam ex parte scriniatorisbus et fecerunt",
-        "translation": "er in diesem Jahr verrichtete und auch im Auftrag der Schreinern, und sie ergaben"
+        "translation": "er in diesem Jahr verrichtete und auch im Auftrag der Schatullierer, und sie verrichteten"
       },
       {
         "latin": "labores in pecunia xxii s. xxv d. quos in solucione sui debiti",
@@ -9470,7 +9470,7 @@
       },
       {
         "latin": "Funificis",
-        "translation": "Den Räucherern"
+        "translation": "Rauchmachern"
       },
       {
         "latin": "Idem habet in dem hewrigen haniff auff sein arbait i lb. d.",
@@ -9486,7 +9486,7 @@
       },
       {
         "latin": "Item dedimus funifici an seiner arbait Im haniff f. v s. x d.",
-        "translation": "Ebenfalls gaben wir dem Räucherer für seine Arbeit im Hanf f. v s. x d."
+        "translation": "Ebenfalls gaben wir dem Rauchmacher für seine Arbeit im Hanf f. v s. x d."
       },
       {
         "latin": "feria 2a post Urbani",
@@ -9494,7 +9494,7 @@
       },
       {
         "latin": "14 s. x d.",
-        "translation": "xiiij s. x d."
+        "translation": "14 s. x d."
       },
       {
         "latin": "Currificis",
@@ -9518,7 +9518,7 @@
       },
       {
         "latin": "... iii lb. 85 d.",
-        "translation": "... iii lb. lxxxv d."
+        "translation": "... iii lb. 85 d."
       }
     ]
   },
@@ -9601,11 +9601,11 @@
       },
       {
         "latin": "laboribus videlicet ii oxsen hewt und iiii Sawhewt et aliis nobis factis et dedimus sibi ii f. Rhen.",
-        "translation": "Arbeiten nämlich ii Ochsen Heu gemacht und iiii Säueheu und anderen uns geleisteten und wir gaben ihm ii f. Rhen."
+        "translation": "Arbeiten nämlich ii Ochsenhäute und iiii Schweinehäute und anderen uns geleisteten und wir gaben ihm ii f. Rhen."
       },
       {
         "latin": "Item computavimus cum corrigiatore dominica Esto michi pro omnibus laboribus usque huc",
-        "translation": "Ebenfalls abgerechnet mit dem Korrektor am Sonntag Esto michi für alle Arbeiten bis hierher"
+        "translation": "Ebenfalls abgerechnet mit dem Riemer am Sonntag Esto michi für alle Arbeiten bis hierher"
       },
       {
         "latin": "factis et dedimus sibi x s. d.",
@@ -9617,7 +9617,7 @@
       },
       {
         "latin": "Seratoris",
-        "translation": "dem Säer"
+        "translation": "[des] Säers"
       },
       {
         "latin": "Item dedimus Seratori nostro pro diversis laboribus iii s. iiii d. Acta 4ta feria post festum udalrici",
@@ -9715,11 +9715,11 @@
       },
       {
         "latin": "Scriniatori",
-        "translation": "Dem Schreinmeister"
+        "translation": "Dem Schatullierer"
       },
       {
         "latin": "Item dedimus weiß philippi et Jacobi lx d. recepit frater Johannes",
-        "translation": "Ebenfalls gaben wir am Fest der weißen [Kleider] Philippi und Jacobi lx d. erhielt Bruder Johannes"
+        "translation": "Ebenfalls gaben wir Weiß, Philipp und Jakob lx d., erhielt Bruder Johannes"
       },
       {
         "latin": "Item mer dedimus Sibi Sabbato ante vocem Iocunditatis i lb. xv d.",
@@ -9727,11 +9727,11 @@
       },
       {
         "latin": "Item Weiß In vigilia penthecostes vj̸ tag per xviii d. facit iii s. viiii d.",
-        "translation": "Ebenfalls weiß [Leinwand?] am Vorabend von Pfingsten vj̸ Tage zu xviii d. ergibt iii s. viiii d."
+        "translation": "Ebenfalls Weiß am Vorabend von Pfingsten vj̸ Tage zu xviii d. ergibt iii s. viiii d."
       },
       {
         "latin": "Item Weiß 3a feria post udalrici episcopi xx d.",
-        "translation": "Ebenfalls weiß am dritten Tag nach Ulrich des Bischofs xx d."
+        "translation": "Ebenfalls Weiß am 3. Tag nach dem Bischof Ulrich xx d."
       },
       {
         "latin": "Item dem Weisen In vigilia marie magdalene vi tag per xviii d.",
@@ -9775,7 +9775,7 @@
       },
       {
         "latin": "mene scheitter i per xl d. facit v s. x d.",
-        "translation": "holzscheiter i per xl d. ergibt v s. x d."
+        "translation": "Mene scheitter i per xl d. ergibt v s. x d."
       },
       {
         "latin": "Item dedimus umb dach dem pfleger von pawngarten Sabbato",
@@ -9810,7 +9810,7 @@
       },
       {
         "latin": "Tittulus latrificum magistro per diem xii d. et nocte",
-        "translation": "Titel dem Ziegelmeister pro Tag xii d. und pro Nacht"
+        "translation": "Titel dem Ziegelmeister pro Tag xii d. und nachts"
       },
       {
         "latin": "quando comburunt lateres idem magistro xii d. tribus servis",
@@ -9830,7 +9830,7 @@
       },
       {
         "latin": "Item dem modlknecht vi tag per iiii d. facit xxiiii d.",
-        "translation": "Ebenfalls dem Mühlknecht vi Tage zu je iiii d., ergibt xxiiii d."
+        "translation": "Ebenfalls dem Modelknecht vi Tage zu je iiii d., ergibt xxiiii d."
       },
       {
         "latin": "Item Sabatho ante vocem Iocunditatis dem Ziegelmaister vi tag per xii d. facit lxxii d.",
@@ -9842,11 +9842,11 @@
       },
       {
         "latin": "Item dem modlknecht vi tag per iiii d. facit xxiiii d.",
-        "translation": "Ebenfalls dem Mühlknecht vi Tage zu iiii d., ergibt xxiiii d."
+        "translation": "Ebenfalls dem Modelknecht vi Tage zu iiii d., ergibt xxiiii d."
       },
       {
         "latin": "Item den frawen die die ziegel in den offen tragen haben geben lxiiii d.",
-        "translation": "Ebenfalls den Frauen, die die Ziegel in den Ofen tragen, gegeben lxiiii d."
+        "translation": "Ebenfalls den Frauen, die die Ziegel in den Ofen tragen, geben lxiiii d."
       },
       {
         "latin": "Item dem Ziegelmaister In die ascensionis xiii tag per xii d. facit v s. vi d. hat prent",
@@ -9874,7 +9874,7 @@
       },
       {
         "latin": "Item dem modlknecht viiii tag per iiii d. facit xxxvi d.",
-        "translation": "Ebenfalls dem Lehmknecht viiii Tage zu iiii d. ergibt xxxvi d."
+        "translation": "Ebenfalls dem Modelknecht viiii Tage zu iiii d. ergibt xxxvi d."
       },
       {
         "latin": "Item dem zigelmaister x tag per xii d. facit iiii s. d. hat prent",
@@ -9911,7 +9911,7 @@
       },
       {
         "latin": "Dedimus fratri lazaro ad partes austrie Et ipso kürcz in prompta pecunia lautt",
-        "translation": "Wir gaben Bruder Lazarus für die österreichischen Gebiete und er kurz in barer Münze laut"
+        "translation": "Wir gaben Bruder Lazarus für die österreichischen Gebiete und demselben Kurcz in barer Münze laut"
       },
       {
         "latin": "baider Register iC lxxxvi lb. iii s. d.",
@@ -9975,7 +9975,7 @@
       },
       {
         "latin": "et ascendendo pro missis tempore vindemie",
-        "translation": "und hinaufsteigend für die Boten zur Zeit der Weinlese"
+        "translation": "und hinaufsteigend für die Messen zur Zeit der Weinlese"
       },
       {
         "latin": "umb kürben lvi d.",
@@ -10003,7 +10003,7 @@
       },
       {
         "latin": "lxxxvii f. Rhen. Et dedimus eidem propter vecturam lazari et alius iii f. Rhen. ii d.",
-        "translation": "lxxxvii f. Rhen. Und wir gaben demselben für den Transport des Lazaretts und anderes iii f. Rhen. ii d."
+        "translation": "lxxxvii f. Rhen. Und wir gaben demselben für den Transport des Lazarus und anderer iii f. Rhen. ii d."
       },
       {
         "latin": "facit 78 lb. vi s. d.",
@@ -10035,7 +10035,7 @@
       },
       {
         "latin": "cessariis tempore vindemie per distribucionem nostri hospitis et fratris lazari dedimus",
-        "translation": "tigen Dingen zur Zeit der Weinlese durch Verteilung unseres Gastgebers und des Bruders Lazarus gaben wir"
+        "translation": "für die Geschäfte zur Zeit der Weinlese durch Verteilung unseres Gastgebers und des Bruders Lazarus gaben wir."
       },
       {
         "latin": "lxxii f. et xi d. Item dedi den vasszieheren in vilßhoven dedi",
@@ -10063,7 +10063,7 @@
       },
       {
         "latin": "Dedimus pro botis et caseis ad partes austrie pro mutuariis",
-        "translation": "Wir gaben für Fässer und Käse nach Österreich für die Entleiher"
+        "translation": "Wir gaben für Boote und Käse nach Österreich für die Mautner"
       },
       {
         "latin": "dedimus pilatori pro quatuor paribus botorum ad partes austrie aptis vi s.",
@@ -10094,7 +10094,7 @@
       },
       {
         "latin": "Dedimus pro vino empto ad Tabernam et Nobis",
-        "translation": "Wir gaben für gekauften Wein zur Taverne und für uns"
+        "translation": "Wir gaben für den gekauften Wein an die Taverne und an uns."
       },
       {
         "latin": "Item dedimus hattenhamer pro quinque urnis Rubei vini v lb. d.",
@@ -10118,15 +10118,15 @@
       },
       {
         "latin": "auff gangen",
-        "translation": "raufgegangen"
+        "translation": "auf gegangen"
       },
       {
         "latin": "et sic solutus est totaliter urnam per iii s. xxii",
-        "translation": "et sic solutus est totaliter [Glosse] eine Urne für iii s. xxii"
+        "translation": "und so wurde die Urne insgesamt für iii s. xxii bezahlt"
       },
       {
         "latin": "Item dedimus per nos pro vino Empto diversimode pro nobis et con-",
-        "translation": "Ebenfalls gaben wir durch uns für gekauften Wein auf verschiedene Weise für uns und den"
+        "translation": "Ebenfalls gaben wir durch uns für den gekauften Wein auf verschiedene Weise für uns und ..."
       },
       {
         "latin": "ventu et hospitibus facit in una Summa xj̸ lb. viiii d. i hall.",
@@ -10154,7 +10154,7 @@
       },
       {
         "latin": "Summa 16 xvi lb. iiii s. vii d.",
-        "translation": "Summe [Glosse] 16 xvi lb. iiii s. vii d."
+        "translation": "Summe 16 xvi lb. iiii s. vii d."
       },
       {
         "latin": "13 lb. 10 d.",
@@ -10177,7 +10177,7 @@
       },
       {
         "latin": "Item dedimus pro Semellis per cellerarium diversimode emptis in festivitatibus",
-        "translation": "Ebenfalls gaben wir für Semmeln, die vom Cellerar auf verschiedene Weise an den üblichen Festtagen gekauft wurden"
+        "translation": "Ebenfalls gaben wir für Semmeln, die durch den Kellerer auf verschiedene Weise an den Festtagen gekauft wurden"
       },
       {
         "latin": "consuetis facit in una Summa vii s. xiii d.",
@@ -10257,7 +10257,7 @@
       },
       {
         "latin": "Item dedimus per cellerarium fur arbait in die Simonis et Jude vi s. xxvii d.",
-        "translation": "Ebenfalls gaben wir durch den Cellerar für Arbeit am Tag Simonis und Judä vi s. xxvii d."
+        "translation": "Ebenfalls gaben wir durch den Kellerer für Arbeit am Tag Simonis und Jude vi s. xxvii d."
       },
       {
         "latin": "6 lb. 3 s. 29 d. i ob. lxxxix d. i ob.",
@@ -10360,7 +10360,7 @@
       },
       {
         "latin": "Item Vittricis in Uttenkoven pro una vacca per porkiczer xii s. d.",
-        "translation": "Ebenfalls der Witwe in Uttenkoven für eine Kuh durch den Schweinehändler xii s. d."
+        "translation": "Ebenfalls dem Kirchpfleger in Uttenkoven für eine Kuh durch den Schweinehändler xii s. d."
       },
       {
         "latin": "Item pro carnibus bina vice ad Vilshofen i lb. xiii d.",
@@ -10368,7 +10368,7 @@
       },
       {
         "latin": "Item pro pullis lxiii d. Mer pro pullis xxxvi d. Mer pro pullis",
-        "translation": "Ebenfalls für lxiii Hähnchen d. Mer für xxxvi Hähnchen d. Mer für Hähnchen"
+        "translation": "Ebenfalls für Hähnchen lxiii d. Ebenfalls für Hähnchen xxxvi d. Ebenfalls für Hähnchen"
       },
       {
         "latin": "dedimus lx d.",
@@ -10392,7 +10392,7 @@
       },
       {
         "latin": "Item pro pullis xliiii d.",
-        "translation": "Ebenfalls für xliiii Hühner d."
+        "translation": "Ebenfalls für Hähnchen xliiii d."
       },
       {
         "latin": "Item Emimus a Schinagel de aittenpach funff unngrisch oxsen",
@@ -10491,11 +10491,11 @@
       },
       {
         "latin": "Item 2a feria rogacionum v s. x d. pro piscibus Item ascensionis pro piscibus iii s. x d.",
-        "translation": "Ebenfalls am 2. Tag der Bittage v s. x d. für Fische, ebenfalls an Christi Himmelfahrt für Fische iii s. x d."
+        "translation": "Ebenfalls am 2. Tag der Rogationen v s. x d. für Fische, ebenfalls am Tag der Himmelfahrt für Fische iii s. x d."
       },
       {
         "latin": "Item 6ta feria post ascensionis iiii s. vii d. Item in octava ascensionis pro piscibus v s. x d.",
-        "translation": "Ebenfalls am 6. Tag nach Christi Himmelfahrt iiii s. vii d., ebenfalls in der Oktav von Christi Himmelfahrt für Fische v s. x d."
+        "translation": "Ebenfalls am 6. Tag nach der Himmelfahrt iiii s. vii d., ebenfalls in der Oktav der Himmelfahrt für Fische v s. x d."
       },
       {
         "latin": "Item in die sancti urbani pro piscibus iiii s. vi d. Item ipso die petronelle virginis pro piscibus iii x d.",
@@ -10515,11 +10515,11 @@
       },
       {
         "latin": "Item piscatori in Walchsing et Schönerting umb viiC cancris iiii s. xxvii d. in die Johannis waptiste Acta",
-        "translation": "Ebenfalls den Fischern in Walchsing und Schönerting für viiC Krebse iiii s. xxvii d. am Tag Johannes des Täufers Acta"
+        "translation": "Ebenfalls dem Fischer in Walchsing und Schönerting für viiC Krebse iiii s. xxvii d. am Tag des Johannes des Täufers (Acta)."
       },
       {
         "latin": "Item in die sanctorum Johannis et pauli vi s. pro piscibus mer pro cancris xlii d. In die petri",
-        "translation": "Ebenfalls am Tag der heiligen Johannes und Paulus vi s. für Fische Lohn für Krebse xlii d. Am Tag Petri"
+        "translation": "Ebenfalls am Tag der heiligen Johannes und Paulus vi s. für Fische, ebenfalls für Krebse xlii d. Am Tag Petri"
       },
       {
         "latin": "Item piscatori de Schönerting pro piscibus et cancris iii s. xii d.",
@@ -10559,7 +10559,7 @@
       },
       {
         "latin": "Item piscatori de Schönerting pro piscibus ii f. mer Im geben",
-        "translation": "Ebenfalls dem Fischer von Schönerting für Fische ii f. gegeben"
+        "translation": "Ebenfalls dem Fischer von Schönerting für Fische ii f. weiter gegeben."
       },
       {
         "latin": "am an Erichtag nach Invocavit xii s. xxi d.",
@@ -10615,7 +10615,7 @@
       },
       {
         "latin": "cibus et cancris vi s. xii d. Item Sexta feria post Augustini episcopi pro piscibus",
-        "translation": "Speise und für Krebse vi s. xii d. Ebenfalls am Freitag nach Augustini episcopi für Fische"
+        "translation": "Speise und Krebse vi s. xii d. Ebenfalls am Freitag nach Bischof Augustinus für Fische"
       },
       {
         "latin": "dedimus ii lb. x d. Eodem die pro piscibus vi s. xiiii d. Item Seifrido de-",
@@ -10627,7 +10627,7 @@
       },
       {
         "latin": "galkweiss pro piscibus undique In Vigilia nativitatis marie dedimus xiii s. vi d.",
-        "translation": "Nach Galkweiss für Fische allerorts am Vorabend der Geburt Mariens gaben wir xiii s. vi d."
+        "translation": "Galkweiss für Fische insgesamt am Vorabend der Geburt Mariens gaben wir xiii s. vi d."
       },
       {
         "latin": "In die Nativitatis marie pro iiiC cancris lxiii d. per piscatorem nostrum Item secunda feria post",
@@ -10651,7 +10651,7 @@
       },
       {
         "latin": "Undique xv s. vii d.",
-        "translation": "Überall xv s. vii d."
+        "translation": "Insgesamt xv s. vii d."
       },
       {
         "latin": "quere in Zedula illi Signo +",
@@ -10682,7 +10682,7 @@
       },
       {
         "latin": "ficis amigdalis uve pascis oleo et aliis necessariis",
-        "translation": "Feigen, Mandeln, Rosinen, Backwerk, Öl und anderen notwendigen Dingen"
+        "translation": "Feigen, Mandeln, Trauben, Öl und andere notwendige Dinge"
       },
       {
         "latin": "Item Emimus a filio möringer iC haussen umb viii f. Rhen.",
@@ -10690,7 +10690,7 @@
       },
       {
         "latin": "bibales viii kr. Weindelmair de Criet Chrestorff pro fectura",
-        "translation": "Achtschäftige [Fässer] viii kr. Weindelmair von Criet Chrestorff für die Herstellung"
+        "translation": "viii kr. [Krug/Maß] Weindelmair von Criet Chrestorff für die Herstellung"
       },
       {
         "latin": "Item dedimus pro croco die marie magdalene iii f. Rhen.",
@@ -10754,7 +10754,7 @@
       },
       {
         "latin": "Dedimus pro speciebus incausti et papiro",
-        "translation": "Wir gaben für Gewürze zum Einbrennen und Papier"
+        "translation": "Wir gaben für Malzubehör und Papier"
       }
     ]
   },
@@ -10888,7 +10888,7 @@
       },
       {
         "latin": "Dedimus pro cultellis bursis piretis oculariis cingulis",
-        "translation": "Wir gaben für Messer, Geldbeutel, Brillen, Gürtel"
+        "translation": "Wir gaben für kl. Messer, Geldbeutel, Biretten, Brillen, Gürtel"
       },
       {
         "latin": "et aliis necessariis nobis et conventui",
@@ -10951,7 +10951,7 @@
       },
       {
         "latin": "Item umb Sib in die Swaig geben xi d.",
-        "translation": "Ebenfalls um Sib am Tag der Swaig gegeben xi d."
+        "translation": "Ebenfalls um Sib in die Swaig gegeben xi d."
       },
       {
         "latin": "Item umb mistgabel hoffmaister kaufft geben xxx d.",
@@ -10971,7 +10971,7 @@
       },
       {
         "latin": "Item umb vier pflueg dem farenpeckhen geben vi s. d.",
-        "translation": "Ebenfalls für vier Pflüge dem Fahrenbäcker gegeben vi s. d."
+        "translation": "Ebenfalls für vier Pflüge dem farenpeckhen gegeben vi s. d."
       },
       {
         "latin": "Item umb schaleydell geben ii lb. xxiiii d. in den pawhoff und andersch i...",
@@ -10995,7 +10995,7 @@
       },
       {
         "latin": "dedimus mer per cellerarium de diversis Animalibus pro excoriacione xii s. xx d.",
-        "translation": "Wir gaben als Lohn durch den Kellermeister für verschiedene Tiere zur Abhäutung xii s. xx d."
+        "translation": "Wir gaben ebenfalls durch den Kellermeister für verschiedene Tiere zur Abhäutung xii s. xx d."
       },
       {
         "latin": "9 lb. 52 d. i ob.",
@@ -11042,7 +11042,7 @@
       },
       {
         "latin": "colanorum pro vii f. Rhen. iiij̸ s. d. in hoc solutus est iiij̸ iij̸ f. Rhen.",
-        "translation": "der Seiler für vii f. Rhen. iiij̸ s. d. davon bezahlt sind iiij̸ iij̸ f. Rhen."
+        "translation": "der Pächter für vii f. Rhen. iiij̸ s. d. davon bezahlt sind iiij̸ iij̸ f. Rhen."
       },
       {
         "latin": "obligamur",
@@ -11077,7 +11077,7 @@
       },
       {
         "latin": "Dedimus pro honorancia diversis hospitibus cursoribus",
-        "translation": "Wir gaben zu Ehren verschiedenen Gästen, Kurieren,"
+        "translation": "Wir gaben zu Ehren verschiedenen Gästen, Boten"
       },
       {
         "latin": "tubicenatoribus lutinistis fistulatoribus et ceteris ut patet",
@@ -11113,7 +11113,7 @@
       },
       {
         "latin": "Item dedimus pro confirmacione privilegiorum nostrorum per prefectum In",
-        "translation": "Ebenfalls gaben wir für die Bestätigung unserer Privilegien durch den Vogt in"
+        "translation": "Ebenfalls gaben wir für die Bestätigung unserer Privilegien durch den Präfekten in"
       },
       {
         "latin": "Vilshofen ad monacum xi f. Rhen. et xxi kr.",
@@ -11121,15 +11121,15 @@
       },
       {
         "latin": "Item dedimus ad nupcias fratris mutarii in Vilshofen nomine Hanns",
-        "translation": "Ebenfalls gaben wir zur Hochzeit des Bruders des Mälzers in Vilshofen namens Hanns"
+        "translation": "Ebenfalls gaben wir zur Hochzeit des Bruders des Mautners in Vilshofen namens Hanns"
       },
       {
         "latin": "perr pro horancia ii f. Rhen. xxx d.",
-        "translation": "für Ehrengeschenk ii f. Rhen. xxx d."
+        "translation": "Perr für Ehrengeschenk ii f. Rhen. xxx d."
       },
       {
         "latin": "Item propinavimus ad nupcias Haynrici Waler perfecti in lanndaw",
-        "translation": "Ebenfalls schenkten wir zur Hochzeit des Haynricus Waler, vollendet in Landaw"
+        "translation": "Ebenfalls schenkten wir zur Hochzeit des Haynrici Waler, Vogt in Landaw"
       },
       {
         "latin": "iii f. officiali schinagel xxx d. uni cursori lx d.",
@@ -11137,7 +11137,7 @@
       },
       {
         "latin": "Item dedimus illo feinpeck bibalia lxx dominica post ascensionis domini",
-        "translation": "Ebenfalls gaben wir jenem Feinpeck lxx Bibeln am Sonntag nach Christi Himmelfahrt"
+        "translation": "Ebenfalls gaben wir jenem Feinpeck lxx für Trinkgelder am Sonntag nach Christi Himmelfahrt"
       },
       {
         "latin": "Item dedimus illo Hegel ad euchendorff in q...legacione xvi d.",
@@ -11212,7 +11212,7 @@
       },
       {
         "latin": "Item dedimus fratri michaeli et iudici pro sumptibus ad eholfing lxii d.",
-        "translation": "Ebenfalls gaben wir Bruder Michael und dem Richter für Ausgaben nach Eholfing lxii d."
+        "translation": "Ebenfalls gaben wir dem Bruder Michael und dem Richter für Ausgaben nach Eholfing lxii d."
       },
       {
         "latin": "Item dedimus priori nostro ad medicos iij̸ Rhen. f. Acta 3a feria penthecostes",
@@ -11244,7 +11244,7 @@
       },
       {
         "latin": "Item sumptos möringer ad lanndaw et euchendorff in negociis nostris",
-        "translation": "Ebenfalls Ausgaben für den Möringer nach Landaw und Euchendorf in unseren Angelegenheiten"
+        "translation": "Ebenfalls die Ausgaben des Möringer nach Landaw und Euchendorf in unseren Geschäften"
       },
       {
         "latin": "iii s. d.",
@@ -11268,7 +11268,7 @@
       },
       {
         "latin": "Item dedimus fratri gregorio georgio ad sanctum Erasmum xxxii d.",
-        "translation": "Ebenfalls gaben wir Bruder Gregorius Georgius nach Sankt Erasmus xxxii d."
+        "translation": "Ebenfalls gaben wir dem Bruder Gregorio Georgio zu Sankt Erasmus xxxii d."
       },
       {
         "latin": "Item dedimus fratri petro lackner pro sumptibus ad köstlaren ad parentes suos iiii s. d.",
@@ -11284,7 +11284,7 @@
       },
       {
         "latin": "24 lb. 66 d.",
-        "translation": "24 lb. 66 d. [Glosse]"
+        "translation": "24 lb. 66 d."
       }
     ]
   },
@@ -11307,7 +11307,7 @@
       },
       {
         "latin": "xxx Rhen. f. et sic solutus est",
-        "translation": "xxx Rheinische f. und so ist es bezahlt"
+        "translation": "xxx Rhein. f. und so ist es bezahlt"
       },
       {
         "latin": "26 lb. 3 s.",
@@ -11319,7 +11319,7 @@
       },
       {
         "latin": "Dedimus ad vitas hominum",
-        "translation": "Wir gaben für Lebensunterhalt der Menschen"
+        "translation": "Wir gaben für das Leben der Menschen"
       },
       {
         "latin": "solutus est hoc",
@@ -11351,7 +11351,7 @@
       },
       {
         "latin": "15 lb. 6 6 s.",
-        "translation": "xv lb. vj s. vj d."
+        "translation": "15 lb. 6 6 s."
       },
       {
         "latin": "Dedimus pro lignis emptis",
@@ -11367,7 +11367,7 @@
       },
       {
         "latin": "11 s. 20 d.",
-        "translation": "11 s. 20 d. [Glosse]"
+        "translation": "11 s. 20 d."
       }
     ]
   },
@@ -11406,7 +11406,7 @@
       },
       {
         "latin": "3 feria post margarete virginis",
-        "translation": "am Mittwoch nach Margarete der Jungfrau"
+        "translation": "Am dritten Tag nach der Jungfrau Margarete"
       },
       {
         "latin": "Item dedimus priori nostro ex parte geyrstall Sumptus ad Straubing",
@@ -11446,7 +11446,7 @@
       },
       {
         "latin": "40 lb. und 3 s. d.",
-        "translation": "xl lb. und iii s. d."
+        "translation": "40 lb. und 3 s. d."
       }
     ]
   },
@@ -11595,7 +11595,7 @@
       },
       {
         "latin": "Item trituratoribus In die Steffani circa natalis de xiiiij̸ scaff. pro tritulacione",
-        "translation": "Ebenfalls den Dreschern am Tag des Stephanus um Weihnachten für xiii j̸ Schaff zur Drescharbeit"
+        "translation": "Ebenfalls den Dreschern am Stephanstag zu Weihnachten für xiiiij̸ Scheffel für die Tritulation"
       },
       {
         "latin": "de scaffa xxviii d. dedimus xiii s. xvi d.",
@@ -11615,7 +11615,7 @@
       },
       {
         "latin": "tulacione dedimus xv s. xii d. Sabbato ante Sebastiani",
-        "translation": "schen gaben wir xv s. xii d. am Samstag vor Sebastiani"
+        "translation": "das Dreschen gaben wir xv s. xii d. am Samstag vor Sebastiani"
       },
       {
         "latin": "Item lienhardo cum sociis suis de decem Scaff. tritici et siliginis pro",
@@ -11639,7 +11639,7 @@
       },
       {
         "latin": "Item dedimus feria sexta ante penthecostes von xiiiij̸ sch. Ze dreschen",
-        "translation": "Ebenfalls gaben wir am Freitag vor Pfingsten von xiiiij̸ sch. Ze zu dreschen"
+        "translation": "Ebenfalls gaben wir am Freitag vor Pfingsten von xiiiij̸ sch. zum Dreschen"
       },
       {
         "latin": "i sch. per xxviii d. facit xiii s. xvi d.",
@@ -11651,7 +11651,7 @@
       },
       {
         "latin": "Item die trescher auff der nestifft sind gedingt umb xii s. d.",
-        "translation": "Ebenfalls die Drescher auf der Nestift sind um xii s. d. gedungen"
+        "translation": "Ebenfalls die Drescher auf der Nestifft sind um xii s. d. gedungen."
       },
       {
         "latin": "Receperunt dominica post omnium sanctorum i f. Rhen. superius scriptum est",
@@ -11750,11 +11750,11 @@
       },
       {
         "latin": "4 lb. 84 d.",
-        "translation": "[Glosse:] 4 lb. 84 d."
+        "translation": "4 lb. 84 d."
       },
       {
         "latin": "Item auff der nestifft dem Stroeschneider auff sein Ströschneiden geben iii s. d.",
-        "translation": "Ebenfalls dem Strohschneider für sein Strohschneiden bei der letzten Stiftung gegeben iii s. d."
+        "translation": "Ebenfalls auf der Nestift dem Strohschneider für sein Strohschneiden gibt iii s. d."
       }
     ]
   },
@@ -11769,7 +11769,7 @@
       },
       {
         "latin": "Dedimus diversis dietariis in monasterio laborantibus",
-        "translation": "Wir gaben verschiedenen Tagelöhnern im Kloster arbeitend"
+        "translation": "Wir gaben verschiedenen Tagelöhnern, die im Kloster arbeiten"
       },
       {
         "latin": "Item dietariis in die ascensionis iiC xiiii tag per v d. facit iiii lb. iii s. xx d.",
@@ -11781,7 +11781,7 @@
       },
       {
         "latin": "Item forster von Swanhaim von den östen geben lx d.",
-        "translation": "Ebenfalls dem Förster von Swanhaim von den Ästen gegeben lx d."
+        "translation": "Ebenfalls dem Förster von Swanhaim von den Osten geben lx d."
       },
       {
         "latin": "Item In die Johannis Waptiste dietariis iC li tag per v d. facit iii lb. xxxv d.",
@@ -11789,7 +11789,7 @@
       },
       {
         "latin": "Item dedimus dietariis diversis ypoliti iC ii tag per v d. facit ii lb. xxx d.",
-        "translation": "Ebenfalls gaben wir verschiedenen Tagelöhnern des Hippolyt iC ii Tag zu v d., ergibt ii lb. xxx d."
+        "translation": "Ebenfalls gaben wir verschiedenen Tagelöhnern am Hippolyt iC ii Tage zu v d., ergibt ii lb. xxx d."
       },
       {
         "latin": "Item dem forster von Gumperting geben von Schinttel zeklieben und zedeckhen",
@@ -11801,15 +11801,15 @@
       },
       {
         "latin": "Item dietariis dominica post mathei v s. xxvi tag per v d. facit iii lb. v s. x d.",
-        "translation": "Ebenfalls den Diätaren am Sonntag nach Matthäus v s. xxvi Tage zu v d., ergibt iii lb. v s. x d."
+        "translation": "Ebenfalls den Tagelöhnern am Sonntag nach Matthäus v s. xxvi Tage zu v d., ergibt iii lb. v s. x d."
       },
       {
         "latin": "Item dietariis iC xxxvi tag per iiii d. facit xviii s. iiii d. In die martini",
-        "translation": "Ebenfalls den Diätaren iC xxxvi Tage zu iiii d., ergibt xviii s. iiii d. Am Tag Martini"
+        "translation": "Ebenfalls den Tagelöhnern iC xxxvi Tage zu iiii d., ergibt xviii s. iiii d. Am Tag Martini"
       },
       {
         "latin": "mer dem annderl wackerlen geben lx d. eodem die",
-        "translation": "mehr dem anderen Wackerl gegeben lx d. am selben Tag"
+        "translation": "Ebenfalls dem anderen Wackerl gegeben lx d. am selben Tag"
       },
       {
         "latin": "plabermel habet xl d.",
@@ -11821,7 +11821,7 @@
       },
       {
         "latin": "Item dietariis dominica post natalis domini hundert xvii tag per iiii d.",
-        "translation": "Ebenfalls den Diätaren am Sonntag nach Weihnachten hundert xvii Tage zu iiii d."
+        "translation": "Ebenfalls den Tagelöhnern am Sonntag nach Weihnachten hundert xvii Tage zu iiii d."
       },
       {
         "latin": "facit xv s. xviii d. mer vi tag facit xxiiii d.",
@@ -11829,7 +11829,7 @@
       },
       {
         "latin": "Item dietariis dominica Esto michi iiii s. viii tag per vii iiii d. facit",
-        "translation": "Ebenfalls den Diätaren am Sonntag Esto michi iiii s. viii Tage zu vii iiii d. ergibt"
+        "translation": "Ebenfalls den Tagelöhnern am Sonntag, esto michi, iiii s. viii Tage per vii iiii d., ergibt"
       },
       {
         "latin": "ii lb. xxxii d.",
@@ -11837,11 +11837,11 @@
       },
       {
         "latin": "Item dedimus dietariis nostris a festo martini usque quasi modo geniti per celle-",
-        "translation": "Ebenfalls gaben wir unseren Diätaren vom Fest Martini bis fast zu Quasimodogeniti pro Zelle-"
+        "translation": "Ebenfalls gaben wir unseren Tagelöhnern vom Fest Martini bis fast zu Quasimodogeniti per"
       },
       {
         "latin": "rarium soluti facit xxvii lb. vi s. iiii d.",
-        "translation": "Restbetrag bezahlt ergibt xxvii lb. vi s. iiii d."
+        "translation": "cellerarium soluti ergibt xxvii lb. vi s. iiii d."
       },
       {
         "latin": "49 lb. 6 s. 3 d.",
