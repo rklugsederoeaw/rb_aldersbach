@@ -57,7 +57,7 @@
       },
       {
         "latin": "Item Recepimus a deckinger de scharding pro lx scaff. tritici per iiii f.",
-        "translation": "Ebenfalls erhalten von Deckinger aus Scharding für lx Schaff. Weizen zu iiii f."
+        "translation": "Ebenfalls erhalten von Deckinger aus Schärding für lx Schaff. Weizen zu iiii f."
       },
       {
         "latin": "minus xxx d. facit iiC xxxi f. Rhen. iii s. d. facit an gellt",
@@ -93,7 +93,7 @@
       },
       {
         "latin": "Item Recepimus a pistoribus de pfarrkirchen pro xviii scaff. tritici",
-        "translation": "Ebenfalls erhalten von den Bäckern von Pfarrkirchen für xviii scaff. Weizen"
+        "translation": "Ebenfalls erhalten von den Bäckern von Pfarrkirchen für xviii Schaff Weizen"
       },
       {
         "latin": "per iiii f. minus xxx d. facit lx lb. vi s. d.",
@@ -105,7 +105,7 @@
       },
       {
         "latin": "Item Recepimus pro v scaff. iii metr. tritici per iiii f. minus xxx d.",
-        "translation": "Ebenfalls erhalten für v scaff. iii metr. Weizen zu iiii f. weniger xxx d."
+        "translation": "Ebenfalls erhalten für v Schaff iii metr. Weizen zu iiii f. weniger xxx d."
       },
       {
         "latin": "facit xx f. iii s. d. facit In moneta xvii lb. vii s. d.",
@@ -141,7 +141,7 @@
       },
       {
         "latin": "Item Recepimus ab Hermanno de Martinstödling pro xiii scaff.",
-        "translation": "Ebenfalls empfangen von Hermann von Martinstödling für xiii scaff."
+        "translation": "Ebenfalls empfangen von Hermann von Martinstödling für xiii Schaff"
       },
       {
         "latin": "tritici per iii lb. lx d. xlii lb. lx d.",
@@ -368,7 +368,7 @@
       },
       {
         "latin": "Item Recepimus a vittricis in uttenkoven lxviiii d.",
-        "translation": "Ebenfalls empfingen wir von der Wirtin in Uttenkoven lxviiii d."
+        "translation": "Ebenfalls empfingen wir von der Wirtin in Uttigkofen lxviiii d."
       },
       {
         "latin": "Item Recepimus a vittricis In perndorff iiii s. i d.",
@@ -523,15 +523,15 @@
       },
       {
         "latin": "Idem habet ascensionis i lb. d. Idem habet Johannis Waptiste xii s. d.",
-        "translation": "Derselbe erhält zu Christi Himmelfahrt i lb. d. Derselbe erhält zu Johannis des Täufers xii s. d."
+        "translation": "Derselbe erhält zu Christi Himmelfahrt i lb. d. Derselbe erhält zu Johannes des Täufers xii s. d."
       },
       {
         "latin": "Idem habet i lb. Sabbato ante laurencii Idem habet In vigilia michaelis i lb. d.",
-        "translation": "Derselbe erhält i lb. am Samstag vor Laurentii. Derselbe erhält am Vorabend von Michaelis i lb. d."
+        "translation": "Derselbe erhält i lb. am Samstag vor Laurentii. Derselbe erhält am Vorabend von Michael i lb. d."
       },
       {
         "latin": "Idem habet i lb. d. dominica ante martini",
-        "translation": "Derselbe erhält i lb. d. am Sonntag vor Martini."
+        "translation": "Derselbe erhält i lb. d. am Sonntag vor Martin."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -543,15 +543,15 @@
       },
       {
         "latin": "Idem habet dominica Oculi iiii s. d. Idem habet In vigilia philippi et Jacobi",
-        "translation": "Derselbe erhält am Sonntag Oculi iiii s. d. Derselbe erhält am Vorabend von Philipp und Jacobi."
+        "translation": "Derselbe erhält am Sonntag Oculi iiii s. d. Derselbe erhält am Vorabend von Philipp und Jakobus."
       },
       {
         "latin": "iiii s. d. Idem habet Steffani i lb. d. Idem habet dominica",
-        "translation": "iiii s. d. Derselbe erhält Steffani i lb. d. Derselbe hat am Sonntag."
+        "translation": "iiii s. d. Derselbe erhält Stephanus i lb. d. Derselbe hat am Sonntag."
       },
       {
         "latin": "michaelis i lb. d. Idem habet iiii s. quinta feria post concepcionis marie",
-        "translation": "Michaelis i lb. d. Derselbe hat iiii s. am Donnerstag nach Mariä Empfängnis"
+        "translation": "Michael i lb. d. Derselbe hat iiii s. am Donnerstag nach Mariä Empfängnis"
       },
       {
         "latin": "Idem habet vii s. in die thome",
@@ -575,11 +575,11 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iiii s. d. Idem habet lx d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis iiii s. d. Derselbe hat lx d."
+        "translation": "Derselbe hat am Sonntag vor Michael iiii s. d. Derselbe hat lx d."
       },
       {
         "latin": "dominica ante martini",
-        "translation": "Sonntag vor Martini"
+        "translation": "Sonntag vor Martin"
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -606,7 +606,7 @@
       },
       {
         "latin": "Idem habet ascensionis v s. d. Idem habet Johannis waptiste",
-        "translation": "Derselbe erhält zu Christi Himmelfahrt v s. d. Derselbe erhält zu Johannis des Täufers"
+        "translation": "Derselbe erhält zu Christi Himmelfahrt v s. d. Derselbe erhält zu Johannes des Täufers"
       },
       {
         "latin": "iiii s. d. Idem habet In die ypoliti iiii s. d. Idem",
@@ -614,7 +614,7 @@
       },
       {
         "latin": "habet dominica ante martini vii s. d.",
-        "translation": "erhält am Sonntag vor Martini vii s. d."
+        "translation": "erhält am Sonntag vor Martin vii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -658,7 +658,7 @@
       },
       {
         "latin": "ante michaelis iiii s. d. Idem habet lx d. secunda feria post nico-",
-        "translation": "vor Michaelis iiii s. d. Derselbe erhält lx d. am Montag nach Niko-"
+        "translation": "vor Michael iiii s. d. Derselbe erhält lx d. am Montag nach Niko-"
       },
       {
         "latin": "lai episcopi",
@@ -678,7 +678,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis v s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis v s. d."
+        "translation": "Derselbe erhält am Sonntag vor Michael v s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -701,7 +701,7 @@
       },
       {
         "latin": "Idem habet ascensionis xlv d. Idem habet dominica ante michaelis iii s. d.",
-        "translation": "Derselbe erhält zu Christi Himmelfahrt xlv d. Derselbe erhält am Sonntag vor Michaelis iii s. d."
+        "translation": "Derselbe erhält zu Christi Himmelfahrt xlv d. Derselbe erhält am Sonntag vor Michael iii s. d."
       },
       {
         "latin": "Item dedimus wolfgango in recessu suo de duobus annis i lb. d.",
@@ -749,7 +749,7 @@
       },
       {
         "latin": "Idem habet In die ypoliti v s. d. Idem habet dominica ante michaelis",
-        "translation": "Derselbe erhält am Tag des Hippolyt v s. d. Derselbe erhält am Sonntag vor Michaelis"
+        "translation": "Derselbe erhält am Tag des Hippolyt v s. d. Derselbe erhält am Sonntag vor Michael"
       },
       {
         "latin": "v s. d.",
@@ -780,11 +780,11 @@
       },
       {
         "latin": "iiiij̸ s. d. Idem habet dominica ante michaelis iii s. d.",
-        "translation": "iiiij̸ s. d. Derselbe hat am Sonntag vor Michaelis iii s. d."
+        "translation": "iiiij̸ s. d. Derselbe hat am Sonntag vor Michael iii s. d."
       },
       {
         "latin": "solutus est totaliter agathe",
-        "translation": "Ist vollständig bezahlt an Agathe"
+        "translation": "Ist vollständig bezahlt an Agatha"
       },
       {
         "latin": "Thomas tercius ennkch conductus est pro xxiij̸ s. d.",
@@ -796,11 +796,11 @@
       },
       {
         "latin": "v s. d. Idem habet dominica ante michaelis iii s. d.",
-        "translation": "v s. d. Derselbe hat am Sonntag vor Michaelis iii s. d."
+        "translation": "v s. d. Derselbe hat am Sonntag vor Michael iii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
-        "translation": "Ist vollständig bezahlt am Tag der Agathe"
+        "translation": "Ist vollständig bezahlt am Tag der Agatha"
       },
       {
         "latin": "lienhardus quartus ennkch conductus est pro xx s. d.",
@@ -820,7 +820,7 @@
       },
       {
         "latin": "solutus est totaliter agathe",
-        "translation": "Vollständig bezahlt an Agathe"
+        "translation": "Vollständig bezahlt an Agatha"
       },
       {
         "latin": "Ulricus Stadler conductus est pro xv s. d.",
@@ -832,7 +832,7 @@
       },
       {
         "latin": "solutus est totaliter In die agathe",
-        "translation": "Vollständig bezahlt am Tag der Agathe"
+        "translation": "Vollständig bezahlt am Tag der Agatha"
       }
     ]
   },
@@ -1075,7 +1075,7 @@
       },
       {
         "latin": "cum leonardo kurczärml feria 4ta ante michaelis xlvi f.",
-        "translation": "mit Leonardo Kurczärml am Mittwoch vor Michaelis xlvi f."
+        "translation": "mit Leonardo Kurczärml am Mittwoch vor Michael xlvi f."
       },
       {
         "latin": "et cursori dedimus i f. Rhen. Item dedimus cursori ad handel",
@@ -1245,7 +1245,7 @@
       },
       {
         "latin": "Item computavimus cum doleatore nostro In die philippi et Jacobi v lb. xxx d.",
-        "translation": "Ebenfalls abgerechnet mit unserem Böttcher Am Tag Philippi und Jacobi v lb. xxx d."
+        "translation": "Ebenfalls abgerechnet mit unserem Böttcher Am Tag Philippi und Jakobus v lb. xxx d."
       },
       {
         "latin": "Item computavimus cum doleatore nostro In die Symonis et iude et dedimus sibi pro",
@@ -1435,7 +1435,7 @@
       },
       {
         "latin": "Item dedimus leonardo et Steffano carpentariis In die",
-        "translation": "Ebenfalls gaben wir Leonardo und Steffano, den Zimmerleuten, am Tag"
+        "translation": "Ebenfalls gaben wir Leonardo und Stephanus, den Zimmerleuten, am Tag"
       },
       {
         "latin": "katherine viiii s. xvi d.",
@@ -1443,7 +1443,7 @@
       },
       {
         "latin": "Item dedimus Westerskircher de Waldhoven Sabbato Steffani i lb. d.",
-        "translation": "Ebenfalls gaben wir Westerskircher aus Waldhoven am Sabbat Steffani i lb. d."
+        "translation": "Ebenfalls gaben wir Westerskircher aus Waldhoven am Sabbat Stephanus i lb. d."
       },
       {
         "latin": "super labores suos ex parte domus",
@@ -1470,7 +1470,7 @@
       },
       {
         "latin": "Item Emimus ab uno piscatore de lanndaw duos strues ad",
-        "translation": "Ebenfalls kauften wir von einem Fischer aus Lanndaw zwei Störe zu"
+        "translation": "Ebenfalls kauften wir von einem Fischer aus Landau zwei Störe zu"
       },
       {
         "latin": "partes ad austrie pro structura pro vi f. lx d.",
@@ -1494,7 +1494,7 @@
       },
       {
         "latin": "Item dedimus fratri cristanno et fratri Johanni Ingoltsteter pro structura in",
-        "translation": "Ebenfalls gaben wir dem Bruder Cristanno und dem Bruder Johanni Ingoltsteter für den Bau in"
+        "translation": "Ebenfalls gaben wir dem Bruder Cristanno und dem Bruder Johannes Ingoltsteter für den Bau in"
       },
       {
         "latin": "partibus austrie lxxviiii lb. d. albe monete facit in nigra moneta",
@@ -1962,11 +1962,11 @@
       },
       {
         "latin": "Item Emimus a Steffano de grasstorff unam vaccam pro xiii s. d.",
-        "translation": "Ebenfalls kauften wir von Steffano de grasstorff eine Kuh für xiii s. d."
+        "translation": "Ebenfalls kauften wir von Stephanus de grasstorff eine Kuh für xiii s. d."
       },
       {
         "latin": "Item Emimus a plebano de geirstall iiii boves pro xx f. Rhen.",
-        "translation": "Ebenfalls kauften wir vom Pfarrer von geirstall iiii Ochsen für xx f. Rhen."
+        "translation": "Ebenfalls kauften wir vom Pfarrer von Geiersthal iiii Ochsen für xx f. Rhen."
       },
       {
         "latin": "facit in moneta nigra xviij̸ lb. d.",
@@ -2017,7 +2017,7 @@
       },
       {
         "latin": "Item feria 6ta ante martini viiii s. d. Item piscatori de Walchsing",
-        "translation": "Ebenfalls am Freitag vor Martini viiii s. d. Ebenfalls dem Fischer von Walchsing"
+        "translation": "Ebenfalls am Freitag vor Martin viiii s. d. Ebenfalls dem Fischer von Walchsing"
       },
       {
         "latin": "iiii s. d. Item piscatori de schonhäring dedimus Sabbato ante lucie iiii f.",
@@ -2057,7 +2057,7 @@
       },
       {
         "latin": "pro piscibus feria 2a post agathe iii s. d. Item piscatori de Schönerting",
-        "translation": "für Fische am Montag nach Agathe iii s. d. Ebenfalls dem Fischer von Schönerting"
+        "translation": "für Fische am Montag nach Agatha iii s. d. Ebenfalls dem Fischer von Schönerting"
       },
       {
         "latin": "pro piscibus per cellerarium ut patuit in computacione dedimus defalcavimus v lb.",
@@ -2132,7 +2132,7 @@
       },
       {
         "latin": "Item Emimus A Michaele Schnellman de Scharding",
-        "translation": "Ebenfalls kauften wir von Michael Schnellman aus Scharding"
+        "translation": "Ebenfalls kauften wir von Michael Schnellman aus Schärding"
       },
       {
         "latin": "Item ain Tunnen häring pro vi f. Rhen.",
@@ -2350,7 +2350,7 @@
       },
       {
         "latin": "et xxiiii d. pfiersigknecht et ad purgkhausen",
-        "translation": "und xxiiii d. Pfiersigknecht und nach Purgkhausen"
+        "translation": "und xxiiii d. Pfiersigknecht und nach Burghausen"
       },
       {
         "latin": "solutus est totaliter feria 4ta post Iubilate",
@@ -2520,15 +2520,15 @@
       },
       {
         "latin": "Item dedimus seratori de pfarkirchen pro una sera et lucibulo xl d.",
-        "translation": "Ebenfalls gaben wir dem Schlosser von Pfarkirchen für eine Sperre und ein Vorhängeschloss xl d."
+        "translation": "Ebenfalls gaben wir dem Schlosser von Pfarrkirchen für eine Sperre und ein Vorhängeschloss xl d."
       },
       {
         "latin": "Item dedimus seratori de pfarkirchen pro duobus seris etc. lxxxiii d.",
-        "translation": "Ebenfalls gaben wir dem Schlosser von Pfarkirchen für zwei Schlösser usw. lxxxiii d."
+        "translation": "Ebenfalls gaben wir dem Schlosser von Pfarrkirchen für zwei Schlösser usw. lxxxiii d."
       },
       {
         "latin": "Item Seratori de pfarkirchen Umb eyn kis auf dy sag",
-        "translation": "Ebenfalls dem Schlosser von Pfarkirchen für eine Käsesäge"
+        "translation": "Ebenfalls dem Schlosser von Pfarrkirchen für eine Käsesäge"
       },
       {
         "latin": "iiii f. xv d.",
@@ -2559,7 +2559,7 @@
       },
       {
         "latin": "Item dedimus Sellatori pro duabus Sellis vii s. xxv d. de scharding",
-        "translation": "Ebenfalls gaben wir dem Sattler für zwei Sättel vii s. xxv d. in Scharding"
+        "translation": "Ebenfalls gaben wir dem Sattler für zwei Sättel vii s. xxv d. in Schärding"
       },
       {
         "latin": "Summa viij̸ s. d.",
@@ -2690,7 +2690,7 @@
       },
       {
         "latin": "Item dedimus cursori ex fraternitate pfarkirchen xx d.",
-        "translation": "Ebenfalls gaben wir einem Boten aus der Bruderschaft Pfarkirchen xx d."
+        "translation": "Ebenfalls gaben wir einem Boten aus der Bruderschaft Pfarrkirchen xx d."
       },
       {
         "latin": "Summa facit vii lb. iiii s. xxvi d.",
@@ -2729,7 +2729,7 @@
       },
       {
         "latin": "Item dedimus francisco lapicide de purgkhausen pro duobus lapidibus",
-        "translation": "Ebenfalls gaben wir dem Franziskus Steinmetz von Purgkhausen für zwei Steine"
+        "translation": "Ebenfalls gaben wir dem Franziskus Steinmetz von Burghausen für zwei Steine"
       },
       {
         "latin": "unum pro domino Hainrico olmi vicario in teger tetling et secundum pro domino",
@@ -2978,7 +2978,7 @@
       },
       {
         "latin": "Item pro Seccione Straminum In Neustift Johanni hanisvogel",
-        "translation": "Ebenfalls für das Schneiden des Strohs in Neustift dem Johanni Hanisvogel"
+        "translation": "Ebenfalls für das Schneiden des Strohs in Neustift dem Johannes Hanisvogel"
       },
       {
         "latin": "dedimus iiii s.",
@@ -3029,11 +3029,11 @@
       },
       {
         "latin": "Item dedimus laboratoribus dominica ante michaelis iiii lb. d.",
-        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag vor Michaelis iiii lb. d."
+        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag vor Michael iiii lb. d."
       },
       {
         "latin": "Item dedimus diversis laboratoribus dominica ante martini iiii lb. l d.",
-        "translation": "Ebenfalls gaben wir verschiedenen Arbeitern am Sonntag vor Martini iiii lb. l d."
+        "translation": "Ebenfalls gaben wir verschiedenen Arbeitern am Sonntag vor Martin iiii lb. l d."
       },
       {
         "latin": "Item dedimus Sawschneider et kayser pro laboribus suis",
@@ -3049,7 +3049,7 @@
       },
       {
         "latin": "Georgii iii s. d.",
-        "translation": "Georgii iii s. d."
+        "translation": "Georg iii s. d."
       },
       {
         "latin": "Item dedimus diversis laboratoribus In die agathe vi lb. vi s. d.",
@@ -3077,7 +3077,7 @@
       },
       {
         "latin": "Item dedimus vineatoribus Johannis Waptiste viiii s. v d.",
-        "translation": "Ebenfalls gaben wir den Winzern zu Johannis des Täufers viiii s. v d."
+        "translation": "Ebenfalls gaben wir den Winzern zu Johannes des Täufers viiii s. v d."
       },
       {
         "latin": "Item dedimus vineatoribus ypoliti vi s. viii d.",
@@ -3300,11 +3300,11 @@
       },
       {
         "latin": "Item Recepimus a duobus fectoribus pro duabus scaff. tritici x f. Rhen.",
-        "translation": "Ebenfalls erhielten wir von zwei Bäckern für zwei scaff. Weizen x f. Rhen."
+        "translation": "Ebenfalls erhielten wir von zwei Bäckern für zwei Schaff Weizen x f. Rhen."
       },
       {
         "latin": "Item iterum recepimus pro iii scaff. et iiii metretis tritici xvii f. Rhen.",
-        "translation": "Ebenfalls wiederum erhielten wir für iii scaff. und iiii metretis Weizen xvii f. Rhen."
+        "translation": "Ebenfalls wiederum erhielten wir für iii Schaff und iiii Metzen Weizen xvii f. Rhen."
       },
       {
         "latin": "Item Recepimus a granatore pro Avena vi s. d.",
@@ -3312,7 +3312,7 @@
       },
       {
         "latin": "Item dedimus Ulrico Samer una cum sociis suis xviii scaff. iii",
-        "translation": "Ebenfalls gaben wir Ulrich Samer zusammen mit seinen Gefährten xviii scaff. iii"
+        "translation": "Ebenfalls gaben wir Ulrich Samer zusammen mit seinen Gefährten xviii Schaff iii"
       },
       {
         "latin": "Kübel tritici scaffam per iiii lb. d. facit lxxii lb. iiii s. xxiiii d.",
@@ -3583,7 +3583,7 @@
       },
       {
         "latin": "Item ex uttenkoven vitrici lxxviiii d. i hall.",
-        "translation": "Ebenfalls von der Witwe aus Uttenkoven lxxviiii d. i hall."
+        "translation": "Ebenfalls von der Witwe aus Uttigkofen lxxviiii d. i hall."
       },
       {
         "latin": "Item ex Emmerstorf vitrici iiii s. minus ii d.",
@@ -3611,7 +3611,7 @@
       },
       {
         "latin": "Item Recepimus a custode secunda feria post agathe viii s. vii s. i o",
-        "translation": "Ebenfalls empfangen vom Küster am Montag nach Agathe viii s. vii s. i o"
+        "translation": "Ebenfalls empfangen vom Küster am Montag nach Agatha viii s. vii s. i o"
       },
       {
         "latin": "de oblacionibus",
@@ -3682,7 +3682,7 @@
       },
       {
         "latin": "Recepimus a fratribus In Cöstlaren",
-        "translation": "Wir erhielten von den Brüdern in Cöstlaren"
+        "translation": "Wir erhielten von den Brüdern in Kösslarn"
       },
       {
         "latin": "datur de angaria trinitatis v lb. d.",
@@ -3690,7 +3690,7 @@
       },
       {
         "latin": "datur de angaria michaelis v lb. d.",
-        "translation": "gegeben für die Fronarbeit zu Michaelis v lb. d."
+        "translation": "gegeben für die Fronarbeit zu Michael v lb. d."
       },
       {
         "latin": "datur de angaria natalis domini iiii lb. d. obligatur ii lb. d. datur in die",
@@ -3777,7 +3777,7 @@
       },
       {
         "latin": "Idem habet vii s. dominica ante michaelis",
-        "translation": "Derselbe erhält vii s. am Sonntag vor Michaelis"
+        "translation": "Derselbe erhält vii s. am Sonntag vor Michael"
       },
       {
         "latin": "solutus est in die agathe",
@@ -3797,7 +3797,7 @@
       },
       {
         "latin": "Idem habet i lb. ypoliti Idem habet i lb. dominica ante michaelis",
-        "translation": "Derselbe hat i lb. am Hippolytustag. Derselbe hat i lb. am Sonntag vor Michaelis"
+        "translation": "Derselbe hat i lb. am Hippolytustag. Derselbe hat i lb. am Sonntag vor Michael"
       },
       {
         "latin": "Item habet i lb. In die leonhardi solutus est in die agathe",
@@ -3999,7 +3999,7 @@
       },
       {
         "latin": "Idem habet v s. Johannis baptiste Idem habet i lb. dominica ante michaelis",
-        "translation": "Derselbe erhält v s. am Tag des Johannes des Täufers. Derselbe erhält i lb. am Sonntag vor Michaelis."
+        "translation": "Derselbe erhält v s. am Tag des Johannes des Täufers. Derselbe erhält i lb. am Sonntag vor Michael."
       },
       {
         "latin": "solutus est in die agathe",
@@ -4038,7 +4038,7 @@
       },
       {
         "latin": "Pewtler leonardus Johannis conductus est pro xx s. d.",
-        "translation": "Pewtler Leonardus Johannis ist aufgenommen für xx s. d."
+        "translation": "Pewtler Leonardus Johannes ist aufgenommen für xx s. d."
       },
       {
         "latin": "Idem habet dominica letare oculi lx d. Idem habet v s. d. in die",
@@ -4050,7 +4050,7 @@
       },
       {
         "latin": "solutus est in die agathe",
-        "translation": "ist ausbezahlt am Tag Agathe"
+        "translation": "ist ausbezahlt am Tag Agatha"
       },
       {
         "latin": "Faber wolfgangus conductus est pro iii lb. xxx d.",
@@ -4058,7 +4058,7 @@
       },
       {
         "latin": "solutus est in die agathe",
-        "translation": "ist ausbezahlt am Tag Agathe"
+        "translation": "ist ausbezahlt am Tag Agatha"
       },
       {
         "latin": "Famulus fabri petrus conductus est pro iiii s. d.",
@@ -4074,7 +4074,7 @@
       },
       {
         "latin": "solutus est in die agathe",
-        "translation": "ist bezahlt am Tag Agathe"
+        "translation": "ist bezahlt am Tag Agatha"
       },
       {
         "latin": "Michel Hörndel magister curie conductus est pro",
@@ -4086,11 +4086,11 @@
       },
       {
         "latin": "Idem habet i lb. in die ascensionis Idem habet i lb. dominica ante michaelis",
-        "translation": "Derselbe erhält i lb. am Tag der Himmelfahrt Derselbe erhält i lb. am Sonntag vor Michaelis"
+        "translation": "Derselbe erhält i lb. am Tag der Himmelfahrt Derselbe erhält i lb. am Sonntag vor Michael"
       },
       {
         "latin": "solutus est in die agathe",
-        "translation": "ist bezahlt am Tag Agathe"
+        "translation": "ist bezahlt am Tag Agatha"
       },
       {
         "latin": "Primus colanus leonardus conductus est pro iii lb. vi s. d.",
@@ -4102,7 +4102,7 @@
       },
       {
         "latin": "solutus est in profesto agathe",
-        "translation": "ausbezahlt am Vortag von Agathe"
+        "translation": "ausbezahlt am Vortag von Agatha"
       }
     ]
   },
@@ -4133,7 +4133,7 @@
       },
       {
         "latin": "Idem habet iiii s. in die ascensionis Idem habet iiii s. Johannis Baptiste",
-        "translation": "Derselbe hat iiii s. am Tag Christi Himmelfahrt Derselbe hat iiii s. Johannis des Täufers"
+        "translation": "Derselbe hat iiii s. am Tag Christi Himmelfahrt Derselbe hat iiii s. Johannes des Täufers"
       },
       {
         "latin": "solutus est",
@@ -4153,7 +4153,7 @@
       },
       {
         "latin": "Idem habet ypoliti iiii s. Item habet v s. dominica ante michaelis",
-        "translation": "Derselbe erhält am Hypolitustag iiii s. Ebenfalls erhält er v s. am Sonntag vor Michaelis"
+        "translation": "Derselbe erhält am Hypolitustag iiii s. Ebenfalls erhält er v s. am Sonntag vor Michael"
       },
       {
         "latin": "Idem recepit In die Leonhardi iiii s. d. solutus est in die agathe",
@@ -4212,11 +4212,11 @@
       },
       {
         "latin": "Idem habet v s. in die ascensionis Idem habet lx d. Johannis baptiste",
-        "translation": "Derselbe erhält v s. am Tag der Himmelfahrt Derselbe erhält lx d. Johannis des Täufers"
+        "translation": "Derselbe erhält v s. am Tag der Himmelfahrt Derselbe erhält lx d. Johannes des Täufers"
       },
       {
         "latin": "Idem habet iii s. d. ypoliti Idem habet iiii s. dominica ante michaelis",
-        "translation": "Derselbe erhält iii s. d. Hippolyti Derselbe erhält iiii s. am Sonntag vor Michaelis"
+        "translation": "Derselbe erhält iii s. d. Hippolyti Derselbe erhält iiii s. am Sonntag vor Michael"
       },
       {
         "latin": "solutus est",
@@ -4240,7 +4240,7 @@
       },
       {
         "latin": "solutus est in profesto agathe",
-        "translation": "ist bezahlt am Vortag von Agathe"
+        "translation": "ist bezahlt am Vortag von Agatha"
       },
       {
         "latin": "Stadler ulricus conductus est pro xv s. d.",
@@ -4339,7 +4339,7 @@
       },
       {
         "latin": "Idem habet v s. in die ascensionis Idem habet vi s. johannis baptiste",
-        "translation": "Derselbe hat v s. am Tag der Himmelfahrt Derselbe hat vi s. Johannis des Täufers"
+        "translation": "Derselbe hat v s. am Tag der Himmelfahrt Derselbe hat vi s. Johannes des Täufers"
       },
       {
         "latin": "solutus est",
@@ -4567,7 +4567,7 @@
       },
       {
         "latin": "Item computavimus cum currifici nostro dominica post conversionis pauli et dedimus",
-        "translation": "Ebenfalls rechneten wir mit unserem Wagenmacher am Sonntag nach Pauli Bekehrung ab und gaben"
+        "translation": "Ebenfalls rechneten wir mit unserem Wagenmacher am Sonntag nach Paulus Bekehrung ab und gaben"
       },
       {
         "latin": "sibi pro omnibus suis laboribus i lb. xxii d. Item dedimus sibi",
@@ -4642,7 +4642,7 @@
       },
       {
         "latin": "Item dedimus sellatori de Scharding umb xx new kamet per ...",
-        "translation": "Ebenfalls gaben wir dem Sattler von Scharding für xx neue Kummet pro ..."
+        "translation": "Ebenfalls gaben wir dem Sattler von Schärding für xx neue Kummet pro ..."
       },
       {
         "latin": "Item pro v 5 Säil uberzogen per xv",
@@ -5346,7 +5346,7 @@
       },
       {
         "latin": "piscatori de schönhäring pro piscibus xiiii s. iiii d. Item dedimus Johanni",
-        "translation": "dem Fischer von Schönhäring für Fische xiiii s. iiii d. Ebenfalls gaben wir Johanni"
+        "translation": "dem Fischer von Schönhäring für Fische xiiii s. iiii d. Ebenfalls gaben wir Johannes"
       },
       {
         "latin": "de Walchsing pro piscibus vii s. xv d. Item piscatori de Walchsing",
@@ -5769,11 +5769,11 @@
       },
       {
         "latin": "Item dedimus seratori in pfarkirchen pro seris et clavibus xlii d.",
-        "translation": "Ebenfalls gaben wir dem Schlossmacher in Pfarkirchen für Querbalken und Schlösser xlii d."
+        "translation": "Ebenfalls gaben wir dem Schlossmacher in Pfarrkirchen für Querbalken und Schlösser xlii d."
       },
       {
         "latin": "Item dedimus seratori in pfarkirchen umb ein sagradt iii f. Rhen.",
-        "translation": "Ebenfalls gaben wir dem Schlossmacher in Pfarkirchen für ein Schloss iii f. Rhen."
+        "translation": "Ebenfalls gaben wir dem Schlossmacher in Pfarrkirchen für ein Schloss iii f. Rhen."
       },
       {
         "latin": "Item dedimus seratori in Vilshofen xxii d. pro lima clavibusque",
@@ -5867,7 +5867,7 @@
       },
       {
         "latin": "Item dedimus consumpsimus ad arenstorff et dedimus pro honorancia v f. Ung.",
-        "translation": "Ebenfalls gaben wir aus in Arenstorff und gaben für Ehrengeschenk v f. Ung."
+        "translation": "Ebenfalls gaben wir aus in Arnstorf und gaben für Ehrengeschenk v f. Ung."
       },
       {
         "latin": "et i lb. xxvi d. pro sumptibus",
@@ -5982,7 +5982,7 @@
       },
       {
         "latin": "de arenstorff xi lb. d. bibales xiii d.",
-        "translation": "von Arenstorff xi lb. d. Trinkgelder xiii d."
+        "translation": "von Arnstorf xi lb. d. Trinkgelder xiii d."
       },
       {
         "latin": "Item dedimus Swinger de pfarrkirchen pro uno albo panno",
@@ -6124,7 +6124,7 @@
       },
       {
         "latin": "und i suppem Item habet i lb. Sabbato ante agathe virginis",
-        "translation": "und i Suppe. Ebenfalls hat er i lb. Am Samstag vor Agathe, der Jungfrau"
+        "translation": "und i Suppe. Ebenfalls hat er i lb. Am Samstag vor Agatha, der Jungfrau"
       },
       {
         "latin": "iterum habent dominica Oculi iiii lb. d. soluti sunt totaliter",
@@ -6262,7 +6262,7 @@
       },
       {
         "latin": "Jacobi v f. Rhen. lx d. obligatos Item dedimus prefato priori ad",
-        "translation": "Jacobi v f. Rhen. lx d. geschuldet Ebenso gaben wir dem genannten Prior zu"
+        "translation": "Jakobus v f. Rhen. lx d. geschuldet Ebenso gaben wir dem genannten Prior zu"
       },
       {
         "latin": "Straubing in Vigilia laurencii i f. xlviiii d. obligatos Item de-",
@@ -6507,7 +6507,7 @@
       },
       {
         "latin": "Item Recepimus a Steffano Carpentario pro uno Sacco siliginis vii s. d.",
-        "translation": "Ebenfalls erhalten von Steffano Carpentario für einen Sack Roggen vii s. d."
+        "translation": "Ebenfalls erhalten von Stephanus Carpentario für einen Sack Roggen vii s. d."
       },
       {
         "latin": "Item Recepimus pro tritico a carpentariis vii s. vi d.",
@@ -6704,7 +6704,7 @@
       },
       {
         "latin": "Item Recepimus a vittricis in Uttenkoven lxxiiii d.",
-        "translation": "Ebenfalls erhalten von der Wirtin in Uttenkoven lxxiiii d."
+        "translation": "Ebenfalls erhalten von der Wirtin in Uttigkofen lxxiiii d."
       },
       {
         "latin": "Item Recepimus a vittricis in Künczen xx d.",
@@ -6807,7 +6807,7 @@
       },
       {
         "latin": "datur De angaria michaelis pfeylmair dedit vi lb. d.",
-        "translation": "gegeben für die Fronarbeit zu Michaelis Pfeylmair gab vi lb. d."
+        "translation": "gegeben für die Fronarbeit zu Michael Pfeylmair gab vi lb. d."
       },
       {
         "latin": "datur de angaria natalis Christi iiii lb.",
@@ -6962,7 +6962,7 @@
       },
       {
         "latin": "Idem habet feria 2a post martini vii s. d.",
-        "translation": "Derselbe hat am Montag nach Martini vii s. d."
+        "translation": "Derselbe hat am Montag nach Martin vii s. d."
       },
       {
         "latin": "32 lb.",
@@ -6997,7 +6997,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Idem habet ad futurum annum i lb. d.",
@@ -7009,11 +7009,11 @@
       },
       {
         "latin": "Idem habet In die Johannis Waptiste ii lb. d.",
-        "translation": "Derselbe hat am Tag Johannis des Täufers ii lb. d."
+        "translation": "Derselbe hat am Tag Johannes des Täufers ii lb. d."
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Georgius famulus hospitum xv s. d.",
@@ -7045,7 +7045,7 @@
       },
       {
         "latin": "ascensionis iiii i lb. d. Idem habet In die Johannis Waptiste",
-        "translation": "der Himmelfahrt iiii i lb. d. Derselbe erhält am Tag Johannis des Täufers"
+        "translation": "der Himmelfahrt iiii i lb. d. Derselbe erhält am Tag Johannes des Täufers"
       },
       {
         "latin": "i lb. d. mer Sabbato ante ypoliti iiii s. d.",
@@ -7053,7 +7053,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "ist vollständig bezahlt am Sonntag nach der Reinigung"
+        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Subcocus Augustinus xx s. d.",
@@ -7061,7 +7061,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Masculus coquine Cristannus x s. d.",
@@ -7088,7 +7088,7 @@
       },
       {
         "latin": "Idem habet in die Johannis Waptiste v s. d. Idem habet xiii s. d.",
-        "translation": "Derselbe erhält am Tag Johannis des Täufers v s. d. Derselbe erhält xiii s. d."
+        "translation": "Derselbe erhält am Tag Johannes des Täufers v s. d. Derselbe erhält xiii s. d."
       },
       {
         "latin": "In die agathe",
@@ -7120,7 +7120,7 @@
       },
       {
         "latin": "Idem habet in die Johannis Waptiste i lb. d. Idem habet x s. d. Iam",
-        "translation": "Derselbe erhält am Tag Johannis des Täufers i lb. d. Derselbe erhält x s. d. Nun"
+        "translation": "Derselbe erhält am Tag Johannes des Täufers i lb. d. Derselbe erhält x s. d. Nun"
       },
       {
         "latin": "a festo Steffani conductus est alter molitor nomine Jorius",
@@ -7144,7 +7144,7 @@
       },
       {
         "latin": "lamperti i lb. d. Idem habet dominica post purificacionis x s. d.",
-        "translation": "Lamperti i lb. d. Derselbe erhält am Sonntag nach Mariä Reinigung x s. d."
+        "translation": "Lamperti i lb. d. Derselbe erhält am Sonntag nach Mariä Lichtmess x s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -7156,7 +7156,7 @@
       },
       {
         "latin": "Idem habet dominica Oculi v s. d. Idem habet In die Johannis waptiste",
-        "translation": "Derselbe erhält am Sonntag Oculi v s. d. Derselbe erhält am Tag Johannis des Täufers"
+        "translation": "Derselbe erhält am Sonntag Oculi v s. d. Derselbe erhält am Tag Johannes des Täufers"
       },
       {
         "latin": "v s. d.",
@@ -7164,7 +7164,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "ist vollständig bezahlt am Sonntag nach der Reinigung"
+        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "34 lb. 36 d. 5 s. d.",
@@ -7191,7 +7191,7 @@
       },
       {
         "latin": "solutus est totaliter In die Jacobi",
-        "translation": "vollständig bezahlt am Tag Jacobi"
+        "translation": "vollständig bezahlt am Tag Jakobus"
       },
       {
         "latin": "Item gedingt maister thoman von geren zue ainem Schmid In",
@@ -7211,7 +7211,7 @@
       },
       {
         "latin": "lamperti xxx d. Idem habet dominica post purificacionis lx d.",
-        "translation": "Lamperti xxx d. Derselbe hat am Sonntag nach Mariä Reinigung lx d."
+        "translation": "Lamperti xxx d. Derselbe hat am Sonntag nach Mariä Lichtmess lx d."
       },
       {
         "latin": "solutus est totaliter",
@@ -7231,7 +7231,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Primus colanus lienhardus iii lb. vi s. d.",
@@ -7247,7 +7247,7 @@
       },
       {
         "latin": "Idem habet dominica post purificacionis xii s. d.",
-        "translation": "Derselbe hat am Sonntag nach Mariä Reinigung xii s. d."
+        "translation": "Derselbe hat am Sonntag nach Mariä Lichtmess xii s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -7267,7 +7267,7 @@
       },
       {
         "latin": "Idem habet dominica post purificacionis xiiij̸ s. d.",
-        "translation": "Derselbe hat am Sonntag nach Mariä Reinigung xiiij̸ s. d."
+        "translation": "Derselbe hat am Sonntag nach Mariä Lichtmess xiiij̸ s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -7287,7 +7287,7 @@
       },
       {
         "latin": "Idem habet dominica post purificacionis xiiij̸ s. d.",
-        "translation": "Derselbe erhält am Sonntag nach Mariä Reinigung xiiij̸ s. d."
+        "translation": "Derselbe erhält am Sonntag nach Mariä Lichtmess xiiij̸ s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -7310,7 +7310,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Famulus porcorum philipp xx s. d.",
@@ -7350,7 +7350,7 @@
       },
       {
         "latin": "Idem habet dominica post purificacionis v s. d. d.",
-        "translation": "Derselbe hat am Sonntag nach Mariä Reinigung v s. d. d."
+        "translation": "Derselbe hat am Sonntag nach Mariä Lichtmess v s. d. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -7362,7 +7362,7 @@
       },
       {
         "latin": "Cocus in curia colonorum thomas xx s. d.",
-        "translation": "Koch im Hof der Bauern Thomas xx s. d."
+        "translation": "Koch im Hof der Pächter Thomas xx s. d."
       },
       {
         "latin": "Idem habet in die Johannis waptiste v s. d. Idem habet",
@@ -7370,7 +7370,7 @@
       },
       {
         "latin": "dominica lamperti v s. d. Idem habet dominica post purificacionis",
-        "translation": "am Sonntag Lamperti v s. d. Derselbe hat am Sonntag nach Mariä Reinigung"
+        "translation": "am Sonntag Lamperti v s. d. Derselbe hat am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "x s. d.",
@@ -7386,7 +7386,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       }
     ]
   },
@@ -7405,7 +7405,7 @@
       },
       {
         "latin": "solutus est totaliter In die georgii",
-        "translation": "ist vollständig bezahlt am Tag Georgii"
+        "translation": "ist vollständig bezahlt am Tag Georg"
       },
       {
         "latin": "Sartor noster gabriel viii lb. d.",
@@ -7413,7 +7413,7 @@
       },
       {
         "latin": "Idem habet in die Johannis waptiste ii lb. d. Idem habet dominica",
-        "translation": "Derselbe erhält am Tag Johannis Baptistae ii lb. d. Derselbe erhält am Sonntag"
+        "translation": "Derselbe erhält am Tag Johannes Baptistae ii lb. d. Derselbe erhält am Sonntag"
       },
       {
         "latin": "lamperti ii lb. d. Idem habet xii s. d. purificacionis",
@@ -7456,7 +7456,7 @@
       },
       {
         "latin": "soluta est totaliter dominica post purificacionis",
-        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "ist vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Prima ancilla xiii s. x d.",
@@ -7480,7 +7480,7 @@
       },
       {
         "latin": "soluta est totaliter post i dominica post purificacionis",
-        "translation": "vollständig bezahlt nach dem 1. Sonntag nach Mariä Reinigung"
+        "translation": "vollständig bezahlt nach dem 1. Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Fueträr petrus xviij̸ s. d.",
@@ -7492,7 +7492,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "Opilio petrus hön iii lb. d.",
@@ -7508,7 +7508,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post purificacionis",
-        "translation": "vollständig bezahlt am Sonntag nach Mariä Reinigung"
+        "translation": "vollständig bezahlt am Sonntag nach Mariä Lichtmess"
       },
       {
         "latin": "dedit Heimen diernen viiii s. d.",
@@ -7689,7 +7689,7 @@
       },
       {
         "latin": "Item in deposicione eiusdem in presencia nostra et domini de Raytenhaslach et aliorum",
-        "translation": "Ebenfalls bei der Niederlegung desselben in unserer Gegenwart und der des Herrn von Raytenhaslach und anderer"
+        "translation": "Ebenfalls bei der Niederlegung desselben in unserer Gegenwart und der des Herrn von Raitenhaslach und anderer"
       },
       {
         "latin": "pro prandio x f. Rhen.",
@@ -7760,7 +7760,7 @@
       },
       {
         "latin": "factum feria 4ta ante Egidii",
-        "translation": "Verzeichnet am Mittwoch vor Egidii"
+        "translation": "Verzeichnet am Mittwoch vor Ägidius"
       },
       {
         "latin": "Summa per se",
@@ -7819,7 +7819,7 @@
       },
       {
         "latin": "Sabbato post Egidii iiii s. xvii d.",
-        "translation": "Am Samstag nach Egidii iiii s. xvii d."
+        "translation": "Am Samstag nach Ägidius iiii s. xvii d."
       },
       {
         "latin": "Summa per se",
@@ -7917,11 +7917,11 @@
       },
       {
         "latin": "et dedimus sibi pro singulis laboribus v lb. vi s. d. In vigilia Johannis waptiste",
-        "translation": "und gaben ihm für einzelne Arbeiten v lb. vi s. d. Am Vorabend von Johannis des Täufers"
+        "translation": "und gaben ihm für einzelne Arbeiten v lb. vi s. d. Am Vorabend von Johannes des Täufers"
       },
       {
         "latin": "Item Steffano Carpentario xxii tag per xii d. facit i lb. xxiiii d.",
-        "translation": "Ebenfalls Steffano dem Zimmermann xxii Tage zu xii d. ergibt i lb. xxiiii d."
+        "translation": "Ebenfalls Stephanus dem Zimmermann xxii Tage zu xii d. ergibt i lb. xxiiii d."
       },
       {
         "latin": "Item pühler Carpentario xxiiii tag per xii d. facit i lb. xlviii d.",
@@ -7941,7 +7941,7 @@
       },
       {
         "latin": "Item lienhardo Carpentario Sabbato post Egidii xi tag per xii",
-        "translation": "Ebenfalls Lienhard dem Zimmermann am Samstag nach Egidii xi Tage zu xii"
+        "translation": "Ebenfalls Lienhard dem Zimmermann am Samstag nach Ägidius xi Tage zu xii"
       },
       {
         "latin": "d. facit iiii s. xii d.",
@@ -8412,7 +8412,7 @@
       },
       {
         "latin": "Item Emimus a Steffano de Anham unam vaccam pro x s. d.",
-        "translation": "Ebenfalls kauften wir von Steffano aus Anham eine Kuh für x s. d."
+        "translation": "Ebenfalls kauften wir von Stephanus aus Anham eine Kuh für x s. d."
       },
       {
         "latin": "Item Emimus v iii Rinder de Hünttinger de ädenperg pro iiii lb. d.",
@@ -8424,7 +8424,7 @@
       },
       {
         "latin": "Item Recepimus unam vaccam a Steffano de klepsing In debitis pro xi s. d.",
-        "translation": "Ebenfalls erhielten wir eine Kuh von Steffano aus Klepsing in Schulden für xi s. d."
+        "translation": "Ebenfalls erhielten wir eine Kuh von Stephanus aus Klepsing in Schulden für xi s. d."
       },
       {
         "latin": "Item mer umb iiii Swein x s. d.",
@@ -8637,7 +8637,7 @@
       },
       {
         "latin": "xii d. et ad purgkhausen xii d. cetera nauta expediet",
-        "translation": "xii d. und nach Purgkhausen xii d. das Übrige wird der Schiffer erledigen"
+        "translation": "xii d. und nach Burghausen xii d. das Übrige wird der Schiffer erledigen"
       },
       {
         "latin": "Solutus est totaliter feria quinta post Iubilate et habet",
@@ -8989,7 +8989,7 @@
       },
       {
         "latin": "Item prior consumpsit ad Cöstlaren In Stifftta xlvii d.",
-        "translation": "Ebenfalls der Prior verbrauchte in Cöstlaren im Stiftta xlvii d."
+        "translation": "Ebenfalls der Prior verbrauchte in Kösslarn im Stiftta xlvii d."
       },
       {
         "latin": "Item piscatori de galckweiß umb ain lägel xxi d.",
@@ -9009,7 +9009,7 @@
       },
       {
         "latin": "Item dedimus fratri Wolfgango de Raytenhaslach qui per annum",
-        "translation": "Ebenfalls gaben wir Bruder Wolfgang von Raytenhaslach, der ein Jahr"
+        "translation": "Ebenfalls gaben wir Bruder Wolfgang von Raitenhaslach, der ein Jahr"
       },
       {
         "latin": "nobiscum steterat pro ceralibus vii s. d.",
@@ -9214,7 +9214,7 @@
       },
       {
         "latin": "Item dedimus diversis tritulatoribus dominica post martini vii lb. d.",
-        "translation": "Ebenfalls gaben wir verschiedenen Dreschern am Sonntag nach Martini vii lb. d."
+        "translation": "Ebenfalls gaben wir verschiedenen Dreschern am Sonntag nach Martin vii lb. d."
       },
       {
         "latin": "Item dedimus diversis trituratoribus circa natalis iiii lb. v s. xx d.",
@@ -9242,7 +9242,7 @@
       },
       {
         "latin": "dominica post purificacionis ii f. Rhen. iterum habent dominica",
-        "translation": "am Sonntag nach Mariä Reinigung ii f. Rhen. wiederum haben sie am Sonntag"
+        "translation": "am Sonntag nach Mariä Lichtmess ii f. Rhen. wiederum haben sie am Sonntag"
       },
       {
         "latin": "oculi ii f. Rhen. Idem habent feria 2a post Iudica ii f. Rhen.",
@@ -9404,7 +9404,7 @@
       },
       {
         "latin": "Dedimus ad Redimendum vexaciones",
-        "translation": "Wir gaben für das Freikaufen von Erschütterungen"
+        "translation": "Wir gaben für das Freikaufen von Belastungen"
       },
       {
         "latin": "Item consumpsit prior et ceteri in Vilshofen una cum precio advocati v s. d.",
@@ -9444,7 +9444,7 @@
       },
       {
         "latin": "Item dedimus Johanni Jager de Rudmansvellden ex parte taberne et",
-        "translation": "Ebenfalls gaben wir Johanni Jäger von Rudmansvellden für den Teil der Taverne und"
+        "translation": "Ebenfalls gaben wir Johannes Jäger von Rudmansvellden für den Teil der Taverne und"
       },
       {
         "latin": "curie lemerstorff vij̸ lb. d.",
@@ -9810,7 +9810,7 @@
       },
       {
         "latin": "Item Ex uttenkoven lxii d.",
-        "translation": "Ebenfalls aus Uttenkoven lxii d."
+        "translation": "Ebenfalls aus Uttigkofen lxii d."
       },
       {
         "latin": "Item Ex galckweiss lxxxviii d.",
@@ -9901,7 +9901,7 @@
       },
       {
         "latin": "Recepimus a fratribus In Cöstlaren",
-        "translation": "Wir erhielten von den Brüdern in Cöstlaren"
+        "translation": "Wir erhielten von den Brüdern in Kösslarn"
       },
       {
         "latin": "datur De angaria penthecostes v lb. d.",
@@ -9909,7 +9909,7 @@
       },
       {
         "latin": "datur De angaria michaelis pfeilmair vi lb. d.",
-        "translation": "gegeben für die Fronarbeit zu Michaelis dem Pfeilmair vi lb. d."
+        "translation": "gegeben für die Fronarbeit zu Michael dem Pfeilmair vi lb. d."
       },
       {
         "latin": "datur De angaria Natalis iiii lb. d.",
@@ -10016,7 +10016,7 @@
       },
       {
         "latin": "Idem habet In die ascensionis domini sex f.",
-        "translation": "Derselbe hat am Tag der Himmelfahrt des Herrn sechs f."
+        "translation": "Derselbe hat am Tag der Christi Himmelfahrt sechs f."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -10040,7 +10040,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "[Glosse] vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "[Glosse] vollständig bezahlt am Sonntag nach Agatha"
       }
     ]
   },
@@ -10063,7 +10063,7 @@
       },
       {
         "latin": "Idem habet circa purificacionis i lb. d. mer habet In die ascensionis",
-        "translation": "Derselbe erhält um Mariä Reinigung i lb. d. hat am Tag Christi Himmelfahrt"
+        "translation": "Derselbe erhält um Mariä Lichtmess i lb. d. hat am Tag Christi Himmelfahrt"
       },
       {
         "latin": "v s. d. Idem habet In die Johannis Waptiste iii s. d. Idem habet",
@@ -10075,7 +10075,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "[ist] vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "[ist] vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Praxator noster iii lb. vi s. d.",
@@ -10087,7 +10087,7 @@
       },
       {
         "latin": "suo per cellerarium in absencia domini i lb. d. feria 6ta post michaelis",
-        "translation": "durch den Kellermeister in Abwesenheit des Herrn i lb. d. am Freitag nach Michaelis"
+        "translation": "durch den Kellermeister in Abwesenheit des Herrn i lb. d. am Freitag nach Michael"
       },
       {
         "latin": "Idem habet feria 4ta post leonardi vi s. xv d.",
@@ -10135,7 +10135,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Subcocus xx s. d.",
@@ -10151,7 +10151,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "vollständig bezahlt am Sonntag nach Agatha"
       }
     ]
   },
@@ -10186,7 +10186,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "[Glosse: vollständig bezahlt am Sonntag nach Agathe]"
+        "translation": "[Glosse: vollständig bezahlt am Sonntag nach Agatha]"
       },
       {
         "latin": "Portulanus x s. d.",
@@ -10194,7 +10194,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Famulus granarii xx s. d.",
@@ -10309,7 +10309,7 @@
       },
       {
         "latin": "Idem habet In die Johannis Waptiste iii s. d. mer habet In",
-        "translation": "Derselbe hat am Tag Johannis des Täufers iii s. d. hat außerdem am"
+        "translation": "Derselbe hat am Tag Johannes des Täufers iii s. d. hat außerdem am"
       },
       {
         "latin": "die ypoliti xxx d. Idem habet dominica post omnium sanctorum",
@@ -10353,7 +10353,7 @@
       },
       {
         "latin": "dominica post agathe",
-        "translation": "Sonntag nach Agathe"
+        "translation": "Sonntag nach Agatha"
       }
     ]
   },
@@ -10384,7 +10384,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "[ist] vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "[ist] vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Stadler ulrich xv s. d.",
@@ -10400,7 +10400,7 @@
       },
       {
         "latin": "solutus est totaliter dominica post agathe",
-        "translation": "vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Famulus porcorum primus xx s. d.",
@@ -10420,7 +10420,7 @@
       },
       {
         "latin": "solutus est totaliter In die agathe",
-        "translation": "vollständig bezahlt am Tag der Agathe"
+        "translation": "vollständig bezahlt am Tag der Agatha"
       },
       {
         "latin": "Secundus famulus porcorum ii lb. d.",
@@ -10522,7 +10522,7 @@
       },
       {
         "latin": "soluta est totaliter dominica post agathe",
-        "translation": "ist vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "ist vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Prima ancilla Kathrey xiii s. x d.",
@@ -10534,7 +10534,7 @@
       },
       {
         "latin": "soluta est totaliter dominica post agathe",
-        "translation": "ist vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "ist vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Secunda ancilla / madel xiij̸ s. d.",
@@ -10542,7 +10542,7 @@
       },
       {
         "latin": "soluta est totaliter dominica post agathe",
-        "translation": "ist vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "ist vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Tercia ancilla a festo philippi et Jacobi viij̸ x s. d.",
@@ -10550,7 +10550,7 @@
       },
       {
         "latin": "soluta est totaliter dominica post agathe",
-        "translation": "ist vollständig bezahlt am Sonntag nach Agathe"
+        "translation": "ist vollständig bezahlt am Sonntag nach Agatha"
       },
       {
         "latin": "Füeträr Hennsel xviij̸ s. d.",
@@ -10570,7 +10570,7 @@
       },
       {
         "latin": "purificacionis trenncker conductus est et habet in solario suo iiii s. d.",
-        "translation": "Der Tränker der Reinigung wurde eingestellt und hat in seinem Lohn iiii s. d."
+        "translation": "Der Tränker Mariä Lichtmess wurde eingestellt und hat in seinem Lohn iiii s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -10594,7 +10594,7 @@
       },
       {
         "latin": "dominica post agathe",
-        "translation": "Sonntag nach Agathe"
+        "translation": "Sonntag nach Agatha"
       }
     ]
   },
@@ -10711,7 +10711,7 @@
       },
       {
         "latin": "Item misimus sibi circa festum michaelis xxv f. Rhen.",
-        "translation": "Ebenfalls sandten wir ihm um das Fest Michaelis xxv f. Rhen."
+        "translation": "Ebenfalls sandten wir ihm um das Fest Michael xxv f. Rhen."
       },
       {
         "latin": "Item misimus sibi circa festum ambrosii cum petro famulo xxx f.",
@@ -10770,11 +10770,11 @@
       },
       {
         "latin": "Item dedimus eidem Stangnifici pro aliquibus laboribus xxviii d.",
-        "translation": "Ebenfalls gaben wir demselben Stangnifici für einige Arbeiten xxviii d."
+        "translation": "Ebenfalls gaben wir demselben Zinngießer für einige Arbeiten xxviii d."
       },
       {
         "latin": "Item dedimus Stangnifici pro aliquibus laboribus lvi d.",
-        "translation": "Ebenfalls gaben wir dem Stangnifici für einige Arbeiten lvi d."
+        "translation": "Ebenfalls gaben wir dem Zinngießer für einige Arbeiten lvi d."
       },
       {
         "latin": "Summa huius facit xi s. xxviii d. i hall.",
@@ -10845,7 +10845,7 @@
       },
       {
         "latin": "ii lb. v s. d. bibales xii d.",
-        "translation": "ii lb. v s. d. bibales xii d."
+        "translation": "ii lb. v s. d. Trinkgeld xii d."
       },
       {
         "latin": "Item dedimus calceatori nostro pro aliquibus laboribus xlii d. halssen 6",
@@ -10912,7 +10912,7 @@
       },
       {
         "latin": "Idem habet de octo diebus quos ante Steffani laboravit iii s. vi d.",
-        "translation": "Derselbe erhält für acht Tage, die er vor Steffani arbeitete iii s. vi d."
+        "translation": "Derselbe erhält für acht Tage, die er vor Stephanus arbeitete iii s. vi d."
       },
       {
         "latin": "Item Computavimus cum pellifice nostro Sabbato post udalrici Anno 99",
@@ -11338,7 +11338,7 @@
       },
       {
         "latin": "Item dedimus pro una vacca Steffano de klepssing xi s. d.",
-        "translation": "Ebenfalls gaben wir für eine Kuh dem Steffano von Klepssing xi s. d."
+        "translation": "Ebenfalls gaben wir für eine Kuh dem Stephanus von Klepssing xi s. d."
       },
       {
         "latin": "Item Recepimus unam vaccam a petro pfeiffer de Weng pro ii lb. d.",
@@ -11362,7 +11362,7 @@
       },
       {
         "latin": "Item Emimus a Steffano rustico de Wuffling iii boves et tres vaccas",
-        "translation": "Ebenfalls kauften wir von Steffano, Bauer von Wuffling, iii Ochsen und drei Kühe"
+        "translation": "Ebenfalls kauften wir von Stephanus, Bauer von Wuffling, iii Ochsen und drei Kühe"
       },
       {
         "latin": "pro x f. Rhen.",
@@ -11561,7 +11561,7 @@
       },
       {
         "latin": "Item pro piscibus viij̸ s. d. In die conversionis pauli",
-        "translation": "Ebenfalls für Fische viij̸ s. d. Am Tag der Bekehrung Pauli"
+        "translation": "Ebenfalls für Fische viij̸ s. d. Am Tag der Bekehrung Paulus"
       },
       {
         "latin": "Item wilhelmo de Criestorff pro piscibus iiij̸ s. d.",
@@ -11810,7 +11810,7 @@
       },
       {
         "latin": "fisselknecht xii d. et in purgkhausen xii d.",
-        "translation": "Fisselknecht xii d. und in Purgkhausen xii d."
+        "translation": "Fisselknecht xii d. und in Burghausen xii d."
       },
       {
         "latin": "Item dedimus officiali pro ceralibus vi s. d. reportavit xli d.",
@@ -12111,7 +12111,7 @@
       },
       {
         "latin": "Item Recepimus unum equum a Steffano de Anham In debitis suis pro iii lb.",
-        "translation": "Ebenfalls erhielten wir ein Pferd von Steffano von Anham in seinen Schulden für iii lb."
+        "translation": "Ebenfalls erhielten wir ein Pferd von Stephanus von Anham in seinen Schulden für iii lb."
       },
       {
         "latin": "Item Emimus unum equum de mairhoverin de mairhoff pro vii f.",
@@ -12218,7 +12218,7 @@
       },
       {
         "latin": "Item dedimus piscatori de arenstorff bibales lxiii d. de piscibus",
-        "translation": "Ebenfalls gaben wir dem Fischer von Arenstorff bibales lxiii d. für die Fische"
+        "translation": "Ebenfalls gaben wir dem Fischer von Arnstorf Trinkgeld lxiii d. für die Fische"
       },
       {
         "latin": "quos nobis dominus de Closen miserat",
@@ -12230,7 +12230,7 @@
       },
       {
         "latin": "Item uni lutinista de eckenfellden bibales lxiii d.",
-        "translation": "Ebenfalls einem Lautenspieler von Eggenfelden bibales lxiii d."
+        "translation": "Ebenfalls einem Lautenspieler von Eggenfelden Trinkgeld lxiii d."
       },
       {
         "latin": "Item aliquibus lanndshuechtten 3 trina vice vii s. d.",
@@ -12266,7 +12266,7 @@
       },
       {
         "latin": "Item iterum dedimus familiaribus nostris circa purificacionis pro mercipite",
-        "translation": "Ebenfalls wiederum gaben wir unseren Hausgenossen um Mariä Reinigung für Speise"
+        "translation": "Ebenfalls wiederum gaben wir unseren Hausgenossen um Mariä Lichtmess für Speise"
       },
       {
         "latin": "vii s. d.",
@@ -12843,7 +12843,7 @@
       },
       {
         "latin": "Item dedimus laboratoribus dominica post agathe iiiC",
-        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag nach Agathe iiiC"
+        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag nach Agatha iiiC"
       },
       {
         "latin": "lxxxiii tag per iiii d. facit vi lb. iii s. ii d.",
@@ -12964,7 +12964,7 @@
       },
       {
         "latin": "auff Jacobi Solvit totum",
-        "translation": "auf Jacobi. Bezahlt alles."
+        "translation": "auf Jakobus. Bezahlt alles."
       },
       {
         "latin": "Item herel de tetling tenetur pro una scaffa tritici v f. Rhen.",
@@ -13007,7 +13007,7 @@
       },
       {
         "latin": "Recepimus pro ii scaff. tritici feria 2a post georgii viii lb. d.",
-        "translation": "Wir erhielten für ii scaff. Weizen am Montag nach Georgii viii lb. d."
+        "translation": "Wir erhielten für ii Schaff Weizen am Montag nach Georg viii lb. d."
       },
       {
         "latin": "Item eodem die pro aveno a granatore viiii s. xxiiij̸ d.",
@@ -13035,7 +13035,7 @@
       },
       {
         "latin": "Item ab ellend de Carling lviii d. pro tritico et umb i kubel haberen xviii d.",
-        "translation": "Ebenfalls vom Elend von Carling lviii d. für Weizen und für i Kubel Hafer xviii d."
+        "translation": "Ebenfalls vom Elend von Carling lviii d. für Weizen und für i Kübel Hafer xviii d."
       },
       {
         "latin": "Item Recepimus a granatore pro Tritico vendito v lb. d.",
@@ -13047,7 +13047,7 @@
       },
       {
         "latin": "Item Recepimus a granatore pro vij̸ sch. j̸ kubel tritici per iiii lb. d.",
-        "translation": "Ebenfalls empfangen vom Getreidehändler für vij̸ sch. j̸ kubel Weizen zu iiii lb. d."
+        "translation": "Ebenfalls empfangen vom Getreidehändler für vij̸ sch. j̸ Kübel Weizen zu iiii lb. d."
       },
       {
         "latin": "facit xxvi lb. xxiiii d.",
@@ -13107,11 +13107,11 @@
       },
       {
         "latin": "Item Recepimus pro tritico viii kubel ii f. Rhen.",
-        "translation": "Ebenfalls empfangen für Weizen viii Kubel ii f. Rhen."
+        "translation": "Ebenfalls empfangen für Weizen viii Kübel ii f. Rhen."
       },
       {
         "latin": "Item Recepimus pro tritico viii kubel ii f. Rhen.",
-        "translation": "Ebenfalls empfangen für Weizen viii Kubel ii f. Rhen."
+        "translation": "Ebenfalls empfangen für Weizen viii Kübel ii f. Rhen."
       },
       {
         "latin": "Item Recepimus a granatore pro vii metretis tritici iii lb. xv d.",
@@ -13127,7 +13127,7 @@
       },
       {
         "latin": "Item Recepimus a lienhardo pistore de aytnpach pro duabus scaff.",
-        "translation": "Ebenfalls empfangen von Lienhard dem Bäcker von Aytnpach für zwei scaff."
+        "translation": "Ebenfalls empfangen von Lienhard dem Bäcker von Aytnpach für zwei Schaff"
       },
       {
         "latin": "tritici iuxta computacionem quam fecimus x f. Rhen.",
@@ -13155,7 +13155,7 @@
       },
       {
         "latin": "Item Recepimus pro tritico Vendito ab uno rustico pro i schaff. und iij̸ kubel",
-        "translation": "Ebenfalls eingenommen für verkauften Weizen von einem Bauern für i schaff. und iij̸ kubel"
+        "translation": "Ebenfalls eingenommen für verkauften Weizen von einem Bauern für i schaff. und iij̸ Kübel"
       },
       {
         "latin": "facit iiii f. und lxxiiii d.",
@@ -13194,7 +13194,7 @@
       },
       {
         "latin": "Item Recepimus a cellerario feria 3a post martini i lb. xxiiii d.",
-        "translation": "Ebenfalls erhielten wir vom Cellerar am Dienstag nach Martini i lb. xxiiii d."
+        "translation": "Ebenfalls erhielten wir vom Cellerar am Dienstag nach Martin i lb. xxiiii d."
       },
       {
         "latin": "Summa ii lb. lxx d.",
@@ -13250,7 +13250,7 @@
       },
       {
         "latin": "In vigilia purificacionis iterum rei recepimus pro sale vi s. d.",
-        "translation": "Am Vorabend der Reinigung empfingen wir wiederum für Salz vi s. d."
+        "translation": "Am Vorabend Mariä Lichtmess empfingen wir wiederum für Salz vi s. d."
       },
       {
         "latin": "Item recepimus a famulo granatoris feria 6ta ante letare xij̸ s. d.",
@@ -13426,7 +13426,7 @@
       },
       {
         "latin": "Recepimus a fratribus nostris In Cöstlaren",
-        "translation": "Wir erhielten von unseren Brüdern in Cöstlaren"
+        "translation": "Wir erhielten von unseren Brüdern in Kösslarn"
       },
       {
         "latin": "datur De angaria penthecostes v lb. d.",
@@ -13434,7 +13434,7 @@
       },
       {
         "latin": "datur De angaria Michaelis pfeillmair dedit vi lb. d. v lb. d.",
-        "translation": "gegeben Für die Fronarbeit zu Michaelis gab Pfeillmair vi lb. d. v lb. d."
+        "translation": "gegeben Für die Fronarbeit zu Michael gab Pfeillmair vi lb. d. v lb. d."
       },
       {
         "latin": "De angaria natalis domini dedit iii lb. d. v lb. d.",
@@ -13505,7 +13505,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iiii f. Rhen. Idem habet",
-        "translation": "Derselbe hat am Sonntag vor Martini iiii f. Rhen. Derselbe hat"
+        "translation": "Derselbe hat am Sonntag vor Martin iiii f. Rhen. Derselbe hat"
       },
       {
         "latin": "In die agathe ii f. Rhen. Idem habet ii f. Rhen. feria 3a post",
@@ -13545,7 +13545,7 @@
       },
       {
         "latin": "die Johannis Waptiste i f. Rhen. Idem habet In die ypoliti ii f. Rhen.",
-        "translation": "Tag Johannis des Täufers i f. Rhen. Derselbe hat am Tag des Hippolyt ii f. Rhen."
+        "translation": "Tag Johannes des Täufers i f. Rhen. Derselbe hat am Tag des Hippolyt ii f. Rhen."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13561,7 +13561,7 @@
       },
       {
         "latin": "i lb. d. Idem habet dominica ante martini iiii s. d. Idem habet In",
-        "translation": "i lb. d. Derselbe hat am Sonntag vor Martini iiii s. d. Derselbe hat im"
+        "translation": "i lb. d. Derselbe hat am Sonntag vor Martin iiii s. d. Derselbe hat im"
       },
       {
         "latin": "solario suo ad nuptias iiii s. d.",
@@ -13660,7 +13660,7 @@
       },
       {
         "latin": "die Johannis Waptiste iiii s. d. Idem habet dominica ante martini",
-        "translation": "Tag Johannes des Täufers iiii s. d. Derselbe hat am Sonntag vor Martini"
+        "translation": "Tag Johannes des Täufers iiii s. d. Derselbe hat am Sonntag vor Martin"
       },
       {
         "latin": "iiii s. d.",
@@ -13680,7 +13680,7 @@
       },
       {
         "latin": "ante martini lx d.",
-        "translation": "vor Martini lx d."
+        "translation": "vor Martin lx d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13696,7 +13696,7 @@
       },
       {
         "latin": "ante martini v s. d.",
-        "translation": "vor Martini v s. d."
+        "translation": "vor Martin v s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13723,7 +13723,7 @@
       },
       {
         "latin": "ante martini lx d.",
-        "translation": "vor Martini lx d."
+        "translation": "vor Martin lx d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13775,7 +13775,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iiii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Martini iiii s. d."
+        "translation": "Derselbe hat am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13838,7 +13838,7 @@
       },
       {
         "latin": "ante martini i lb. d.",
-        "translation": "vor Martini i lb. d."
+        "translation": "vor Martin i lb. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13870,7 +13870,7 @@
       },
       {
         "latin": "die ypoliti vii s. d. Idem habet dominica ante martini i f. Rhen.",
-        "translation": "Tag des Hippolyt vii s. d. Derselbe hat am Sonntag vor Martini i f. Rhen."
+        "translation": "Tag des Hippolyt vii s. d. Derselbe hat am Sonntag vor Martin i f. Rhen."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13886,7 +13886,7 @@
       },
       {
         "latin": "ypoliti vii s. d. Idem habet dominica ante martini i f. Rhen.",
-        "translation": "ypoliti vii s. d. Derselbe hat am Sonntag vor Martini i f. Rhen."
+        "translation": "ypoliti vii s. d. Derselbe hat am Sonntag vor Martin i f. Rhen."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13913,7 +13913,7 @@
       },
       {
         "latin": "vii s. d. Idem habet dominica ante martini iiii s. d.",
-        "translation": "vii s. d. Derselbe hat am Sonntag vor Martini iiii s. d."
+        "translation": "vii s. d. Derselbe hat am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13929,7 +13929,7 @@
       },
       {
         "latin": "iii s. d. Idem habet dominica ante martini v s. d.",
-        "translation": "iii s. d. Derselbe erhält am Sonntag vor Martini v s. d."
+        "translation": "iii s. d. Derselbe erhält am Sonntag vor Martin v s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13945,7 +13945,7 @@
       },
       {
         "latin": "ypoliti v s. d. Idem habet dominica ante martini v s. d.",
-        "translation": "am Tag des Hippolyt v s. d. Derselbe hat am Sonntag vor Martini v s. d."
+        "translation": "am Tag des Hippolyt v s. d. Derselbe hat am Sonntag vor Martin v s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -13961,7 +13961,7 @@
       },
       {
         "latin": "v s. d. Idem habet dominica ante martini iiii s. d.",
-        "translation": "v s. d. Derselbe hat am Sonntag vor Martini iiii s. d."
+        "translation": "v s. d. Derselbe hat am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -14036,7 +14036,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iiii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini iiii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -14060,7 +14060,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini lx d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini lx d."
+        "translation": "Derselbe erhält am Sonntag vor Martin lx d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -14076,7 +14076,7 @@
       },
       {
         "latin": "In die ypoliti vi s. d. Idem habet dominica ante martini",
-        "translation": "Am Tag des Hippolyt vi s. d. Derselbe hat am Sonntag vor Martini"
+        "translation": "Am Tag des Hippolyt vi s. d. Derselbe hat am Sonntag vor Martin"
       },
       {
         "latin": "iiii s. d.",
@@ -14209,11 +14209,11 @@
       },
       {
         "latin": "circa festum michaelis",
-        "translation": "um das Fest Michaelis"
+        "translation": "um das Fest Michael"
       },
       {
         "latin": "Item eidem circa festum georgii xv f. Rhen.",
-        "translation": "Ebenfalls demselben um das Fest Georgii xv f. Rhen."
+        "translation": "Ebenfalls demselben um das Fest Georg xv f. Rhen."
       },
       {
         "latin": "Summa xxxv lb. vii s. d.",
@@ -14304,7 +14304,7 @@
       },
       {
         "latin": "Idem habet i kubel waytz facit xlii d. du...mus an sit propina",
-        "translation": "Derselbe hat i kubel Weizen, ergibt xlii d. gegeben ... ob es ein Trunk ist"
+        "translation": "Derselbe hat i Kübel Weizen, ergibt xlii d. gegeben ... ob es ein Trunk ist"
       },
       {
         "latin": "Summa i lb. v s. xxvii d.",
@@ -14339,7 +14339,7 @@
       },
       {
         "latin": "Item computavimus feria 6a post Egidii cum calceatore nostro et dedimus sibi",
-        "translation": "Ebenfalls abgerechnet am Freitag nach Egidii mit unserem Schuster und gaben ihm"
+        "translation": "Ebenfalls abgerechnet am Freitag nach Ägidius mit unserem Schuster und gaben ihm"
       },
       {
         "latin": "de xliii paribus per v d. facit vii s. v d. tringellt v d.",
@@ -14379,7 +14379,7 @@
       },
       {
         "latin": "Item computavimus cum currifice nostro de Carling dominica post conversionis pauli",
-        "translation": "Ebenfalls rechneten wir mit unserem Wagenmacher von Carling am Sonntag nach Pauli Bekehrung ab"
+        "translation": "Ebenfalls rechneten wir mit unserem Wagenmacher von Carling am Sonntag nach Paulus Bekehrung ab"
       },
       {
         "latin": "et dedimus sibi pro laboribus vi s. xxiiii d. iterum iii s. d.",
@@ -14560,7 +14560,7 @@
       },
       {
         "latin": "Item dedimus Steffano xviiii tag per xii d. facit vii s. xviii d.",
-        "translation": "Ebenfalls gaben wir Steffano xviiii Tage zu xii d. ergibt vii s. xviii d."
+        "translation": "Ebenfalls gaben wir Stephanus xviiii Tage zu xii d. ergibt vii s. xviii d."
       },
       {
         "latin": "Item dedimus leonardo carpentario et servis suis in ab-",
@@ -14576,11 +14576,11 @@
       },
       {
         "latin": "Item dedimus Steffano carpentario viii dies per x facit lxxx d.",
-        "translation": "Ebenfalls gaben wir Steffano dem Zimmermann viii Tage zu x, ergibt lxxx d."
+        "translation": "Ebenfalls gaben wir Stephanus dem Zimmermann viii Tage zu x, ergibt lxxx d."
       },
       {
         "latin": "dominica post conversionis pauli",
-        "translation": "Sonntag nach Pauli Bekehrung"
+        "translation": "Sonntag nach Paulus Bekehrung"
       },
       {
         "latin": "Summa x lb. iii s. xviii d.",
@@ -14801,7 +14801,7 @@
       },
       {
         "latin": "michaelis continens xvi urnas et xxvii canteras Urnam per xiiiij̸ s. d.",
-        "translation": "Michaelis enthaltend xvi Urnen und xxvii Kantern Urne zu xiiiij̸ s. d."
+        "translation": "Michael enthaltend xvi Urnen und xxvii Kantern Urne zu xiiiij̸ s. d."
       },
       {
         "latin": "facit In una summa xxxiiii f. Rhen. vj̸ s. d. habet In hoc",
@@ -15378,7 +15378,7 @@
       },
       {
         "latin": "lx d. et xxiiii d. ad purgkhausen et fisselknecht solarium",
-        "translation": "lx d. und xxiiii d. an Purgkhausen und Fisselknecht Solarium."
+        "translation": "lx d. und xxiiii d. an Burghausen und Fisselknecht Solarium."
       },
       {
         "latin": "suum recipiet quando apportatur Sal",
@@ -15631,7 +15631,7 @@
       },
       {
         "latin": "martini",
-        "translation": "Martini"
+        "translation": "Martin"
       },
       {
         "latin": "Summa per se",
@@ -15707,7 +15707,7 @@
       },
       {
         "latin": "Item dedimus uni Iuveni ex parte unius canis bibales xxi d.",
-        "translation": "Ebenfalls gaben wir einem Jüngling für einen Hund bibales xxi d."
+        "translation": "Ebenfalls gaben wir einem Jüngling für einen Hund Trinkgeld xxi d."
       },
       {
         "latin": "iterum dedimus uni Iuveni ex parte duorum canum xxi d.",
@@ -15715,7 +15715,7 @@
       },
       {
         "latin": "Item dedimus piscatori de arenstorff bibales lxiii d.",
-        "translation": "Ebenfalls gaben wir dem Fischer von Arenstorff bibales lxiii d."
+        "translation": "Ebenfalls gaben wir dem Fischer von Arnstorf Trinkgeld lxiii d."
       },
       {
         "latin": "Item dedimus philippo ad Ruhmannsfelden xlii d.",
@@ -16035,7 +16035,7 @@
       },
       {
         "latin": "Dedimus ad Redimendum vexacionis",
-        "translation": "Wir gaben für das Freikaufen von Erschütterung"
+        "translation": "Wir gaben für das Freikaufen von Belastungen"
       },
       {
         "latin": "Item dedimus Jorio servo nostro in curia colanorum pro sumptibus cum",
@@ -16043,7 +16043,7 @@
       },
       {
         "latin": "duobus equis ad maincz ex parte principis nostri Georgii etc. v lb. minus lx d.",
-        "translation": "zwei Pferden nach Mainz von Seiten unseres Fürsten Georgii etc. v lb. minus lx d."
+        "translation": "zwei Pferden nach Mainz von Seiten unseres Fürsten Georg etc. v lb. minus lx d."
       },
       {
         "latin": "Item dedimus uni aucupi d Serenissimi principis nostri ii f. Rhen.",
@@ -16477,7 +16477,7 @@
       },
       {
         "latin": "Item recepimus a diversis rusticis pro tritico vendito videlicet xv sch. minus ii kubel i schaff.",
-        "translation": "Ebenfalls erhielten wir von verschiedenen Bauern für verkauften Weizen, nämlich xv sch. minus ii kubel i schaff."
+        "translation": "Ebenfalls erhielten wir von verschiedenen Bauern für verkauften Weizen, nämlich xv sch. minus ii Kübel i schaff."
       },
       {
         "latin": "pro xxii s. xx d. : facit xlviii f. Rhen. lii d.",
@@ -16485,7 +16485,7 @@
       },
       {
         "latin": "Item recepimus a diversis rusticis pro tritico vendito videlicet xii schaff. minus v kubel / i schaff.",
-        "translation": "Ebenfalls erhielten wir von verschiedenen Bauern für verkauften Weizen, nämlich xii schaff. minus v Kubel / i schaff."
+        "translation": "Ebenfalls erhielten wir von verschiedenen Bauern für verkauften Weizen, nämlich xii schaff. minus v Kübel / i schaff."
       },
       {
         "latin": "pro iii lb. facit xlv lb. lx d.",
@@ -16505,7 +16505,7 @@
       },
       {
         "latin": "Item recepimus pro i schaff. ii kubel facit per iiii f. Rhen. minus 4ta facit iiii f. xxiiii d.",
-        "translation": "Ebenfalls erhielten wir für i schaff. ii Kubel, facit per iiii f. Rhen. minus 4ta, facit iiii f. xxiiii d."
+        "translation": "Ebenfalls erhielten wir für i schaff. ii Kübel, facit per iiii f. Rhen. minus 4ta, facit iiii f. xxiiii d."
       },
       {
         "latin": "Item pro iij̸ sch. tritici minus i libram per iiii f. viiii f. v s. xviii d.",
@@ -16552,7 +16552,7 @@
       },
       {
         "latin": "Item recepimus a Steffano cellerario nostro In die Thome pro vino vii s. x d.",
-        "translation": "Ebenfalls empfangen von unserem Kellerer Steffano am Tag des Thomas für Wein vii s. x d."
+        "translation": "Ebenfalls empfangen von unserem Kellerer Stephanus am Tag des Thomas für Wein vii s. x d."
       },
       {
         "latin": "Recepimus a granatore pro Sale vendito",
@@ -16560,7 +16560,7 @@
       },
       {
         "latin": "Recepimus a famulo granarii pro sale feria 3a post georgii xii s. d.",
-        "translation": "Empfangen vom Gehilfen des Kornspeichers für Salz am Dienstag nach Georgii xii s. d."
+        "translation": "Empfangen vom Gehilfen des Kornspeichers für Salz am Dienstag nach Georg xii s. d."
       },
       {
         "latin": "Item recepimus a Sale a famulo granarii feria sexta post ascensionis ii lb. xv d.",
@@ -16772,7 +16772,7 @@
       },
       {
         "latin": "Item Recepimus a Vittricis de Uttenkoven lxxxvii d.",
-        "translation": "Ebenfalls erhalten von der Witwe von Uttenkoven lxxxvii d."
+        "translation": "Ebenfalls erhalten von der Witwe von Uttigkofen lxxxvii d."
       },
       {
         "latin": "Item Recepimus a Vittricis de Emmerstorf iii s. xvij̸ d.",
@@ -17025,7 +17025,7 @@
       },
       {
         "latin": "Idem habet ii f. Rhen. dominica ante martini",
-        "translation": "Derselbe hat ii f. Rhen. am Sonntag vor Martini"
+        "translation": "Derselbe hat ii f. Rhen. am Sonntag vor Martin"
       },
       {
         "latin": "Solutus est totaliter",
@@ -17152,11 +17152,11 @@
       },
       {
         "latin": "Idem habet hypoliti vi s. d.",
-        "translation": "Derselbe hat am Tag des Hypoliti vi s. d."
+        "translation": "Derselbe hat am Tag des Hippolytus vi s. d."
       },
       {
         "latin": "Idem habet dominica ante martini iiii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini iiii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "x s.",
@@ -17180,7 +17180,7 @@
       },
       {
         "latin": "Idem habet hypoliti iiii s. d.",
-        "translation": "Derselbe hat am Tag des Hypoliti iiii s. d."
+        "translation": "Derselbe hat am Tag des Hippolytus iiii s. d."
       },
       {
         "latin": "nihil",
@@ -17207,7 +17207,7 @@
       },
       {
         "latin": "Item georgius famulus habet in precio fabri lx d. dominica martini",
-        "translation": "Ebenfalls Georg, Knecht, hat als Lohn des Schmieds lx d. am Sonntag Martini"
+        "translation": "Ebenfalls Georg, Knecht, hat als Lohn des Schmieds lx d. am Sonntag Martin"
       },
       {
         "latin": "Item georgius famulus habet in precio fabri lx d. In die agathe",
@@ -17227,7 +17227,7 @@
       },
       {
         "latin": "Idem habet hypoliti iii s. d.",
-        "translation": "Derselbe hat am Hypoliti-Tag iii s. d."
+        "translation": "Derselbe hat am Hippolytus-Tag iii s. d."
       },
       {
         "latin": "Item ad futurum annum vi s. d.",
@@ -17303,11 +17303,11 @@
       },
       {
         "latin": "Idem habet hypoliti vii s. d.",
-        "translation": "Derselbe hat am Hypoliti-Tag vii s. d."
+        "translation": "Derselbe hat am Hippolytus-Tag vii s. d."
       },
       {
         "latin": "Idem habet dominica ante martini v s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini v s. d."
+        "translation": "Derselbe erhält am Sonntag vor Martin v s. d."
       },
       {
         "latin": "1 lb. 15 d.",
@@ -17331,7 +17331,7 @@
       },
       {
         "latin": "Idem habet vi s. d. dominica ante martini",
-        "translation": "Derselbe hat vi s. d. am Sonntag vor Martini"
+        "translation": "Derselbe hat vi s. d. am Sonntag vor Martin"
       },
       {
         "latin": "i f.",
@@ -17362,11 +17362,11 @@
       },
       {
         "latin": "Idem habet hypoliti vii s. d.",
-        "translation": "Derselbe hat an Hypoliti vii s. d."
+        "translation": "Derselbe hat an Hippolytus vii s. d."
       },
       {
         "latin": "Idem habet dominica ante martini iii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Martini iii s. d."
+        "translation": "Derselbe hat am Sonntag vor Martin iii s. d."
       },
       {
         "latin": "Solutus est totaliter In die agathe",
@@ -17386,7 +17386,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Martini iii s. d."
+        "translation": "Derselbe hat am Sonntag vor Martin iii s. d."
       },
       {
         "latin": "Solutus est totaliter In die agathe",
@@ -17398,7 +17398,7 @@
       },
       {
         "latin": "Thomas tercius Enckh conductus est et venit ad monasterium circa philippi et Jacobi",
-        "translation": "Thomas, der dritte Enckh, ist gedungen worden und kam zum Kloster um Philippi und Jacobi"
+        "translation": "Thomas, der dritte Enckh, ist gedungen worden und kam zum Kloster um Philippi und Jakobus"
       },
       {
         "latin": "Idem habet ascensionis domini iii s. d.",
@@ -17410,7 +17410,7 @@
       },
       {
         "latin": "ante michaelis lx d. Idem Wilhelmus habet martini lx d.",
-        "translation": "vor Michaelis lx d. Derselbe Wilhelmus hat zu Martini lx d."
+        "translation": "vor Michael lx d. Derselbe Wilhelmus hat zu Martin lx d."
       },
       {
         "latin": "Solutus est totaliter In die agathe",
@@ -17430,7 +17430,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini lx d.",
-        "translation": "Derselbe hat am Sonntag vor Martini lx d."
+        "translation": "Derselbe hat am Sonntag vor Martin lx d."
       },
       {
         "latin": "Solutus est totaliter In die agathe",
@@ -17497,7 +17497,7 @@
       },
       {
         "latin": "Idem habet dominica ante Michaelis lx d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis lx d."
+        "translation": "Derselbe hat am Sonntag vor Michael lx d."
       },
       {
         "latin": "Idem In precio domus habet iiij̸ s. et sic tenemur sibi xlv d. adhuc",
@@ -17529,11 +17529,11 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iiii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis iiii s. d."
+        "translation": "Derselbe hat am Sonntag vor Michael iiii s. d."
       },
       {
         "latin": "Idem habet dominica martini iiii s. d.",
-        "translation": "Derselbe hat am Sonntag Martini iiii s. d."
+        "translation": "Derselbe hat am Sonntag Martin iiii s. d."
       },
       {
         "latin": "Solutus est totaliter In die agathe",
@@ -17549,11 +17549,11 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis ii f. Rhen.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis ii f. Rhen."
+        "translation": "Derselbe hat am Sonntag vor Michael ii f. Rhen."
       },
       {
         "latin": "Solutus est totaliter In die Georgii",
-        "translation": "Vollständig bezahlt am Tag des Georgii"
+        "translation": "Vollständig bezahlt am Tag des Georg"
       },
       {
         "latin": "Hospes noster Entzenloher viij̸ lb. d.",
@@ -17588,7 +17588,7 @@
       },
       {
         "latin": "Item habet dominica ante martini iiii s. d.",
-        "translation": "Ebenfalls hat sie am Sonntag vor Martini iiii s. d."
+        "translation": "Ebenfalls hat sie am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "Soluta est totaliter In die agathe",
@@ -17600,7 +17600,7 @@
       },
       {
         "latin": "Soluta est Illa famula mansit In servicio usque ascensionis domini et debetur sibi iiij̸ s. d.",
-        "translation": "Ausbezahlt wurde jene Magd, blieb im Dienst bis zur Himmelfahrt des Herrn und es gebührt ihr iiij̸ s. d."
+        "translation": "Ausbezahlt wurde jene Magd, blieb im Dienst bis zur Christi Himmelfahrt und es gebührt ihr iiij̸ s. d."
       },
       {
         "latin": "Item barbara subrogata est immediate et habet reliquum precium",
@@ -17608,7 +17608,7 @@
       },
       {
         "latin": "Item habet dominica ante michaelis iii s. d.",
-        "translation": "Ebenfalls erhält sie am Sonntag vor Michaelis iii s. d."
+        "translation": "Ebenfalls erhält sie am Sonntag vor Michael iii s. d."
       },
       {
         "latin": "x s. x s.",
@@ -17648,7 +17648,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iiii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Martini iiii s. d."
+        "translation": "Derselbe hat am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "Idem solutus est totaliter In die agathe",
@@ -17765,7 +17765,7 @@
       },
       {
         "latin": "Item misimus eodem fratri lazaro circa festum martini pro magisterio xx f. Rhen.",
-        "translation": "Ebenfalls sandten wir demselben Bruder Lazarus um das Fest Martini für das Studium xx f. Rhen."
+        "translation": "Ebenfalls sandten wir demselben Bruder Lazarus um das Fest Martin für das Studium xx f. Rhen."
       },
       {
         "latin": "Item Re misimus fratri lazaro cum magistro curie pasche iiii f. Rhen.",
@@ -17946,7 +17946,7 @@
       },
       {
         "latin": "Item pellifex habet super labores suos lx d. dominica post michaelis",
-        "translation": "Ebenfalls der Kürschner hat für seine Arbeiten lx d. am Sonntag nach Michaelis"
+        "translation": "Ebenfalls der Kürschner hat für seine Arbeiten lx d. am Sonntag nach Michael"
       },
       {
         "latin": "Idem habet super labores suos iiii s. d. In vigilia Symonis et Jude",
@@ -17994,7 +17994,7 @@
       },
       {
         "latin": "Item dedimus Sellatori magistro Ruperto de pfarkirchen de xx kammedt novis i per xxi d.",
-        "translation": "Ebenfalls gaben wir dem Sattlermeister Rupert von Pfarkirchen für xx neue Kummet i per xxi d."
+        "translation": "Ebenfalls gaben wir dem Sattlermeister Rupert von Pfarrkirchen für xx neue Kummet i per xxi d."
       },
       {
         "latin": "facit ii f. Rhen.",
@@ -18034,7 +18034,7 @@
       },
       {
         "latin": "Solutus est totaliter feria 4ta post agathe In precio et aliis",
-        "translation": "Er ist vollständig bezahlt am Mittwoch nach Agathe im Preis und anderem"
+        "translation": "Er ist vollständig bezahlt am Mittwoch nach Agatha im Preis und anderem"
       }
     ]
   },
@@ -18622,11 +18622,11 @@
       },
       {
         "latin": "Item dedimus eodem die feria 8a 4ta post Jacobi pro carnibus ferinis liiii libris per iiij̸",
-        "translation": "Ebenfalls gaben wir am selben Tag (Feria 8a, 4. post Jacobi) für Wildbret liiii libris per iiij̸."
+        "translation": "Ebenfalls gaben wir am selben Tag (Feria 8a, 4. post Jakobus) für Wildbret liiii libris per iiij̸."
       },
       {
         "latin": "facit vi s. ix d. Item pro carnibus ferinis vi s. d. minus v d. dominica ante Egidii",
-        "translation": "ergibt vi s. ix d. Ebenfalls für Wildbret vi s. d. minus v d. am Sonntag vor Egidii"
+        "translation": "ergibt vi s. ix d. Ebenfalls für Wildbret vi s. d. minus v d. am Sonntag vor Ägidius"
       },
       {
         "latin": "Item dedimus pro carnibus ferinis lv libris vi s. xiij̸ d.",
@@ -18673,7 +18673,7 @@
       },
       {
         "latin": "Dedimus piscatori de Wallsing feria 2a post georgii pro piscibus lxxx d.",
-        "translation": "Wir gaben dem Fischer von Wallsing am zweiten Tag nach Georgii für Fische lxxx d."
+        "translation": "Wir gaben dem Fischer von Wallsing am zweiten Tag nach Georg für Fische lxxx d."
       },
       {
         "latin": "Item dedimus Wilhelmo de Criestorff pro piscibus iii s. d.",
@@ -18725,7 +18725,7 @@
       },
       {
         "latin": "Item dedimus pro piscibus feria 6ta post michaelis lxxx d.",
-        "translation": "Ebenfalls gaben wir für Fische am Freitag nach Michaelis lxxx d."
+        "translation": "Ebenfalls gaben wir für Fische am Freitag nach Michael lxxx d."
       },
       {
         "latin": "Item dedimus pro piscibus georigio de Schönerting vi s. d. feria 4ta post ...",
@@ -18749,7 +18749,7 @@
       },
       {
         "latin": "Item pro piscibus feria 6ta post martini iii s. d.",
-        "translation": "Ebenfalls für Fische am Freitag nach Martini iii s. d."
+        "translation": "Ebenfalls für Fische am Freitag nach Martin iii s. d."
       },
       {
         "latin": "Item dedimus feria 6ta post andree pro piscibus piscatori de Schönerting vj̸ s. d.",
@@ -18954,7 +18954,7 @@
       },
       {
         "latin": "lx d. fisselknecht xii d. ad purgkhausen xii d.",
-        "translation": "lx d. fisselknecht xii d. nach Purgkhausen xii d."
+        "translation": "lx d. fisselknecht xii d. nach Burghausen xii d."
       },
       {
         "latin": "Item dedi Vahenlueger pro exactione ex parte Salis ad concellariam",
@@ -19258,7 +19258,7 @@
       },
       {
         "latin": "Item dedimus i f. Rhen. Johanni Tätenpeckh Iudici de Eckenfelden",
-        "translation": "Ebenfalls gaben wir i f. Rhen. Johanni Tätenpeckh, Richter von Eckenfelden"
+        "translation": "Ebenfalls gaben wir i f. Rhen. Johannes Tätenpeckh, Richter von Eckenfelden"
       },
       {
         "latin": "Item dedimus magistro philippo lutiniste domini ducis j̸ f. Rhen.",
@@ -19266,7 +19266,7 @@
       },
       {
         "latin": "Item Steffani patavie tibicenis domini pataviensis pro honorantiis et",
-        "translation": "Ebenfalls gaben wir Steffano Patavii den Flötenspielern des Herrn aus Passau zur Ehrung und"
+        "translation": "Ebenfalls gaben wir Stephanus Patavii den Flötenspielern des Herrn aus Passau zur Ehrung und"
       },
       {
         "latin": "pro valete v s. xxvi d.",
@@ -19358,7 +19358,7 @@
       },
       {
         "latin": "Item dedimus uni cursori qui asportavit nobis candelam de Lanndaw xxi ...",
-        "translation": "Ebenfalls gaben wir einem Boten, der uns eine Kerze von Lanndaw brachte xxi ..."
+        "translation": "Ebenfalls gaben wir einem Boten, der uns eine Kerze von Landau brachte xxi ..."
       }
     ]
   },
@@ -19495,7 +19495,7 @@
       },
       {
         "latin": "Item dedimus pro fenicidio secundo v lb. d. In die michaelis",
-        "translation": "Ebenfalls gaben wir für das zweite Heumachen v lb. d. Am Tag des Michaelis"
+        "translation": "Ebenfalls gaben wir für das zweite Heumachen v lb. d. Am Tag des Michael"
       },
       {
         "latin": "Item pro secundo feno dedimus per cellerarium pro fenicultoribus xi lb. iiii s. xviii d.",
@@ -19558,7 +19558,7 @@
       },
       {
         "latin": "Inceperunt feria 2a ante martini",
-        "translation": "Sie begannen am Montag vor Martini"
+        "translation": "Sie begannen am Montag vor Martin"
       },
       {
         "latin": "Item locavimus Johanni Harder de Carling mediam aream sive Tennen",
@@ -19777,11 +19777,11 @@
       },
       {
         "latin": "Item Recepimus a quatuor aurigis de Salczburga pro xv scaff.",
-        "translation": "Ebenfalls erhielten wir von vier Fuhrleuten aus Salzburg für xv scaff."
+        "translation": "Ebenfalls erhielten wir von vier Fuhrleuten aus Salzburg für xv Schaff"
       },
       {
         "latin": "et iij̸ metretis tritici scaffam per v f. xxx d. facit lxxviii f. Rhen.",
-        "translation": "und iij̸ metretis Weizen das Scheffel zu v f. xxx d., ergibt lxxviii f. Rhen."
+        "translation": "und iij̸ Metzen Weizen das Scheffel zu v f. xxx d., ergibt lxxviii f. Rhen."
       },
       {
         "latin": "iii s. d. facit in Nigra maneta lxviii lb. v s. d.",
@@ -19789,7 +19789,7 @@
       },
       {
         "latin": "Item Recepimus ab udalrico Sänner pro v sch. minus ii metretis tritici",
-        "translation": "Ebenfalls erhalten von Udalricus Sänner für v sch. minus ii metretis Weizen"
+        "translation": "Ebenfalls erhalten von Udalricus Sänner für v sch. minus ii Metzen Weizen"
       },
       {
         "latin": "scaffam per v lb. d. facit xxiiii lb. d.",
@@ -19797,7 +19797,7 @@
       },
       {
         "latin": "Item Recepimus a Strobel auriga de Salczburga pro viii scaff.",
-        "translation": "Ebenfalls erhalten vom Fuhrmann Strobel aus Salzburg für viii scaff."
+        "translation": "Ebenfalls erhalten vom Fuhrmann Strobel aus Salzburg für viii Schaff"
       },
       {
         "latin": "iii metritis tritici scaffam per v lb. d. minus xxx d. facit xl lb.",
@@ -19809,7 +19809,7 @@
       },
       {
         "latin": "Item iterum Recepimus ab eodem una cum fratre et socio pro viii scaff.",
-        "translation": "Ebenfalls wiederum erhielten wir von demselben zusammen mit dem Bruder und Gefährten für viii scaff."
+        "translation": "Ebenfalls wiederum erhielten wir von demselben zusammen mit dem Bruder und Gefährten für viii Schaff"
       },
       {
         "latin": "iii kübel scaffam per v lb. minus xxx d. facit xxxviiii lb. v s.",
@@ -19825,7 +19825,7 @@
       },
       {
         "latin": "suis pro xii sch. viii metretis tritici scaffam per v lb. d.",
-        "translation": "für xii sch. viii metretis Weizen Schaff à v lb. d."
+        "translation": "für xii sch. viii Metzen Weizen Schaff à v lb. d."
       },
       {
         "latin": "facit lxiiii lb. d.",
@@ -20286,7 +20286,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iii f. Rhen.",
-        "translation": "Derselbe erhält am Sonntag vor Martini iii f. Rhen."
+        "translation": "Derselbe erhält am Sonntag vor Martin iii f. Rhen."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20365,7 +20365,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis lx d.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis lx d."
+        "translation": "Derselbe erhält am Sonntag vor Michael lx d."
       },
       {
         "latin": "Praxator noster michel iii lb. vi s. d.",
@@ -20484,7 +20484,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini xxx d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini xxx d."
+        "translation": "Derselbe erhält am Sonntag vor Martin xxx d."
       },
       {
         "latin": "solutus est totaliter",
@@ -20500,7 +20500,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini ii f. Rhen. cum censu suo",
-        "translation": "Derselbe erhält am Sonntag vor Martini ii f. Rhen. mit seinem Zins"
+        "translation": "Derselbe erhält am Sonntag vor Martin ii f. Rhen. mit seinem Zins"
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20516,7 +20516,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis vii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis vii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Michael vii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20536,7 +20536,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini vii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini vii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Martin vii s. d."
       },
       {
         "latin": "Quartus Tertius colanus Michel iii lb. iiij̸ s. d.",
@@ -20556,7 +20556,7 @@
       },
       {
         "latin": "in solario suo dominica ante martini iiii s. d.",
-        "translation": "in seinem Solarium am Sonntag vor Martini iiii s. d."
+        "translation": "in seinem Solarium am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "soluti sunt totaliter In die agathe",
@@ -20576,7 +20576,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Martini iii s. d."
+        "translation": "Derselbe hat am Sonntag vor Martin iii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20607,7 +20607,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini iii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Martin iii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20627,7 +20627,7 @@
       },
       {
         "latin": "Item Stöckel conductus est pro communi solario dominica ante michaelis et recepit",
-        "translation": "Ebenfalls Stöckel ist angestellt worden für das gemeinsame Solarium am Sonntag vor Michaelis und hat empfangen"
+        "translation": "Ebenfalls Stöckel ist angestellt worden für das gemeinsame Solarium am Sonntag vor Michael und hat empfangen"
       },
       {
         "latin": "in solario suo lx d. mer vi s. d. recepit idem",
@@ -20647,11 +20647,11 @@
       },
       {
         "latin": "Idem conductus est pro communi solario dominica ante Egidii et habet in solario",
-        "translation": "Derselbe ist angestellt für das gemeinsame Solarium am Sonntag vor Egidii und hat im Solario erhalten"
+        "translation": "Derselbe ist angestellt für das gemeinsame Solarium am Sonntag vor Ägidius und hat im Solario erhalten"
       },
       {
         "latin": "suo dominica ante martini iii s. d. Idem habet mer vi s. d.",
-        "translation": "seinen am Sonntag vor Martini iii s. d. Derselbe erhält ebenfalls vi s. d."
+        "translation": "seinen am Sonntag vor Martin iii s. d. Derselbe erhält ebenfalls vi s. d."
       },
       {
         "latin": "remanent lxxv d. super dietarium",
@@ -20675,7 +20675,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iiii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini iiii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20691,7 +20691,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini iiii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Martini iiii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Martin iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20770,7 +20770,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iiii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis iiii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Michael iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die agathe",
@@ -20786,7 +20786,7 @@
       },
       {
         "latin": "Idem habet dominica ante martini ii lb. d.",
-        "translation": "Derselbe hat am Sonntag vor Martini ii lb. d."
+        "translation": "Derselbe hat am Sonntag vor Martin ii lb. d."
       },
       {
         "latin": "solutus est totaliter In peccunia et",
@@ -20869,11 +20869,11 @@
       },
       {
         "latin": "Dedimus gneissndorffer secundo fueterer usque ad festum purificacionis",
-        "translation": "Wir gaben dem zweiten Fütterer Gneissndorffer bis zum Fest der Reinigung"
+        "translation": "Wir gaben dem zweiten Fütterer Gneissndorffer bis zum Fest Mariä Lichtmess"
       },
       {
         "latin": "iii s. d. martini angestanden",
-        "translation": "iii s. d. Martini ausstehend"
+        "translation": "iii s. d. Martin ausstehend"
       },
       {
         "latin": "Opilio petrus iii lb. d.",
@@ -21030,7 +21030,7 @@
       },
       {
         "latin": "hundert par per v d. facit ii lb. xx d. bibales xiiii d.",
-        "translation": "hundert Paar zu v d. ergibt ii lb. xx d. bibales xiiii d."
+        "translation": "hundert Paar zu v d. ergibt ii lb. xx d. Trinkgeld xiiii d."
       },
       {
         "latin": "mer xl d. per cellerarium",
@@ -21070,7 +21070,7 @@
       },
       {
         "latin": "Item dedimus Johanni Currifici de Carling pro quatuor Rotis",
-        "translation": "Ebenfalls gaben wir Johanni Currifici von Carling für vier Räder"
+        "translation": "Ebenfalls gaben wir Johannes Currifici von Carling für vier Räder"
       },
       {
         "latin": "vi s. d.",
@@ -21173,7 +21173,7 @@
       },
       {
         "latin": "Item dedimus Sellatori de pfarkirchen feria 6ta ante dionisi de",
-        "translation": "Ebenfalls gaben wir dem Sattler von Pfarkirchen am Freitag vor Dionysi für"
+        "translation": "Ebenfalls gaben wir dem Sattler von Pfarrkirchen am Freitag vor Dionysi für"
       },
       {
         "latin": "diversis laboribus vi s. minus ii d.",
@@ -21221,11 +21221,11 @@
       },
       {
         "latin": "georgii",
-        "translation": "Georgii"
+        "translation": "Georg"
       },
       {
         "latin": "Concessimus sibi usque ad festum georgii ii f. Rhen.",
-        "translation": "Wir haben ihm bis zum Fest Georgii ii f. Rhen. gewährt"
+        "translation": "Wir haben ihm bis zum Fest Georg ii f. Rhen. gewährt"
       },
       {
         "latin": "Summa iiii lb. vi s. x d.",
@@ -21280,7 +21280,7 @@
       },
       {
         "latin": "Item dedimus Carpentariis In vigilia Johannis Waptiste xliii tag",
-        "translation": "Ebenfalls gaben wir den Zimmerleuten am Vorabend von Johannis des Täufers xliii Tag"
+        "translation": "Ebenfalls gaben wir den Zimmerleuten am Vorabend von Johannes des Täufers xliii Tag"
       },
       {
         "latin": "per xii d. facit xvii s. vi d.",
@@ -21300,7 +21300,7 @@
       },
       {
         "latin": "Item dedimus leonardo Carpentario dominica ante michaelis xxvii tag",
-        "translation": "Ebenfalls gaben wir Leonardo Carpentario am Sonntag vor Michaelis xxvii Tag"
+        "translation": "Ebenfalls gaben wir Leonardo Carpentario am Sonntag vor Michael xxvii Tag"
       },
       {
         "latin": "per xii d. facit x s. xxiiii d.",
@@ -21308,7 +21308,7 @@
       },
       {
         "latin": "Item eodem die Steffano vi tag per xii d. facit lxxii d.",
-        "translation": "Ebenfalls am selben Tag Steffano vi Tag zu xii d., ergibt lxxii d."
+        "translation": "Ebenfalls am selben Tag Stephanus vi Tag zu xii d., ergibt lxxii d."
       },
       {
         "latin": "Item magistro leonardo Carpentario xx tag per xii d. facit i lb.",
@@ -21320,7 +21320,7 @@
       },
       {
         "latin": "Item dedimus Carpentariis dominica ante martini una cum magistro",
-        "translation": "Ebenfalls gaben wir den Zimmerleuten am Sonntag vor Martini zusammen mit Meister"
+        "translation": "Ebenfalls gaben wir den Zimmerleuten am Sonntag vor Martin zusammen mit Meister"
       },
       {
         "latin": "leonardo x s. x d.",
@@ -21767,11 +21767,11 @@
       },
       {
         "latin": "Item feria 6ta post martini pro piscibus x s. v d.",
-        "translation": "Ebenfalls am Freitag nach Martini für Fische x s. v d."
+        "translation": "Ebenfalls am Freitag nach Martin für Fische x s. v d."
       },
       {
         "latin": "Item feria 3a post martini piscatori de Walchsing iiii s. ii d.",
-        "translation": "Ebenfalls am Dienstag nach Martini dem Fischer von Walchsing iiii s. ii d."
+        "translation": "Ebenfalls am Dienstag nach Martin dem Fischer von Walchsing iiii s. ii d."
       },
       {
         "latin": "Item In die Elizabeth pro piscibus piscatori de Walchsing i lb. d.",
@@ -21807,7 +21807,7 @@
       },
       {
         "latin": "Item mer pro piscibus In die pauli xi s. d.",
-        "translation": "Ebenfalls Mer für Fische am Tag Pauli xi s. d."
+        "translation": "Ebenfalls Mer für Fische am Tag Paulus xi s. d."
       },
       {
         "latin": "Item dedimus per cellerarium pro piscibus xxvi lb. lxv d. i hall.",
@@ -22068,7 +22068,7 @@
       },
       {
         "latin": "lx d. fischlknecht xii d. ad purgkhausen xii d.",
-        "translation": "lx d. dem Fischknecht xii d. nach Purgkhausen xii d."
+        "translation": "lx d. dem Fischknecht xii d. nach Burghausen xii d."
       },
       {
         "latin": "Item dedimus naute vahenlueger ii f. Rhen. pro exaccione et lx d. ad",
@@ -22076,7 +22076,7 @@
       },
       {
         "latin": "concellariam xxiiii d. pfiersigknecht et ad purgkhausen et sibi",
-        "translation": "Zur Kanzlei xxiiii d. Pfiersigknecht und nach Purgkhausen und für sich."
+        "translation": "Zur Kanzlei xxiiii d. Pfiersigknecht und nach Burghausen und für sich."
       },
       {
         "latin": "pro bibalibus ut deportavit litteras xlii d. factum feria 6ta pasce",
@@ -22179,7 +22179,7 @@
       },
       {
         "latin": "Item dedimus Stangnifici de pro vittris lii d.",
-        "translation": "Ebenfalls gaben wir dem Stangnificus für Glaswaren lii d."
+        "translation": "Ebenfalls gaben wir dem Zinngießer für Glaswaren lii d."
       },
       {
         "latin": "Item dedimus pro xxviii heygabel unam per viii d. Facit",
@@ -22634,7 +22634,7 @@
       },
       {
         "latin": "Ad redimendum Vexaciones",
-        "translation": "Zur Freikaufung von Erschütterungen"
+        "translation": "Zur Freikaufung von Belastungen"
       },
       {
         "latin": "Item dedimus ex parte unius fecture ad lanndshutam cum Sagimine",
@@ -22880,11 +22880,11 @@
       },
       {
         "latin": "Item dedimus Trituratoribus de xv scaff. Siliginis dominica ante",
-        "translation": "Ebenfalls gaben wir den Dreschern von xv scaff. Roggen am Sonntag vor"
+        "translation": "Ebenfalls gaben wir den Dreschern von xv Schaff Roggen am Sonntag vor"
       },
       {
         "latin": "michaelis de scaffa xxxii d. facit ii lb. d.",
-        "translation": "Michaelis vom Scheffel xxxii d. ergibt ii lb. d."
+        "translation": "Michael vom Scheffel xxxii d. ergibt ii lb. d."
       },
       {
         "latin": "Item dedimus trituratoribus de schonaw xvi tag per v d. facit lxxx d.",
@@ -22916,7 +22916,7 @@
       },
       {
         "latin": "In hoc habet hainricus dominica ante martini iii s. d.",
-        "translation": "Davon hat Hainricus am Sonntag vor Martini iii s. d."
+        "translation": "Davon hat Hainricus am Sonntag vor Martin iii s. d."
       },
       {
         "latin": "soluti sunt totaliter",
@@ -23055,11 +23055,11 @@
       },
       {
         "latin": "Item dedimus laboratoribus dominica ante michaelis v lb. iiii s. xx d.",
-        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag vor Michaelis v lb. iiii s. xx d."
+        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag vor Michael v lb. iiii s. xx d."
       },
       {
         "latin": "Item dedimus laboratoribus dominica ante martini iiC xxx tag",
-        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag vor Martini iiC xxx Tage"
+        "translation": "Ebenfalls gaben wir den Arbeitern am Sonntag vor Martin iiC xxx Tage"
       },
       {
         "latin": "per iiii d. facit iii lb. vi s. xx d.",
@@ -23134,7 +23134,7 @@
       },
       {
         "latin": "Item domino Johanni In uttenkoven ex parte eiusdem iii f. Rhen.",
-        "translation": "Ebenfalls dem Herrn Johann in Uttenkoven von Seiten desselben iii f. Rhen."
+        "translation": "Ebenfalls dem Herrn Johann in Uttigkofen von Seiten desselben iii f. Rhen."
       },
       {
         "latin": "Item Jodoco Vierer dedimus iii f. Rhen.",
@@ -23278,7 +23278,7 @@
       },
       {
         "latin": "Steffano peckh ii f. Rhen.",
-        "translation": "Steffano Peckh ii f. Rhen."
+        "translation": "Stephanus Peckh ii f. Rhen."
       },
       {
         "latin": "Jorgen Tanhamer ii lb. d.",
@@ -23498,7 +23498,7 @@
       },
       {
         "latin": "Item Recepimus a Steffano carpentario In debitis In uno quartale",
-        "translation": "Ebenfalls erhalten von Steffano dem Zimmermann in Schulden in einem Viertel"
+        "translation": "Ebenfalls erhalten von Stephanus dem Zimmermann in Schulden in einem Viertel"
       },
       {
         "latin": "tritici lxxxiiii d. tenetur aduc superfluam Summam",
@@ -23537,7 +23537,7 @@
       },
       {
         "latin": "Item Recepimus a granatore pro una scaff. tritici vi lb. d.",
-        "translation": "Ebenfalls erhielten wir vom Getreidehändler für eine scaff. Weizen vi lb. d."
+        "translation": "Ebenfalls erhielten wir vom Getreidehändler für eine Schaff Weizen vi lb. d."
       },
       {
         "latin": "Item Recepit Niderenoder ziegler iii virtel waitz Umb v f. Rhen.",
@@ -23601,11 +23601,11 @@
       },
       {
         "latin": "et Jacobi x f. Rhen.",
-        "translation": "und Jacobi x f. Rhen."
+        "translation": "und Jakobus x f. Rhen."
       },
       {
         "latin": "Item Recepimus a groß piscatore de pfarrkirchen pro ii scaff.",
-        "translation": "Ebenfalls erhalten vom Großfischer von Pfarrkirchen für ii scaff."
+        "translation": "Ebenfalls erhalten vom Großfischer von Pfarrkirchen für ii Schaff"
       },
       {
         "latin": "tritici xii lb. d. in peccuniis et croco",
@@ -23653,7 +23653,7 @@
       },
       {
         "latin": "Item Recepimus a petro de marschaling pro vi kubel tritici xii s. xxiiii d.",
-        "translation": "Ebenfalls empfangen von Peter de Marschaling für vi Kubel Weizen xii s. xxiiii d."
+        "translation": "Ebenfalls empfangen von Peter de Marschaling für vi Kübel Weizen xii s. xxiiii d."
       },
       {
         "latin": "Item Recepimus a granatore pro tritico xiii s. d.",
@@ -23756,7 +23756,7 @@
       },
       {
         "latin": "Item Recepimus a plebano In Sand Johannis kirchen pro ...",
-        "translation": "Ebenfalls empfangen vom Pfarrer in Sand Johannis Kirche für ..."
+        "translation": "Ebenfalls empfangen vom Pfarrer in Sand Johannes Kirche für ..."
       },
       {
         "latin": "Item recepimus a fratre Johanne In Schonaw pro vino viii f. Rhen.",
@@ -24273,7 +24273,7 @@
       },
       {
         "latin": "datur de angaria michaelis per pfeilmair vi lb.",
-        "translation": "gegeben für die Fron zu Michaelis durch Pfeilmair vi lb."
+        "translation": "gegeben für die Fron zu Michael durch Pfeilmair vi lb."
       },
       {
         "latin": "Idem dedit mer ii lb. d. In die Sancti Johannis",
@@ -24281,7 +24281,7 @@
       },
       {
         "latin": "ewangeliste per pellificem In Cöstlaren",
-        "translation": "des Evangelisten durch den Kürschner in Cöstlaren"
+        "translation": "des Evangelisten durch den Kürschner in Kösslarn"
       },
       {
         "latin": "Idem dedit mer dominica Reminiscere iiii lb. d.",
@@ -24473,7 +24473,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis ii f. Rhen.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis ii f. Rhen."
+        "translation": "Derselbe erhält am Sonntag vor Michael ii f. Rhen."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -24532,7 +24532,7 @@
       },
       {
         "latin": "Idem habet in dominica ante michaelis iiii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis iiii s. d."
+        "translation": "Derselbe hat am Sonntag vor Michael iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -24576,7 +24576,7 @@
       },
       {
         "latin": "michaelis i lb. d.",
-        "translation": "Michaelis i lb. d."
+        "translation": "Michael i lb. d."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -24675,7 +24675,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iiii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis iiii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Michael iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -24718,7 +24718,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis iii s. d."
+        "translation": "Derselbe hat am Sonntag vor Michael iii s. d."
       },
       {
         "latin": "solutus est totaliter In die dorothee",
@@ -24766,7 +24766,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis viiii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis viiii s. d."
+        "translation": "Derselbe hat am Sonntag vor Michael viiii s. d."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -24797,7 +24797,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iiij̸ s. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis iiij̸ s. d."
+        "translation": "Derselbe hat am Sonntag vor Michael iiij̸ s. d."
       },
       {
         "latin": "Idem habet dominica leonardi iiii s. d.",
@@ -24813,7 +24813,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis i lb. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis i lb. d."
+        "translation": "Derselbe hat am Sonntag vor Michael i lb. d."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -24849,7 +24849,7 @@
       },
       {
         "latin": "dominica ante michaelis per magistrum curie",
-        "translation": "am Sonntag vor Michaelis durch den Hofmeister"
+        "translation": "am Sonntag vor Michael durch den Hofmeister"
       },
       {
         "latin": "Idem habet dominica leonardi lx d.",
@@ -24889,7 +24889,7 @@
       },
       {
         "latin": "Idem habet ad annum futurum In die Johannis Waptiste v s. d.",
-        "translation": "Derselbe erhält für das kommende Jahr am Tag Johannis Baptistae v s. d."
+        "translation": "Derselbe erhält für das kommende Jahr am Tag Johannes Baptistae v s. d."
       },
       {
         "latin": "Subcocus puttentrager leonardus xviii s. d.",
@@ -24901,7 +24901,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis vi s. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis vi s. d."
+        "translation": "Derselbe hat am Sonntag vor Michael vi s. d."
       },
       {
         "latin": "solutus est totaliter In die thome conf de aquino",
@@ -24948,7 +24948,7 @@
       },
       {
         "latin": "solutus est totaliter dominica ante philippi et jacobi",
-        "translation": "[Es] ist vollständig bezahlt am Sonntag vor Philippi und Jacobi"
+        "translation": "[Es] ist vollständig bezahlt am Sonntag vor Philippi und Jakobus"
       },
       {
         "latin": "datur Hospes noster Entzenloher viij̸ lb. d.",
@@ -24972,7 +24972,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis x s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis x s. d."
+        "translation": "Derselbe erhält am Sonntag vor Michael x s. d."
       },
       {
         "latin": "solutus est totaliter",
@@ -24996,7 +24996,7 @@
       },
       {
         "latin": "festum michaelis i lb. d. soluta est totaliter",
-        "translation": "Fest Michaelis i lb. d. ist vollständig bezahlt"
+        "translation": "Fest Michael i lb. d. ist vollständig bezahlt"
       },
       {
         "latin": "Menpueb Wilhelmus pühler xiiii s. d. recessit propter Infirmitatem",
@@ -25008,11 +25008,11 @@
       },
       {
         "latin": "damus ei usque ad purificacionis xi s. d. Idem habet lx d.",
-        "translation": "geben wir ihm bis zu Mariä Reinigung xi s. d. Derselbe erhält lx d."
+        "translation": "geben wir ihm bis zu Mariä Lichtmess xi s. d. Derselbe erhält lx d."
       },
       {
         "latin": "Idem habet dominica ante michaelis iii s. d.",
-        "translation": "Derselbe erhält am Sonntag vor Michaelis iii s. d."
+        "translation": "Derselbe erhält am Sonntag vor Michael iii s. d."
       },
       {
         "latin": "solutus est secundus masculus pöll In die blasii",
@@ -25071,7 +25071,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iii s. d.",
-        "translation": "Dieselbe hat am Sonntag vor Michaelis iii s. d."
+        "translation": "Dieselbe hat am Sonntag vor Michael iii s. d."
       },
       {
         "latin": "soluta est totaliter In die blasii",
@@ -25103,7 +25103,7 @@
       },
       {
         "latin": "dedimus secundo fuetterer a festo purificacionis usque ad festum georgii iiii s. d.",
-        "translation": "wir gaben dem zweiten Futterer vom Fest der Reinigung bis zum Fest des Georg iiii s. d."
+        "translation": "wir gaben dem zweiten Futterer vom Fest Mariä Lichtmess bis zum Fest des Georg iiii s. d."
       },
       {
         "latin": "Opilio petrus iii lb. d.",
@@ -25115,7 +25115,7 @@
       },
       {
         "latin": "Idem habet dominica ante michaelis iiii s. d.",
-        "translation": "Derselbe hat am Sonntag vor Michaelis iiii s. d."
+        "translation": "Derselbe hat am Sonntag vor Michael iiii s. d."
       },
       {
         "latin": "solutus est totaliter In die blasii",
@@ -25170,7 +25170,7 @@
       },
       {
         "latin": "datur Hanns von uttenkoven ist gedingt her Jorgen zue ainem",
-        "translation": "gegeben wird Hanns von Uttenkoven ist gedungen her Jorgen zu einem"
+        "translation": "gegeben wird Hanns von Uttigkofen ist gedungen her Jorgen zu einem"
       },
       {
         "latin": "knecht Im Siechhauss und gibt ain Jar vii s. d.",
@@ -25412,7 +25412,7 @@
       },
       {
         "latin": "In die Johannis W Ewangeliste pro aliquibus laboribus",
-        "translation": "am Tag Johannis des Evangelisten für einige Arbeiten"
+        "translation": "am Tag Johannes des Evangelisten für einige Arbeiten"
       },
       {
         "latin": "xvi f. iiii s. xv d.",
@@ -25538,7 +25538,7 @@
       },
       {
         "latin": "dominica ante philippi et jacobi et solutus est de omnibus",
-        "translation": "Sonntag vor Philippi und Jacobi und er ist bezahlt für alle"
+        "translation": "Sonntag vor Philippi und Jakobus und er ist bezahlt für alle"
       },
       {
         "latin": "annis preteritis",
@@ -25736,7 +25736,7 @@
       },
       {
         "latin": "Item Westerskircher magistro In vigilia Johannis Waptiste",
-        "translation": "Ebenfalls dem Meister Westerskircher am Vorabend von Johannis des Täufers"
+        "translation": "Ebenfalls dem Meister Westerskircher am Vorabend von Johannes des Täufers"
       },
       {
         "latin": "xiii tag per xvi d. facit vi s. xxviii d.",
@@ -25784,7 +25784,7 @@
       },
       {
         "latin": "Item westerskircher dominica ante michaelis xvi tag per",
-        "translation": "Ebenfalls Westerskircher am Sonntag vor Michaelis xvi Tage zu"
+        "translation": "Ebenfalls Westerskircher am Sonntag vor Michael xvi Tage zu"
       },
       {
         "latin": "per xvi d. facit i lb. xvi d.",
@@ -25930,7 +25930,7 @@
       },
       {
         "latin": "Item muratoribus In vigilia Johannis Waptiste iC xxxiiii",
-        "translation": "Ebenfalls den Maurern am Vorabend von Johannis Baptistae iC xxxiiii"
+        "translation": "Ebenfalls den Maurern am Vorabend von Johannes Baptistae iC xxxiiii"
       },
       {
         "latin": "tag per xx d. facit xi lb. xl d.",
@@ -26137,7 +26137,7 @@
       },
       {
         "latin": "Item den tagwercheren vor michaelis verfallen xxx tag per",
-        "translation": "Ebenfalls den Tagwerkern vor Michaelis verfallen xxx Tage zu"
+        "translation": "Ebenfalls den Tagwerkern vor Michael verfallen xxx Tage zu"
       },
       {
         "latin": "vii d. facit vii s. d.",
@@ -26145,7 +26145,7 @@
       },
       {
         "latin": "Item mer den tagwercheren nach michaelis xlvij̸ tag per",
-        "translation": "Ebenfalls mehr den Tagwerkern nach Michaelis xlvij̸ Tage pro"
+        "translation": "Ebenfalls mehr den Tagwerkern nach Michael xlvij̸ Tage pro"
       },
       {
         "latin": "vi d. facit viiii s. viiii d.",
@@ -26228,7 +26228,7 @@
       },
       {
         "latin": "Item dedimus magistro latrificum Sabbato post michaelis xxxvi tag",
-        "translation": "Ebenfalls gaben wir dem Meister der Ziegelbrenner am Samstag nach Michaelis xxxvi Tage"
+        "translation": "Ebenfalls gaben wir dem Meister der Ziegelbrenner am Samstag nach Michael xxxvi Tage"
       },
       {
         "latin": "per xii d. facit xiiii s. xii d.",
@@ -26430,7 +26430,7 @@
       },
       {
         "latin": "Item dedimus servis latrificum Sabbato post michaelis lxxxxix",
-        "translation": "Ebenfalls gaben wir den Maurerknechten am Samstag nach Michaelis lxxxxix"
+        "translation": "Ebenfalls gaben wir den Maurerknechten am Samstag nach Michael lxxxxix"
       },
       {
         "latin": "tag per vi d. facit ii lb. iii s. xxiiii d.",
@@ -27166,7 +27166,7 @@
       },
       {
         "latin": "Item Recepimus a Wägner de uttenkoven unam vaccam",
-        "translation": "Ebenfalls erhielten wir von Wägner aus Uttenkoven eine Kuh"
+        "translation": "Ebenfalls erhielten wir von Wägner aus Uttigkofen eine Kuh"
       },
       {
         "latin": "duos vittulos et Sech Sex Scroffas In debitis suis",
@@ -27234,7 +27234,7 @@
       },
       {
         "latin": "Item Emimus unam Vaccam ab Hinttermair de uttenkoven",
-        "translation": "Ebenfalls kauften wir eine Kuh vom Hinttermair aus Uttenkoven"
+        "translation": "Ebenfalls kauften wir eine Kuh vom Hinttermair aus Uttigkofen"
       },
       {
         "latin": "pro xiii s. d.",
@@ -27572,7 +27572,7 @@
       },
       {
         "latin": "ad festum michaelis vii lb. xlii d.",
-        "translation": "zum Fest Michaelis vii lb. xlii d."
+        "translation": "zum Fest Michael vii lb. xlii d."
       },
       {
         "latin": "49 lb. 6 s. 14 d.",
@@ -27979,7 +27979,7 @@
       },
       {
         "latin": "fe pfierselknecht xii d. ad purgkhausen xii d.",
-        "translation": "dem Pfirsichknecht xii d. nach Purgkhausen xii d."
+        "translation": "dem Pfirsichknecht xii d. nach Burghausen xii d."
       },
       {
         "latin": "Item vahenlueger nauta noster recepit Sabato pasche ii f. Rhen.",
@@ -27991,7 +27991,7 @@
       },
       {
         "latin": "et ad purgkhausen xxiiii d. et sibi pro bibalibus xx kr.",
-        "translation": "und nach Purgkhausen xxiiii d. und für sich für Zehrung xx kr."
+        "translation": "und nach Burghausen xxiiii d. und für sich für Zehrung xx kr."
       },
       {
         "latin": "dedimus sibi mer per cellerarium vi lb. d. pro adduccione ut patet",
@@ -28458,7 +28458,7 @@
       },
       {
         "latin": "Item dedimus piscatori de arnnstorff bibales iiij̸ s. d. qui",
-        "translation": "Ebenfalls gaben wir dem Fischer von Arnnstorff Bier iiij̸ s. d., welcher"
+        "translation": "Ebenfalls gaben wir dem Fischer von Arnstorf Bier iiij̸ s. d., welcher"
       },
       {
         "latin": "attulit nobis pisces propinatas a Clasner",
@@ -28494,7 +28494,7 @@
       },
       {
         "latin": "Item dedimus uni cursori de lanndaw cum Candela pro bibalibus",
-        "translation": "Ebenfalls gaben wir einem Boten von Lanndaw mit der Kerze für Trinkgelder"
+        "translation": "Ebenfalls gaben wir einem Boten von Landau mit der Kerze für Trinkgelder"
       },
       {
         "latin": "xxxii d.",
@@ -28578,7 +28578,7 @@
       },
       {
         "latin": "scharding pro bibalibus lxxx d. i hall.",
-        "translation": "Scharding für Trinkgelder lxxx d. i hall."
+        "translation": "Schärding für Trinkgelder lxxx d. i hall."
       },
       {
         "latin": "Item dedimus aliquibus cursoribus per cellerarium nostrum x s.",
@@ -28645,7 +28645,7 @@
       },
       {
         "latin": "Item iterum dedimus priori versus Raytenhaslach ii f. Rhen.",
-        "translation": "Ebenfalls wiederum gaben wir dem Prior nach Raytenhaslach ii f. Rhen."
+        "translation": "Ebenfalls wiederum gaben wir dem Prior nach Raitenhaslach ii f. Rhen."
       },
       {
         "latin": "Item dedimus lazaro pro sumptibus ad parentes iiii s. d.",
@@ -28796,7 +28796,7 @@
       },
       {
         "latin": "Item dedimus fratri gruenberger ad Schonaw et geirstall pro",
-        "translation": "Ebenfalls gaben wir Bruder Grünberger nach Schönau und Geirstall für"
+        "translation": "Ebenfalls gaben wir Bruder Grünberger nach Schönau und Geiersthal für"
       },
       {
         "latin": "sumptibus xiiii s. d.",
@@ -28804,7 +28804,7 @@
       },
       {
         "latin": "Item fratri Steffano kayer ad parentes suos lxxxiiii d.",
-        "translation": "Ebenfalls dem Bruder Steffano kayer zu seinen Eltern lxxxiiii d."
+        "translation": "Ebenfalls dem Bruder Stephanus kayer zu seinen Eltern lxxxiiii d."
       },
       {
         "latin": "Item fratri leonardo ad parentes lx d.",
@@ -29251,7 +29251,7 @@
       },
       {
         "latin": "Expendimus ad redimendum vexaciones",
-        "translation": "Wir gaben aus für das Freikaufen von Erschütterungen"
+        "translation": "Wir gaben aus für das Freikaufen von Belastungen"
       },
       {
         "latin": "Item dedimus pro una littera scriptori de gotterstorff lx d. ex parte",
@@ -29291,11 +29291,11 @@
       },
       {
         "latin": "cum fectura ad pontem Scharding xvii s. d.",
-        "translation": "mit Ausbesserung an der Brücke Scharding xvii s. d."
+        "translation": "mit Ausbesserung an der Brücke Schärding xvii s. d."
       },
       {
         "latin": "Item mer dedimus colonis nostris pro sumptibus ad Scharding",
-        "translation": "Ebenfalls haben wir unseren Bauern für Ausgaben nach Scharding gegeben"
+        "translation": "Ebenfalls haben wir unseren Bauern für Ausgaben nach Schärding gegeben"
       },
       {
         "latin": "iiii f. Rhen.",
@@ -29516,7 +29516,7 @@
       },
       {
         "latin": "videlicet de iiii sch. minus iii kubel siliginis iii s. xii d.",
-        "translation": "nämlich von iiii sch. minus iii kubel Roggen iii s. xii d."
+        "translation": "nämlich von iiii sch. minus iii Kübel Roggen iii s. xii d."
       },
       {
         "latin": "Item trituratoribus de xxxj̸ sch. ad semen per 32",
@@ -29576,7 +29576,7 @@
       },
       {
         "latin": "Item Jorio de uttenkoven et sociis suis de xviii sch. tritici",
-        "translation": "Ebenfalls an Jorio von Uttenkoven und seine Gefährten für xviii sch. Weizen"
+        "translation": "Ebenfalls an Jorio von Uttigkofen und seine Gefährten für xviii sch. Weizen"
       },
       {
         "latin": "et siligine dedimus xii s. xiiii d.",
@@ -29703,7 +29703,7 @@
       },
       {
         "latin": "b Item dietariis dominica ante michaelis iiiC lx tag per v d.",
-        "translation": "b Ebenfalls Tagelöhnern am Sonntag vor Michaelis iiiC lx Tage zu v d."
+        "translation": "b Ebenfalls Tagelöhnern am Sonntag vor Michael iiiC lx Tage zu v d."
       },
       {
         "latin": "facit vii lb. iiii s. d.",
@@ -29711,7 +29711,7 @@
       },
       {
         "latin": "a Item dietariis In die Johannis Waptiste iiiC lxxx tag per per v d.",
-        "translation": "a Ebenfalls Tagelöhnern am Tag Johannis des Täufers iiiC lxxx Tage zu je v d."
+        "translation": "a Ebenfalls Tagelöhnern am Tag Johannes des Täufers iiiC lxxx Tage zu je v d."
       },
       {
         "latin": "facit vii lb. vii s. x d.",
@@ -29900,7 +29900,7 @@
       },
       {
         "latin": "ad ascensionis factum feria 4ta post georgii dedit in croco vi f. Rhen.",
-        "translation": "Zum Fest der Himmelfahrt, am Donnerstag nach Georgii, gab er vi f. Rhen. für Safran."
+        "translation": "Zum Fest der Himmelfahrt, am Donnerstag nach Georg, gab er vi f. Rhen. für Safran."
       },
       {
         "latin": "Item Recepimus a doleatore et sartore nostro pro j̸ sch. tritici",
@@ -29952,7 +29952,7 @@
       },
       {
         "latin": "Item Recepimus iterum a cellerario In absencia nostra pro vij̸ sch. i kubel",
-        "translation": "Ebenfalls empfangen wiederum vom Cellerar in unserer Abwesenheit für vij̸ sch. i kubel"
+        "translation": "Ebenfalls empfangen wiederum vom Cellerar in unserer Abwesenheit für vij̸ sch. i Kübel"
       },
       {
         "latin": "tritico xlv f. Rhen. xxvi kr.",
@@ -29976,7 +29976,7 @@
       },
       {
         "latin": "Item mer Recepimus Sabbato ante margarethe umb xj̸ sch. v kubel",
-        "translation": "Ebenfalls mehr erhalten am Samstag vor Margarethe für xj̸ sch. v Kubel"
+        "translation": "Ebenfalls mehr erhalten am Samstag vor Margarethe für xj̸ sch. v Kübel"
       },
       {
         "latin": "tritici von Wagenlewdten von Salczburg scaffam per",
@@ -29992,7 +29992,7 @@
       },
       {
         "latin": "pro vij̸ sch. i kübel . xlvi f. Rhen. 4ta feria post Jacobi",
-        "translation": "für vij̸ sch. i Kübel . xlvi f. Rhen. am Mittwoch nach Jacobi"
+        "translation": "für vij̸ sch. i Kübel . xlvi f. Rhen. am Mittwoch nach Jakobus"
       },
       {
         "latin": "Item Recepimus a georgio Seratori de pfarrkirchen pro",
@@ -30425,7 +30425,7 @@
       },
       {
         "latin": "Item Recepimus a vittricis in uttenkoven et Emmerstorf iiij̸ s. d.",
-        "translation": "Ebenfalls empfangen von den Glaserinnen in Uttenkoven und Emmerstorf iiij̸ s. d."
+        "translation": "Ebenfalls empfangen von den Glaserinnen in Uttigkofen und Emmerstorf iiij̸ s. d."
       },
       {
         "latin": "Item Recepimus a vittricis In perndorff iii s. xx d.",
@@ -30453,7 +30453,7 @@
       },
       {
         "latin": "Item Recepimus a vittricis in die petri et pauli v s. xv d.",
-        "translation": "Ebenfalls empfangen von den Glaserinnen am Tag Petri und Pauli v s. xv d."
+        "translation": "Ebenfalls empfangen von den Glaserinnen am Tag Petri und Paulus v s. xv d."
       },
       {
         "latin": "Item Recepimus a vittricis in peytelspach iiii s. xv d.",
@@ -30465,7 +30465,7 @@
       },
       {
         "latin": "Item Recepimus In die petri et pauli a propriis hominibus",
-        "translation": "Ebenfalls empfangen am Tag Petri und Pauli von eigenen Leuten"
+        "translation": "Ebenfalls empfangen am Tag Petri und Paulus von eigenen Leuten"
       },
       {
         "latin": "xiii s. vi d.",
@@ -30500,7 +30500,7 @@
       },
       {
         "latin": "Recepimus a fratribus nostris In Cöstlaren",
-        "translation": "Wir erhielten von unseren Brüdern in Cöstlaren"
+        "translation": "Wir erhielten von unseren Brüdern in Kösslarn"
       },
       {
         "latin": "Item Recepimus a fratre wolfgango In die Johannis waptiste iiii lb. d.",
@@ -30528,7 +30528,7 @@
       },
       {
         "latin": "wolfgangi predicatoris in Costlaren de angaria michaelis",
-        "translation": "Wolfgang, Prediger in Costlaren, von der Fronarbeit Michaelis"
+        "translation": "Wolfgang, Prediger in Costlaren, von der Fronarbeit Michael"
       },
       {
         "latin": "vi lb. d. de angaria lucie ii lb. d.",
@@ -30587,7 +30587,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Scriptor viij̸ lb. d.",
@@ -30607,7 +30607,7 @@
       },
       {
         "latin": "purificacionis",
-        "translation": "der Reinigung"
+        "translation": "Mariä Lichtmess"
       },
       {
         "latin": "Camerarius xv s. d.",
@@ -30619,7 +30619,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Officialis viii lb. d.",
@@ -30667,7 +30667,7 @@
       },
       {
         "latin": "solutus est totaliter In vigilia purificacionis",
-        "translation": "vollständig ausbezahlt am Vorabend der Reinigung"
+        "translation": "vollständig ausbezahlt am Vorabend Mariä Lichtmess"
       },
       {
         "latin": "Substabularius mertel ii lb. d.",
@@ -30718,7 +30718,7 @@
       },
       {
         "latin": "solutus est totaliter in die blasii",
-        "translation": "vollständig bezahlt am Tag des Blasii"
+        "translation": "vollständig bezahlt am Tag des Blasius"
       },
       {
         "latin": "Praxator iii lb. vi s. d.",
@@ -30730,7 +30730,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung [Glosse]"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess [Glosse]"
       },
       {
         "latin": "Famulus hospitum xv s. d.",
@@ -30742,7 +30742,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Cocus magister iiii lb. d.",
@@ -30766,7 +30766,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Subcocus michel xx s. d.",
@@ -30782,7 +30782,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Masculus coquine Hannsel x s. d.",
@@ -30794,7 +30794,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "17 lb. 7 s. d.",
@@ -30833,7 +30833,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Famulus granarii Jorius xx s. d.",
@@ -30857,7 +30857,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig ausbezahlt am Tag der Reinigung"
+        "translation": "vollständig ausbezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Pistor primus iii lb. vi s. d.",
@@ -30881,7 +30881,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "[Glosse] vollständig bezahlt am Tag der Reinigung"
+        "translation": "[Glosse] vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Secundus pistor peitler xx s. d.",
@@ -30905,7 +30905,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "16 lb. 6 s. d.",
@@ -30928,7 +30928,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Faber noster iii lb. xxx d.",
@@ -30948,7 +30948,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Hännsel conductus est ad annum futurum pro x s. d.",
@@ -30972,7 +30972,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Primus colanus Wolfgangus iii lb. vi s. d.",
@@ -30988,7 +30988,7 @@
       },
       {
         "latin": "solutus est totaliter In die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Secundus colanus philipp iii lb. iiij̸ s. d.",
@@ -31004,7 +31004,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "15 lb. 45 d.",
@@ -31035,7 +31035,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Quartus colanus florianus iii lb. xxx d.",
@@ -31055,7 +31055,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Primus ennck haincz iii lb. xxx d.",
@@ -31075,7 +31075,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Secundus ennck Wolffel xxiij̸ s. d.",
@@ -31095,7 +31095,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Tertius ennkht hennsel xxiij̸ s. d.",
@@ -31111,7 +31111,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Quartus ennckh liendel xx s. d.",
@@ -31131,7 +31131,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "17 lb. 6 s. 15 d.",
@@ -31158,7 +31158,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Stüetner Cristel xviij̸ s. d.",
@@ -31174,7 +31174,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Famulus porcorum primus xx s. d.",
@@ -31194,7 +31194,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig ausgezahlt am Tag der Reinigung"
+        "translation": "vollständig ausgezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Secundus famulus porcorum ii lb. d.",
@@ -31214,7 +31214,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "[ist] vollständig bezahlt am Tag der Reinigung"
+        "translation": "[ist] vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Cocus in curia colanorum thomas xx s. d.",
@@ -31226,7 +31226,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "[ist] vollständig bezahlt am Tag der Reinigung"
+        "translation": "[ist] vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Subcocus puttentrager liendel xviii s. d.",
@@ -31242,7 +31242,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "13 lb. 75 d.",
@@ -31273,7 +31273,7 @@
       },
       {
         "latin": "festo Sancti Steffani usque ad purificacionis iiii lb. d.",
-        "translation": "Fest des heiligen Stephan bis zu Mariä Reinigung iiii lb. d."
+        "translation": "Fest des heiligen Stephan bis zu Mariä Lichtmess iiii lb. d."
       },
       {
         "latin": "expendimus et solvimus totaliter",
@@ -31285,7 +31285,7 @@
       },
       {
         "latin": "Hanns von uttenkoven vii s. d.",
-        "translation": "Hanns von Uttenkoven vii s. d."
+        "translation": "Hanns von Uttigkofen vii s. d."
       },
       {
         "latin": "solutus est totaliter in die blasii",
@@ -31324,7 +31324,7 @@
       },
       {
         "latin": "soluta est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Prima ancilia katherina xiii s. x d.",
@@ -31332,7 +31332,7 @@
       },
       {
         "latin": "soluta est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Secunda ancilla Anna xiij̸ s. d.",
@@ -31340,7 +31340,7 @@
       },
       {
         "latin": "soluta est totaliter in die purificacionis",
-        "translation": "ist vollständig bezahlt am Tag der Reinigung"
+        "translation": "ist vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Tercia ancilla margaretha x s. d.",
@@ -31352,7 +31352,7 @@
       },
       {
         "latin": "soluta est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Fueterer petrus xviij̸ s. d.",
@@ -31364,7 +31364,7 @@
       },
       {
         "latin": "solutus est totaliter in die purificacionis",
-        "translation": "vollständig bezahlt am Tag der Reinigung"
+        "translation": "vollständig bezahlt am Tag Mariä Lichtmess"
       },
       {
         "latin": "Opilio weller ii f. Rhen.",
@@ -31372,7 +31372,7 @@
       },
       {
         "latin": "solutus est totaliter In die blasii",
-        "translation": "vollständig bezahlt am Tag des Blasii"
+        "translation": "vollständig bezahlt am Tag des Blasius"
       },
       {
         "latin": "10 lb. 70 d.",
@@ -31399,7 +31399,7 @@
       },
       {
         "latin": "soluta est in die purificacionis per magistrum curie",
-        "translation": "ist bezahlt worden am Tag der Reinigung durch den Hofmeister"
+        "translation": "ist bezahlt worden am Tag Mariä Lichtmess durch den Hofmeister"
       },
       {
         "latin": "Ancilla barbara xiii s. d.",
@@ -31407,7 +31407,7 @@
       },
       {
         "latin": "soluta est totaliter in die purificacionis per magistrum curie",
-        "translation": "ist vollständig bezahlt worden am Tag der Reinigung durch den Hofmeister"
+        "translation": "ist vollständig bezahlt worden am Tag Mariä Lichtmess durch den Hofmeister"
       },
       {
         "latin": "Hueber ii f. Rhen.",
@@ -31525,7 +31525,7 @@
       },
       {
         "latin": "Item dedimus apothecario patavie pro persona nostra 2a feria post Egidii",
-        "translation": "Ebenfalls gaben wir dem Apotheker in Passau für unsere Person am Dienstag nach Egidii"
+        "translation": "Ebenfalls gaben wir dem Apotheker in Passau für unsere Person am Dienstag nach Ägidius"
       },
       {
         "latin": "xviii s. xii d.",
@@ -31596,7 +31596,7 @@
       },
       {
         "latin": "ii f. Rhen. dominica post Symonis et jude",
-        "translation": "ii f. Rhein. am Sonntag nach Symonis und Jude"
+        "translation": "ii f. Rhein. am Sonntag nach Simon und Jude"
       },
       {
         "latin": "Item Computavimus cum pector pictore magistro georgio de Passau",
@@ -31616,7 +31616,7 @@
       },
       {
         "latin": "Item In die conversionis pauli dedimus Magistro georgio Umb xxxii",
-        "translation": "Ebenfalls am Tag der Bekehrung Pauli gaben wir Meister Georg für xxxii"
+        "translation": "Ebenfalls am Tag der Bekehrung Paulus gaben wir Meister Georg für xxxii"
       },
       {
         "latin": "gemallt glass scheiben per ii kr. und umb den Steren ac",
@@ -31781,7 +31781,7 @@
       },
       {
         "latin": "a festo Sancti Steffani usque ad festum purificacionis",
-        "translation": "vom Fest des heiligen Stephan bis zum Fest der Reinigung"
+        "translation": "vom Fest des heiligen Stephan bis zum Fest Mariä Lichtmess"
       },
       {
         "latin": "et unum saccum Siliginis",
@@ -31856,7 +31856,7 @@
       },
       {
         "latin": "michaelis et dedimus sibi de singulis laboribus i lb. d.",
-        "translation": "Michaelis und gaben ihm für einzelne Arbeiten i lb. d."
+        "translation": "Michael und gaben ihm für einzelne Arbeiten i lb. d."
       },
       {
         "latin": "per se",
@@ -32014,7 +32014,7 @@
       },
       {
         "latin": "Item maister Jorgen Sabatho post Jacobi dedimus iiii s. ii d.",
-        "translation": "Ebenfalls Meister Jorgen am Samstag nach Jacobi gaben wir iiii s. ii d."
+        "translation": "Ebenfalls Meister Jorgen am Samstag nach Jakobus gaben wir iiii s. ii d."
       },
       {
         "latin": "Item weisen seinen gesellen ipso die vincula petri et antea dedimus vii s. d.",
@@ -32042,7 +32042,7 @@
       },
       {
         "latin": "Item mer Im geben Sabbato post michaelis xiiii tag per xviii d.",
-        "translation": "Ebenfalls ihm gegeben am Samstag nach Michaelis xiiii Tage zu je xviii d."
+        "translation": "Ebenfalls ihm gegeben am Samstag nach Michael xiiii Tage zu je xviii d."
       },
       {
         "latin": "facit i lb. xii d.",
@@ -32248,7 +32248,7 @@
       },
       {
         "latin": "Item Sabbato post Egidii muratoribus viiii tag per xx d. facit",
-        "translation": "Ebenfalls am Samstag nach Egidii den Maurern viiii Tag zu xx d. ergibt"
+        "translation": "Ebenfalls am Samstag nach Ägidius den Maurern viiii Tag zu xx d. ergibt"
       },
       {
         "latin": "vi s. d. padtgellt iiii d.",
@@ -32342,7 +32342,7 @@
       },
       {
         "latin": "Tittulus latrificum pro reformandis lateribus",
-        "translation": "Titel der Ziegelmacher für die Erneuerung der Ziegel"
+        "translation": "Titel der Ziegelbrenner für die Erneuerung der Ziegel"
       },
       {
         "latin": "Item dedimus magistro latrifici pro bibalibus xxi d.",
@@ -32358,7 +32358,7 @@
       },
       {
         "latin": "Item dedimus Sabatho ante Cantate magistro latrificum una cum",
-        "translation": "Ebenfalls gaben wir am Samstag vor Kantate dem Meister der Ziegelmacher zusammen mit"
+        "translation": "Ebenfalls gaben wir am Samstag vor Kantate dem Meister der Ziegelbrenner zusammen mit"
       },
       {
         "latin": "servis suis et modlknecht xviii tag cuibus facit totum xx s. xii d.",
@@ -32846,7 +32846,7 @@
       },
       {
         "latin": "Item Emimus a plebano de uttenkoven oves pro xiiii f. Rhen.",
-        "translation": "Ebenfalls kauften wir vom Pfarrer von Uttenkoven Schafe für xiiii f. Rhen."
+        "translation": "Ebenfalls kauften wir vom Pfarrer von Uttigkofen Schafe für xiiii f. Rhen."
       },
       {
         "latin": "Item Emimus In Costlaren xxxiiii oves pro xi f. lxviiii d.",
@@ -32862,7 +32862,7 @@
       },
       {
         "latin": "Item Emimus a plebano In uttenkoven aliquas oves ad",
-        "translation": "Ebenfalls kauften wir vom Pfarrer in Uttenkoven einige Schafe zur"
+        "translation": "Ebenfalls kauften wir vom Pfarrer in Uttigkofen einige Schafe zur"
       },
       {
         "latin": "Armentariam numero xlii. pro xiiii f. Rhen. et xvi kr.",
@@ -33305,7 +33305,7 @@
       },
       {
         "latin": "facit v lb. vi s. xx d. In vigilia Johannis Waptiste",
-        "translation": "ergibt v lb. vi s. xx d. Am Vorabend von Johannis des Täufers"
+        "translation": "ergibt v lb. vi s. xx d. Am Vorabend von Johannes des Täufers"
       },
       {
         "latin": "Item dedimus pro uno ornatu in presencia prioris xiiii f. Rhen.",
@@ -33353,7 +33353,7 @@
       },
       {
         "latin": "Item dedimus kruegelmullner feria 4ta ante purificacionis",
-        "translation": "Ebenfalls gaben wir dem Krüglmüller am Mittwoch vor Mariä Reinigung"
+        "translation": "Ebenfalls gaben wir dem Krüglmüller am Mittwoch vor Mariä Lichtmess"
       },
       {
         "latin": "pro iiiiC olei xiii f. Rhen. lxx d.",
@@ -33770,7 +33770,7 @@
       },
       {
         "latin": "Item dedimus Johanni de arnnstorff qui fuit novicius dummodo ab ordine",
-        "translation": "Ebenfalls gaben wir Johannes aus Arnnstorff, der Novize war, nur vom Orden."
+        "translation": "Ebenfalls gaben wir Johannes aus Arnstorf, der Novize war, nur vom Orden."
       },
       {
         "latin": "recessit pro sumptibus xxiiii d.",
@@ -33926,7 +33926,7 @@
       },
       {
         "latin": "Item conduccionalia eisdem famulis circa purificacionis i lb. d.",
-        "translation": "Ebenfalls Mietkosten denselben Dienern um Mariä Reinigung i lb. d."
+        "translation": "Ebenfalls Mietkosten denselben Dienern um Mariä Lichtmess i lb. d."
       },
       {
         "latin": "22 lb. 77 d.",
@@ -34132,7 +34132,7 @@
       },
       {
         "latin": "Item Emimus In geren circa festum georgii zwen arras",
-        "translation": "Ebenfalls kauften wir in Geren um das Fest Georgii zwei Arras"
+        "translation": "Ebenfalls kauften wir in Geren um das Fest Georg zwei Arras"
       },
       {
         "latin": "umb xviiii Rhen. f.",
@@ -34176,7 +34176,7 @@
       },
       {
         "latin": "Item Emimus a thome Wolschlaher de arenstorff unum",
-        "translation": "Ebenfalls kauften wir von Thomas Wolschlaher aus Arenstorff ein"
+        "translation": "Ebenfalls kauften wir von Thomas Wolschlaher aus Arnstorf ein"
       },
       {
         "latin": "pannum album et xx ulnas de albo panno meliori",
@@ -34572,7 +34572,7 @@
       },
       {
         "latin": "Item dedimus trituratoribus In die Sabastiani de xvi scaff.",
-        "translation": "Ebenfalls gaben wir den Dreschern am Tag des Sebastian von xvi scaff."
+        "translation": "Ebenfalls gaben wir den Dreschern am Tag des Sebastian von xvi Schaff"
       },
       {
         "latin": "per xxvi d. facit xiii s. xxvi d.",
@@ -34592,7 +34592,7 @@
       },
       {
         "latin": "Item mer trituratoribus in die purificacionis x sch. per xxvi d.",
-        "translation": "Ebenfalls den Dreschern am Tag der Reinigung x sch. zu xxvi d."
+        "translation": "Ebenfalls den Dreschern am Tag Mariä Lichtmess x sch. zu xxvi d."
       },
       {
         "latin": "facit i lb. xx d.",
@@ -34608,15 +34608,15 @@
       },
       {
         "latin": "Item trituratoribus I dominica Oculi Johanni et laurentio dedimus",
-        "translation": "Ebenfalls den Dreschern am Sonntag Oculi Johanni und Laurentio gaben wir"
+        "translation": "Ebenfalls den Dreschern am Sonntag Oculi Johannes und Laurentio gaben wir"
       },
       {
         "latin": "de l scaff. per xxvi d. facit v lb. iii s. x d.",
-        "translation": "von l scaff. je xxvi d., ergibt v lb. iii s. x d."
+        "translation": "von l Schaff je xxvi d., ergibt v lb. iii s. x d."
       },
       {
         "latin": "Item trituratoribus de vii scaff. tritici de una sch. xxvi d. facit",
-        "translation": "Ebenfalls den Dreschern von vii scaff. Weizen von einer sch. xxvi d., ergibt"
+        "translation": "Ebenfalls den Dreschern von vii Schaff Weizen von einer sch. xxvi d., ergibt"
       },
       {
         "latin": "v s. xxviii d. per fratrem fugs",
@@ -34624,7 +34624,7 @@
       },
       {
         "latin": "Item mer trituratoribus de ix scaff. an dem mitteren Tenn",
-        "translation": "Ebenfalls mehr den Dreschern von ix scaff. an dem mittleren Tenn"
+        "translation": "Ebenfalls mehr den Dreschern von ix Schaff an dem mittleren Tenn"
       },
       {
         "latin": "dedimus viiii s. xviii d.",
@@ -34668,7 +34668,7 @@
       },
       {
         "latin": "Sabbato ante Iudica georgii",
-        "translation": "Am Samstag vor Judica Georgii"
+        "translation": "Am Samstag vor Judica Georg"
       }
     ]
   },
@@ -35180,7 +35180,7 @@
       },
       {
         "latin": "Item Recepimus ex parte curie nostre In geirstall galckweiss",
-        "translation": "Ebenfalls empfangen von Seiten unseres Hofes in Geirstall Galckweis"
+        "translation": "Ebenfalls empfangen von Seiten unseres Hofes in Geiersthal Galckweis"
       },
       {
         "latin": "ab heredibus ipsius Strobel Zuestanndt x f. Rhen.",
@@ -35250,7 +35250,7 @@
     "lines": [
       {
         "latin": "Recepimus a fratribus nostris in Cöstlaren",
-        "translation": "Wir erhielten von unseren Brüdern in Cöstlaren"
+        "translation": "Wir erhielten von unseren Brüdern in Kösslarn"
       },
       {
         "latin": "Item Recepimus a fratre michaeli In Costlaren de angaria",
@@ -35871,7 +35871,7 @@
       },
       {
         "latin": "Hanns von uttenkoven vii s. d.",
-        "translation": "Hanns von Uttenkoven vii s. d."
+        "translation": "Hanns von Uttigkofen vii s. d."
       },
       {
         "latin": "Idem habet per cellerarium iiij̸ s. d. solutus est totaliter an 4ta feria post misericordias",
