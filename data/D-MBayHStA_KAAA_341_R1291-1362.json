@@ -14,7 +14,7 @@
       },
       {
         "latin": "Tertius ametistus de argentina. Quartus calcedonius. Quintus saphirus",
-        "translation": "Dritter ein Amethyst aus Argentinien. Vierter ein Chalzedon. Fünfter ein Saphir"
+        "translation": "Dritter ein Amethyst aus Straßburg. Vierter ein Chalzedon. Fünfter ein Saphir"
       },
       {
         "latin": "Sextus ametistus depoy. Septimus Topazius Octavus calcedonius. Nonus",
@@ -11461,7 +11461,7 @@
       },
       {
         "latin": "striam, III. s. minus IIIIor. Gross. Vrbani. Item III. t. Rat. et XXIIIIor. Gross. Domino",
-        "translation": "Strähne, III s. minus IIIIor. Groschen. von Urban. Ebenfalls III t. Rat. und XXIIIIor. Gross. dem Herrn"
+        "translation": "Strähne, III s. minus IIIIor. Groschen. von Urban. Ebenfalls III t. Rat. und XXIIIIor. Groschen. dem Herrn"
       },
       {
         "latin": "de Schavnberch, pro lateribus .III. t. IIL. Rat. et prius .Ɨ. t. Rat. et eidem nobiscum",
@@ -19543,11 +19543,11 @@
       },
       {
         "latin": "calcedonius Secundus crisolitus Tercius amestitus de argentina",
-        "translation": "Chalzedon. Zweiter Chrysolith. Dritter Amethyst aus Argentin(a)."
+        "translation": "Chalzedon. Zweiter Chrysolith. Dritter Amethyst aus Straßburg."
       },
       {
         "latin": "Quartus calcedonius. Quintus saphirus. Sextus amestitus depoy",
-        "translation": "Vierter Chalzedon. Fünfter Saphir. Sechster Amethyst danach"
+        "translation": "Vierter Chalzedon. Fünfter Saphir. Sechster Amethyst depoy"
       },
       {
         "latin": "Septimus Topazius. Octavus calcedonius. Nonus saphirus.",
@@ -19555,7 +19555,7 @@
       },
       {
         "latin": "Decimus saphirus depoy. Undecimus ametistus",
-        "translation": "Zehnter Saphir danach. Elfter Amethyst."
+        "translation": "Zehnter Saphir depoy. Elfter Amethyst."
       },
       {
         "latin": "Item in dextro latere saphirus calcedonius ametistus",
@@ -20382,7 +20382,7 @@
       },
       {
         "latin": "Tekkendorf .IX. scaf. siliginis. avene .VI. scaf. et pro reliquo parte avene .X. s.",
-        "translation": "Tekkendorf .IX scaf. Roggen. Hafer .VI scaf. und für den rest des avene .X s."
+        "translation": "Tekkendorf .IX scaf. Roggen. Hafer .VI scaf. und für den rest des Hafer .X s."
       },
       {
         "latin": "minus .IIIIus. d. Set expensa vecture. et labor ad duces con-",
@@ -40530,7 +40530,7 @@
       },
       {
         "latin": "siliginis .XVIII. modios avene XX modios.",
-        "translation": "Roggen .XVIII. Scheffel Hafer XX modios."
+        "translation": "Roggen .XVIII. Scheffel Hafer XX Scheffel."
       }
     ]
   },
@@ -43423,7 +43423,7 @@
       },
       {
         "latin": "ordei .VI. metretas, avene XIIII metretas.",
-        "translation": "Gerste .VI. Metzen, Hafer XIIII metretas."
+        "translation": "Gerste .VI. Metzen, Hafer XIIII Metzen."
       },
       {
         "latin": "Item de promptu panno XLIII ullas, et",
@@ -43906,7 +43906,7 @@
       },
       {
         "latin": "farine III modios, avene XVII modios",
-        "translation": "Mehl III Scheffel, Hafer XVII modios"
+        "translation": "Mehl III Scheffel, Hafer XVII Scheffel"
       },
       {
         "latin": "II ternarios vini .VI. bernas, vaccas",
