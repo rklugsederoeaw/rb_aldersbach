@@ -4464,7 +4464,7 @@
       },
       {
         "latin": "Familiae nostrae conductio",
-        "translation": "[ÜBERSCHRIFT] Anstellung unserer Familie"
+        "translation": "[ÜBERSCHRIFT] Anstellung unserer Gesinde"
       },
       {
         "latin": "Iudex oswaldus wiels conductus pro xv f.",
@@ -4713,7 +4713,7 @@
     "lines": [
       {
         "latin": "Conductio familiae",
-        "translation": "[ÜBERSCHRIFT] Miete der Familie"
+        "translation": "[ÜBERSCHRIFT] Miete der Gesinde"
       },
       {
         "latin": "Peitler hanns Stingelhamer xx s. d.",
@@ -4919,7 +4919,7 @@
     "lines": [
       {
         "latin": "Familiae conductio",
-        "translation": "[ÜBERSCHRIFT] Anstellung der Familie"
+        "translation": "[ÜBERSCHRIFT] Anstellung der Gesinde"
       },
       {
         "latin": "Stabularius Caspar xv s. d.",
@@ -5077,7 +5077,7 @@
     "lines": [
       {
         "latin": "Conductio familiae",
-        "translation": "[ÜBERSCHRIFT] Pacht der Familie"
+        "translation": "[ÜBERSCHRIFT] Pacht der Gesinde"
       },
       {
         "latin": "In armentaria Stras",
@@ -6122,7 +6122,7 @@
       },
       {
         "latin": "In vigilia purificationis x s. d. Item in festo purificationis pro piscibus lxx d.",
-        "translation": "In der Vigil Mariä Lichtmess 10 s. d. Ebenfalls am Fest der Reinigung für Fische 70 d."
+        "translation": "In der Vigil Mariä Lichtmess 10 s. d. Ebenfalls am Fest Mariä Lichtmess für Fische 70 d."
       },
       {
         "latin": "Feria 4 post Agathe xlv d. In die Scholastice virginis 4 s. d.",
@@ -8030,7 +8030,7 @@
       },
       {
         "latin": "Magister Lasarus dedit nobis in vigilia annuntiationis beate virginis 8 f.",
-        "translation": "Magister Lazarus gab uns am Vorabend der Verkündigung der Seligen Jungfrau 8 f."
+        "translation": "Meister Lazarus gab uns am Vorabend der Verkündigung der Seligen Jungfrau 8 f."
       },
       {
         "latin": "Idem dedit de ultima angaria 8 f. 3 s. 8 d. debet angariam trinitatis",
@@ -8298,7 +8298,7 @@
     "lines": [
       {
         "latin": "Familiae conductio",
-        "translation": "Anstellung der Familie"
+        "translation": "Anstellung der Gesinde"
       },
       {
         "latin": "Pistor leonhardus prue schinck iii lb. vi s. d.",
@@ -8662,7 +8662,7 @@
     "lines": [
       {
         "latin": "Conductio Familiae",
-        "translation": "[ÜBERSCHRIFT] Anstellung der Familie"
+        "translation": "[ÜBERSCHRIFT] Anstellung der Gesinde"
       },
       {
         "latin": "In armentaria Stras",
@@ -13427,7 +13427,7 @@
       },
       {
         "latin": "Martini pro piscibus i f. Feria 6 post martini viiii s. x d.",
-        "translation": "An Martin für Fische 1 f. Freitag nach Martini 9 s. 10 d."
+        "translation": "An Martin für Fische 1 f. Freitag nach Martin 9 s. 10 d."
       },
       {
         "latin": "Item piscatori de walchsing iii lb. lx d. quos dedit paulatim pro censu prati sibi locati",
@@ -17087,7 +17087,7 @@
       },
       {
         "latin": "Item pro 12 libris Esocis per 8 kr. facit xi s. vi d. magister Gallus solvit",
-        "translation": "Ebenfalls für 12 Pfund Hechte zu 8 kr. ergibt 11 s. 6 d. Magister Gallus bezahlte"
+        "translation": "Ebenfalls für 12 Pfund Hechte zu 8 kr. ergibt 11 s. 6 d. Meister Gallus bezahlte"
       },
       {
         "latin": "28 lb. 5 s. 27 d. 1 ob.",
@@ -18521,7 +18521,7 @@
       },
       {
         "latin": "Dedimus Sebastiano prew ex Aitenpach iii sch. tritici deterioris et i kl. sine precio pro xv f.",
-        "translation": "Wir gaben Sebastiano Prew aus Aitenpach 3 sch. tritici deterioris und 1 kl. ohne Preis für 15 f."
+        "translation": "Wir gaben Sebastiano Prew aus Aitenpach 3 sch. Weizen deterioris und 1 kl. ohne Preis für 15 f."
       },
       {
         "latin": "Item pranthuober de Gopping dedimus successive vi schaff. tritici i sch. per vi f. v s. d.",
@@ -18533,11 +18533,11 @@
       },
       {
         "latin": "Item Martino has ab aitenpach dedimus iiii sch. tritici melioris in eodem precio facit xxvi f. vi s. d.",
-        "translation": "Ebenfalls Martin Has aus Aitenpach gaben wir iiii sch. tritici melioris zum selben Preis, Summe xxvi f., vi s. d."
+        "translation": "Ebenfalls Martin Has aus Aitenpach gaben wir iiii sch. Weizen melioris zum selben Preis, Summe xxvi f., vi s. d."
       },
       {
         "latin": "Item dedimus successive Scheibmer de tetling x sch. tritici i kl. sine precio facit lxvii f. Remisimus ipsi 30 d.",
-        "translation": "Ebenfalls gaben wir Scheibmer aus Tetling sukzessive x sch. tritici, i kl. ohne Preis, Summe lxvii f., wir remisimus ipsi 30 d."
+        "translation": "Ebenfalls gaben wir Scheibmer aus Tetling sukzessive x sch. Weizen, i kl. ohne Preis, Summe lxvii f., wir remisimus ipsi 30 d."
       },
       {
         "latin": "Dedimus Sebastiano huber et Bolfgango Zinspawr pistoribus de Braunaw xxv sch. tritici et ii kl.",
@@ -18585,7 +18585,7 @@
       },
       {
         "latin": "tritici deterioris et iii kl. sine precio facit xxvi f. lx d. Item iij̸ kl. tritici per v s. d. uni rustico",
-        "translation": "Tritici deterioris et iii kl. sine precio, facit xxvi f., lx d.; item iij̸ kl. tritici per v s. d. uni rustico."
+        "translation": "Weizen deterioris et iii kl. sine precio, facit xxvi f., lx d.; item iij̸ kl. tritici per v s. d. uni rustico."
       },
       {
         "latin": "Item hospiti nostro et mercenariis v kl. tritici pro x s. d.",
@@ -18609,7 +18609,7 @@
       },
       {
         "latin": "Item recepimus ab urbano sarctore pro j̸ sch. siliginis mensure landauensis 2 f.",
-        "translation": "Item recepimus ab urbano sarctore pro j̸ sch. siliginis mensure Landauensis ii f."
+        "translation": "Item recepimus ab urbano sarctore pro j̸ sch. Roggen mensure Landauensis ii f."
       },
       {
         "latin": "Item a famulo granarii post festum purificationis pro avena ij̸ f. Summa 627 f. 17 d.",
@@ -26016,7 +26016,7 @@
       },
       {
         "latin": "Item in vigilia Sancti Jacobi a famulo granarii pro avena xii s. minus vii d. v s. d. usque Jacobi",
-        "translation": "Ebenfalls am Vorabend des Heiligen Jakobus vom Gehilfen des Kornspeichers für Hafer 12 s. weniger 7 d. 5 s. d. bis Jacobi"
+        "translation": "Ebenfalls am Vorabend des Heiligen Jakobus vom Gehilfen des Kornspeichers für Hafer 12 s. weniger 7 d. 5 s. d. bis Jakobus"
       },
       {
         "latin": "Item pro una sch. tritici a pistore nostro in walchsing circa laurentii vi f.",
@@ -26672,7 +26672,7 @@
       },
       {
         "latin": "Familiae conductio",
-        "translation": "[ÜBERSCHRIFT] Anstellung der Familie"
+        "translation": "[ÜBERSCHRIFT] Anstellung der Gesinde"
       },
       {
         "latin": "Iudex osvaldus wiels conductus xv f.",
@@ -27048,7 +27048,7 @@
       },
       {
         "latin": "Magister curie paulus reindel iii lb. vi s. d.",
-        "translation": "[ÜBERSCHRIFT] Magister der Kurie Paulus Reindel 3 lb. 6 s. d."
+        "translation": "[ÜBERSCHRIFT] Meister der Kurie Paulus Reindel 3 lb. 6 s. d."
       },
       {
         "latin": "Ascensionis domini habet i f.",
@@ -27317,7 +27317,7 @@
     "lines": [
       {
         "latin": "Familiae conductio",
-        "translation": "[ÜBERSCHRIFT] Anstellung der Familie"
+        "translation": "[ÜBERSCHRIFT] Anstellung der Gesinde"
       },
       {
         "latin": "Vietor vuolfgangus vii lb. d.",
@@ -29322,7 +29322,7 @@
       },
       {
         "latin": "Eisdem in Vigilia purificationis de 17 schaff. tritici ii lb. i s. d.",
-        "translation": "Denselben am Vorabend von Mariä Lichtmess 17 schaff. tritici 2 lb. 1 s. d."
+        "translation": "Denselben am Vorabend von Mariä Lichtmess 17 schaff. Weizen 2 lb. 1 s. d."
       },
       {
         "latin": "Trituratoribus in media area Natalis domini de xviiiij̸ sch. ii lb. v iiij̸ s. d.",

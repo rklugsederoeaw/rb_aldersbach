@@ -295,7 +295,7 @@
       },
       {
         "latin": "Item recepimus a ter a wolfhardo mayer de Karling pro xxiiiie Siliginis iii lb. lx d. solvit totum",
-        "translation": "Ebenfalls empfangen vom dritten Mal von Wolfhard Mayer von Karling für xxiiij e Siliginis iii lb. lx d. bezahlte insgesamt"
+        "translation": "Ebenfalls empfangen vom dritten Mal von Wolfhard Mayer von Karling für xxiiij e Roggen iii lb. lx d. bezahlte insgesamt"
       },
       {
         "latin": "Item recepimus a petro hüber de Swonhaim pro i sch. Siliginis xii s. d. solvit totum",
@@ -383,7 +383,7 @@
       },
       {
         "latin": "et pro ie Siliginis xxxv d. Item j̸ lb. d. pro j̸ sch. avene et xxx pro iii kubel ordei xlviii d.",
-        "translation": "und für ie Siliginis xxxv d. Item j̸ lb. d. für j̸ sch. avene und xxx für iii Kübel ordei xlviii d."
+        "translation": "und für ie Roggen xxxv d. Item j̸ lb. d. für j̸ sch. Hafer und xxx für iii Kübel Gerste xlviii d."
       },
       {
         "latin": "Item postea recepimus pro iie avene lx d. Item pro v kubel Siliginis lxxxvi d. Item recepimus pro viiie avene i lb. d. Item xx d.",
@@ -2867,7 +2867,7 @@
       },
       {
         "latin": "Item postea Cellerarius dedit eidem de xxii diebus pro finali solucione xiii s. xiii s. xxii d. Wien.",
-        "translation": "Ebenfalls gab danach der Cellerarius demselben für xxii Tage zur endgültigen Zahlung xiii s. xiii s. xxii d. Wien."
+        "translation": "Ebenfalls gab danach der Kellermeister demselben für xxii Tage zur endgültigen Zahlung xiii s. xiii s. xxii d. Wien."
       }
     ]
   },
@@ -2890,7 +2890,7 @@
       },
       {
         "latin": "totaliter eadem die Item postea Cellerarius dedit eidem de xxii diebus v s. xvii d. pro finali solucione",
-        "translation": "vollständig an demselben Tag auszahlten. Ebenfalls gab danach der Cellerarius demselben für xxii Tage v s. xvii d. zur endgültigen Lösung"
+        "translation": "vollständig an demselben Tag auszahlten. Ebenfalls gab danach der Kellermeister demselben für xxii Tage v s. xvii d. zur endgültigen Lösung"
       },
       {
         "latin": "Item cellerarius dedit eidem de iiii diebus pro finali solucione xxx d. Wien. Sabbato post Nativitatis virginis gloriose",
@@ -3013,7 +3013,7 @@
       },
       {
         "latin": "viii d. pro finali solucione Sabbato ante x milia martyrum",
-        "translation": "viii d. zur endgültigen Lösung Am Samstag vor x milia martyrum"
+        "translation": "viii d. zur endgültigen Lösung Am Samstag vor x Tausend martyrum"
       },
       {
         "latin": "martinus m",
@@ -4312,7 +4312,7 @@
       },
       {
         "latin": "Item postea recepit a cellerario in absencia nostra ie Siliginis ie tritici de anno lvio quos sibi obligamur",
-        "translation": "Ebenfalls erhielt er danach vom Cellerar in unserer Abwesenheit je iē Siliginis, je iē Tritici vom Jahr lvio, die wir ihm"
+        "translation": "Ebenfalls erhielt er danach vom Cellerar in unserer Abwesenheit je iē Roggen, je iē Weizen vom Jahr lvio, die wir ihm"
       },
       {
         "latin": "anuatim dare una cum precio suo",
@@ -6142,7 +6142,7 @@
       },
       {
         "latin": "Item ca Cellerarius dedit lxix d. Item dedimus pro sapone et Swebel xxiiii d.",
-        "translation": "Ebenfalls gab der Cellerarius lxix d. Ebenfalls gaben wir für Seife und Schwefel xxiiii d."
+        "translation": "Ebenfalls gab der Kellermeister lxix d. Ebenfalls gaben wir für Seife und Schwefel xxiiii d."
       }
     ]
   },
@@ -7358,7 +7358,7 @@
       },
       {
         "latin": "Magister Michahel carpentarius / Item dedimus eidem post computacionem iiie Siliginis",
-        "translation": "Meister Michahel, Schreiner / Ebenfalls gaben wir demselben nach der Abrechnung iiie Siliginis"
+        "translation": "Meister Michahel, Schreiner / Ebenfalls gaben wir demselben nach der Abrechnung iiie Roggen"
       },
       {
         "latin": "per cellerarium in absencia nostra que faciunt in peccunia j̸ lb. vi d. Item postea dedimus",
@@ -7505,7 +7505,7 @@
       },
       {
         "latin": "xii d. pro finali solucione dominica ante michahelis Item cellerarius dedit eidem",
-        "translation": "xii d. für die endgültige Abrechnung am Sonntag vor Michael. Ebenfalls gab der Cellerarius dem Selben."
+        "translation": "xii d. für die endgültige Abrechnung am Sonntag vor Michael. Ebenfalls gab der Kellermeister dem Selben."
       },
       {
         "latin": "super computacionem lx d. lxxv d. in vigilia Simonis et Jude",
@@ -7568,7 +7568,7 @@
       },
       {
         "latin": "lxxx d. in die ypoliti Item xii d. Item lv d. Wien. Item cellerarius dedit von",
-        "translation": "lxxx d. am Tag des Hippolyt. Ebenfalls xii d. Ebenfalls lv d. Wien. Ebenfalls gab der Cellerarius von"
+        "translation": "lxxx d. am Tag des Hippolyt. Ebenfalls xii d. Ebenfalls lv d. Wien. Ebenfalls gab der Kellermeister von"
       },
       {
         "latin": "dem hanif czefemlen iii s. d. xviii d. Idem dedit xliii d. Item postea dedimus",
@@ -7810,7 +7810,7 @@
       },
       {
         "latin": "Item lm postea dedimus valentino et sociis suis de iiij̸ sch. Siliginis v sch. tritici",
-        "translation": "Item lm postea dedimus valentino et sociis suis de iiij̸ sch. Siliginis v sch. tritici"
+        "translation": "Item lm postea dedimus valentino et sociis suis de iiij̸ sch. Roggen v sch. Weizen"
       },
       {
         "latin": "ij̸ sch. pisorum vi s. d. Sabbato post octavam Epiphanie domini / Item dedimus Johanni Hon et",
@@ -7834,7 +7834,7 @@
       },
       {
         "latin": "lme Item dedimus valentino et sociis suis de xviiij̸ sch. Siliginis et tritici",
-        "translation": "lme Item dedimus valentino et sociis suis de xviiij̸ sch. Siliginis et tritici"
+        "translation": "lme Item dedimus valentino et sociis suis de xviiij̸ sch. Roggen et Weizen"
       },
       {
         "latin": "xi s. iii d. Sabbato ante dominicam Invocavit",
@@ -8215,7 +8215,7 @@
       },
       {
         "latin": "Item dedimus eidem ii lb. d. super computacionem Item postea dedimus eidem v kubl Siliginis qui faciunt",
-        "translation": "Ebenfalls gaben wir demselben ii lb. d. über die Abrechnung. Ebenfalls danach gaben wir demselben v kubl Siliginis, welche ergeben"
+        "translation": "Ebenfalls gaben wir demselben ii lb. d. über die Abrechnung. Ebenfalls danach gaben wir demselben v kubl Roggen, welche ergeben"
       },
       {
         "latin": "vi s. d.",
@@ -9398,7 +9398,7 @@
       },
       {
         "latin": "ante petri et pauli apostolorum Item recepimus de collectis videlicet de ecclesiis parrochialibus xii s. d. in die petri et pauli",
-        "translation": "vor Petri und Paulus der Apostel Ebenfalls erhielten wir von den Kollekten, nämlich von den Pfarrkirchen xii s. d. am Tag Petri und Pauli"
+        "translation": "vor Petri und Paulus der Apostel Ebenfalls erhielten wir von den Kollekten, nämlich von den Pfarrkirchen xii s. d. am Tag Petri und Paulus"
       },
       {
         "latin": "Item recepimus de propriis hominibus in die petri et pauli xii s. xv d.",
@@ -12236,7 +12236,7 @@
       },
       {
         "latin": "virginis gloriose pro lx d. Wien. per magistrum curie solvimus sibi totum Sabbato ante agathe",
-        "translation": "Für die glorreiche Jungfrau pro lx d. Wien. per magistrum curie haben wir ihm alles am Samstag vor Agatha bezahlt."
+        "translation": "Für die glorreiche Jungfrau pro lx d. Wien. per magistrum Hof haben wir ihm alles am Samstag vor Agatha bezahlt."
       },
       {
         "latin": "Johannes famulus porcorum conductus est pro iij̸ lb. d. a festo",
@@ -13615,7 +13615,7 @@
       },
       {
         "latin": "Item postea Cellerarius dedit sibi j̸ lb. d. in absencia nostra",
-        "translation": "Ebenfalls danach gab der Cellerarius ihm j̸ lb. d. in unserer Abwesenheit"
+        "translation": "Ebenfalls danach gab der Kellermeister ihm j̸ lb. d. in unserer Abwesenheit"
       },
       {
         "latin": "Item postea dedimus eidem v lb. d. Wien. fe Sabbato post festum sancti Johannis Baptiste",
@@ -14463,7 +14463,7 @@
       },
       {
         "latin": "locavit a festo purificacionis proxime future usque ad festum purificacionis Anno lvio",
-        "translation": "verpachtet hat vom Fest Mariä Lichtmess nächstkünftig bis zum Fest der Reinigung im Jahr lvio"
+        "translation": "verpachtet hat vom Fest Mariä Lichtmess nächstkünftig bis zum Fest Mariä Lichtmess im Jahr lvio"
       },
       {
         "latin": "Acta sunt hec feria secunda post Edmundi Episcopi Anno etc. lvo conputavit nobis feria 6a ante dominicam",
@@ -14479,7 +14479,7 @@
       },
       {
         "latin": "festum purificacionis pro vii s. d. Acta sunt hec feria s dominica ante festum purificacionis",
-        "translation": "Fest Mariä Lichtmess für vii s. d. Dies geschah am Sonntag vor dem Fest der Reinigung"
+        "translation": "Fest Mariä Lichtmess für vii s. d. Dies geschah am Sonntag vor dem Fest Mariä Lichtmess"
       },
       {
         "latin": "Anno etc. lviio computavimus solvimus sibi totum de anno etc. lviio Nota censum de Anno etc.",
